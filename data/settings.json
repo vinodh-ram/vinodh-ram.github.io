@@ -1,0 +1,128 @@
+{
+    "developerSettings": {
+        "debugMode": false,
+        "fakeEmailRequests": false,
+        "stayOnThePreloaderScreen": false,
+        "version": "2.0.3"
+    },
+    "preloaderSettings": {
+        "enabled": true,
+        "title": "Vinodh <b>Ram</b>",
+        "subtitle": "Mobile Developer",
+        "logoOffset": {
+            "right": 12,
+            "top": -1,
+            "bottom": -1
+        }
+    },
+    "templateSettings": {
+        "animatedCursorEnabled": true,
+        "backgroundStyle": "animated",
+        "defaultLanguageId": "en",
+        "defaultThemeId": "dark",
+        "fullscreenEnabled": true,
+        "showSpinnerOnThemeChange": true
+    },
+    "supportedLanguages": [
+        {
+            "name": "English",
+            "id": "en",
+            "flagUrl": "images/flags/en-uk.png"
+        },
+        {
+            "name": "中文",
+            "id": "zh",
+            "flagUrl": "images/flags/zh.png"
+        },
+        {
+            "name": "हिन्दी",
+            "id": "hi",
+            "flagUrl": "images/flags/hi.png"
+        },
+        {
+            "name": "Español",
+            "id": "es",
+            "flagUrl": "images/flags/es.png"
+        },
+        {
+            "name": "العربية",
+            "id": "ar",
+            "flagUrl": "images/flags/ar-sa.svg"
+        }
+    ],
+    "supportedThemes": [
+        {
+            "id": "dark",
+            "icon": "fa-solid fa-moon",
+            "dark": true,
+            "locales": {
+                "en": {"name": "Dark Theme"},
+                "tr": {"name": "Karanlık Tema"},
+                "sv": {"name": "Mörkt Tema"},
+                "ja": {"name": "ダークテーマ"},
+                "zh": {"name": "深色主题"},
+                "hi": {"name": "डार्क थीम"},
+                "es": {"name": "Tema oscuro"},
+                "ar": {"name": "المظهر الداكن"}
+            }
+        },
+        {
+            "id": "light",
+            "icon": "fa-solid fa-snowflake",
+            "dark": false,
+            "locales": {
+                "en": {"name": "Light Theme"},
+                "tr": {"name": "Aydınlık Tema"},
+                "sv": {"name": "Ljust Tema"},
+                "ja": {"name": "ライトテーマ"},
+                "zh": {"name": "浅色主题"},
+                "hi": {"name": "लाइट थीम"},
+                "es": {"name": "Tema claro"},
+                "ar": {"name": "المظهر الفاتح"}
+            }
+        },
+        {
+            "id": "midnight",
+            "icon": "fa-solid fa-meteor",
+            "dark": true,
+            "locales": {
+                "en": {"name": "Midnight Theme"},
+                "tr": {"name": "Gece Teması"},
+                "sv": {"name": "Midnattstema"},
+                "ja": {"name": "ミッドナイト"},
+                "zh": {"name": "午夜主题"},
+                "hi": {"name": "मिडनाइट थीम"},
+                "es": {"name": "Tema de medianoche"},
+                "ar": {"name": "مظهر منتصف الليل"}
+            }
+        }
+    ],
+    "consoleMessageForDevelopers": {
+        "title": "\uD83D\uDC2C️ Hey there, fellow developer!",
+        "items": [
+            {
+                "description": "This project is a customized version of React Portfolio Template originally developed by Ryan Balieiro."
+            },
+            {
+                "description": "Original Repo:",
+                "list": ["https://github.com/vinodh-ram/react-portfolio-template"]
+            },
+            {
+                "description": "Portfolio owner: Vinodh Ram"
+            },
+            {
+                "description": "Developer Info:",
+                "list": [
+                    "GitHub: https://github.com/vinodh-ram",
+                    "Website: https://vinodh-ram.com"
+                ],
+                "listStyle": "bulleted"
+            }
+        ]
+    },
+    "imagesToCache": [
+        "images/content/pfp-dark.png",
+        "images/content/pfp-light.png",
+        "images/content/pfp-midnight.png"
+    ]
+}

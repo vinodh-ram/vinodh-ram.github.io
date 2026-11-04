@@ -1,0 +1,202 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Contact",
+                "title_short_nav": "Contact",
+                "title_long_prefix": "Don't hesitate to",
+                "title_long": "Get {{In Touch}}"
+            },
+            "tr": {
+                "title_short": "İletişim",
+                "title_short_nav": "İletişim",
+                "title_long_prefix": "Lütfen çekinmeyin",
+                "title_long": "{{Contact}} Olun"
+            },
+            "sv": {
+                "title_short": "Kontakt",
+                "title_short_nav": "Kontakt",
+                "title_long_prefix": "Tveka inte att",
+                "title_long": "{{Contact}} mig"
+            },
+            "ja": {
+                "title_short": "お問い合わせ",
+                "title_short_nav": "お問い合わせ",
+                "title_long_prefix": "お気軽に",
+                "title_long": "{{メッセージ}}を送ってください"
+            },
+            "zh": {"title_short": "联系", "title_short_nav": "联系", "title_long_prefix": "欢迎", "title_long": "与我{{联系}}"},
+            "hi": {"title_short": "संपर्क", "title_short_nav": "संपर्क", "title_long_prefix": "बेझिझक", "title_long": "{{संपर्क}} करें"},
+            "es": {"title_short": "Contacto", "title_short_nav": "Contacto", "title_long_prefix": "No dudes en", "title_long": "{{Contactar}} conmigo"},
+            "ar": {"title_short": "تواصل", "title_short_nav": "تواصل", "title_long_prefix": "لا تتردد في", "title_long": "{{التواصل}} معي"}
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleContactForm",
+            "settings": {},
+            "locales": {
+                "en": {
+                    "contact_thank_you_title": "{{Thanks}} for the contact!",
+                    "contact_thank_you_body": "Your message has been received, and I'll be reaching out to you soon. I appreciate your time and look forward to connecting with you!",
+                    "contact_thank_you_footer": "The reply will be sent to your email address: {{$email}}",
+                    "title": "Send me a {{message}}"
+                },
+                "tr": {
+                    "contact_thank_you_title": "{{İletişim}} için teşekkürler!",
+                    "contact_thank_you_body": "Mesajınız alınmıştır, en kısa sürede sizinle iletişime geçeceğim. Zaman ayırdığınız için teşekkür ederim!",
+                    "contact_thank_you_footer": "Cevap, e-posta adresinize gönderilecektir: {{$email}}",
+                    "title": "{{Bir Mesaj}} Gönderin"
+                },
+                "sv": {
+                    "contact_thank_you_title": "{{Tack}} för kontakten!",
+                    "contact_thank_you_body": "Ditt meddelande har mottagits, och jag kommer att kontakta dig snart. Jag uppskattar din tid och ser fram emot att höra från dig!",
+                    "contact_thank_you_footer": "Svaret kommer att skickas till din e-postadress: {{$email}}",
+                    "title": "Skicka mig ett {{meddelande}}"
+                },
+                "ja": {
+                    "contact_thank_you_title": "{{お問い合わせ}}ありがとうございます！",
+                    "contact_thank_you_body": "あなたのメッセージは受け取られました。すぐにご連絡いたします。お時間をいただき、ありがとうございます！",
+                    "contact_thank_you_footer": "返信はあなたのメールアドレスに送信されます: {{$email}}",
+                    "title": "{{メッセージ}}を送ってください"
+                },
+                "zh": {
+                    "contact_thank_you_title": "{{感谢}}您的联系！",
+                    "contact_thank_you_body": "我已收到您的消息，很快会与您联系。感谢您抽出时间，期待与您交流！",
+                    "contact_thank_you_footer": "回复将发送至您的电子邮件地址：{{$email}}",
+                    "title": "给我发送{{消息}}"
+                },
+                "hi": {
+                    "contact_thank_you_title": "संपर्क करने के लिए {{धन्यवाद}}!",
+                    "contact_thank_you_body": "आपका संदेश मिल गया है और मैं जल्द ही आपसे संपर्क करूँगा। समय देने के लिए धन्यवाद—आपसे जुड़ने की प्रतीक्षा है!",
+                    "contact_thank_you_footer": "जवाब आपके ईमेल पते पर भेजा जाएगा: {{$email}}",
+                    "title": "मुझे {{संदेश}} भेजें"
+                },
+                "es": {
+                    "contact_thank_you_title": "¡{{Gracias}} por contactar!",
+                    "contact_thank_you_body": "He recibido tu mensaje y me pondré en contacto contigo pronto. Gracias por tu tiempo; ¡espero que podamos hablar!",
+                    "contact_thank_you_footer": "La respuesta se enviará a tu correo electrónico: {{$email}}",
+                    "title": "Envíame un {{mensaje}}"
+                },
+                "ar": {
+                    "contact_thank_you_title": "{{شكرًا}} لتواصلك!",
+                    "contact_thank_you_body": "وصلتني رسالتك وسأتواصل معك قريبًا. أقدّر وقتك وأتطلع إلى التواصل معك!",
+                    "contact_thank_you_footer": "سيُرسل الرد إلى بريدك الإلكتروني: {{$email}}",
+                    "title": "أرسل لي {{رسالة}}"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "component": "ArticleInfoList",
+            "settings": {},
+            "locales": {
+                "en": {"title": "Or if you {{prefer...}}"},
+                "tr": {"title": "Ya da {{tercih}} ederseniz..."},
+                "sv": {"title": "Eller om du {{föredrar...}}"},
+                "ja": {"title": "{{好み}}なら..."},
+                "zh": {"title": "或者，如果你{{更愿意……}}"},
+                "hi": {"title": "या अगर आप {{पसंद करें...}}"},
+                "es": {"title": "O, si lo {{prefieres...}}"},
+                "ar": {"title": "أو إذا كنت {{تفضّل...}}"}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-solid fa-phone",
+                    "label": "+1 (123) 456-7890",
+                    "link": {
+                        "href": "tel:+1234567890",
+                        "tooltipString": "call_me"
+                    },
+                    "copyToClipboardButton": true,
+                    "locales": {
+                        "en": {"title": "Phone"},
+                        "tr": {"title": "Telefon"},
+                        "sv": {"title": "Telefon"},
+                        "ja": {"title": "電話"},
+                        "zh": {"title": "电话"},
+                        "hi": {"title": "फ़ोन"},
+                        "es": {"title": "Teléfono"},
+                        "ar": {"title": "الهاتف"}
+                    }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-envelope",
+                    "label": "mike.ozkan@live.com",
+                    "link": {
+                        "href": "mailto:mike.ozkan@live.com",
+                        "tooltipString": "email_me"
+                    },
+                    "copyToClipboardButton": true,
+                    "locales": {
+                        "en": {"title": "E-mail"},
+                        "ja": {"title": "メール"},
+                        "zh": {"title": "电子邮件"},
+                        "hi": {"title": "ईमेल"},
+                        "es": {"title": "Correo electrónico"},
+                        "ar": {"title": "البريد الإلكتروني"}
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-discord",
+                    "label": "@mikeozkan",
+                    "link": {
+                        "href": "https://discord.com/",
+                        "tooltipString": "open_website"
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {"title": "Discord"},
+                        "ja": {"title": "ディスコード"}
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-medium",
+                    "label": "@mikeozdev",
+                    "link": {
+                        "href": "https://medium.com/",
+                        "tooltipString": "open_website"
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": { "title": "Medium" },
+                        "ja": { "title": "ミディアム" }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-brands fa-linkedin",
+                    "label": "Vinodh Ram",
+                    "link": {
+                        "href": "https://www.linkedin.com/",
+                        "tooltipString": "open_website"
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": { "title": "LinkedIn" },
+                        "ja": { "title": "リンクトイン" }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-brands fa-github",
+                    "label": "@vinodh-ram",
+                    "link": {
+                        "href": "https://github.com/vinodh-ram",
+                        "tooltipString": "open_website"
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": { "title": "GitHub" },
+                        "ja": { "title": "ギットハブ" }
+                    }
+                }
+            ]
+        }
+    ]
+}

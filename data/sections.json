@@ -1,0 +1,52 @@
+{
+    "sections": [
+        {
+            "id": "home",
+            "categoryId": "profile",
+            "jsonPath": "/data/sections/home.json",
+            "faIcon": "fa-regular fa-address-card"
+        },
+        {
+            "id": "experience",
+            "categoryId": "background",
+            "jsonPath": "/data/sections/experience.json",
+            "faIcon": "pi pi-briefcase"
+        },
+        {
+            "id": "skills",
+            "categoryId": "profile",
+            "jsonPath": "/data/sections/skills.json",
+            "faIcon": "pi pi-wrench"
+        },
+        {
+            "id": "education",
+            "categoryId": "background",
+            "jsonPath": "/data/sections/education.json",
+            "faIcon": "pi pi-graduation-cap"
+        },
+        {
+            "id": "portfolio",
+            "categoryId": "showcase",
+            "jsonPath": "/data/sections/portfolio.json",
+            "faIcon": "pi pi-folder-open"
+        },
+        {
+            "id": "announcement",
+            "categoryId": "showcase",
+            "jsonPath": "/data/sections/announcement.json",
+            "faIcon": "pi pi-megaphone"
+        },
+        {
+            "id": "achievements",
+            "categoryId": "background",
+            "jsonPath": "/data/sections/achievements.json",
+            "faIcon": "pi pi-trophy"
+        },
+        {
+            "id": "contact",
+            "categoryId": "contact",
+            "jsonPath": "/data/sections/contact.json",
+            "faIcon": "fa-regular fa-envelope"
+        }
+    ]
+}

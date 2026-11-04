@@ -1,0 +1,298 @@
+{
+    "title": {
+        "locales": {
+            "en": {
+                "title_short": "Tech Stack",
+                "title_short_nav": "Tech Stack",
+                "title_long_prefix": "Explore",
+                "title_long": "My {{Tech Stack}}"
+            },
+            "tr": {
+                "title_short": "Teknoloji Yığını",
+                "title_short_nav": "Teknoloji Yığını",
+                "title_long_prefix": "Keşfet",
+                "title_long": "Benim {{Teknoloji Yığını}}"
+            },
+            "sv": {
+                "title_short": "Teknikstack",
+                "title_short_nav": "Teknikstack",
+                "title_long_prefix": "Utforska",
+                "title_long": "Min {{Teknikstack}}"
+            },
+            "ja": {
+                "title_short": "技術スタック",
+                "title_short_nav": "技術スタック",
+                "title_long_prefix": "探索",
+                "title_long": "私の{{技術スタック}}"
+            },
+            "zh": {"title_short": "技术栈", "title_short_nav": "技术栈", "title_long_prefix": "探索", "title_long": "我的{{技术栈}}"},
+            "hi": {"title_short": "तकनीकी कौशल", "title_short_nav": "तकनीकी कौशल", "title_long_prefix": "देखें", "title_long": "मेरा {{टेक स्टैक}}"},
+            "es": {"title_short": "Tecnologías", "title_short_nav": "Tecnologías", "title_long_prefix": "Explora", "title_long": "Mi {{stack tecnológico}}"},
+            "ar": {"title_short": "التقنيات", "title_short_nav": "التقنيات", "title_long_prefix": "استكشف", "title_long": "{{مجموعة تقنياتي}}"}
+        }
+    },
+    "articles": [
+        {
+            "id": 1,
+            "component": "ArticleText",
+            "locales": {},
+            "settings": {},
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/content/article-text-image-skills.png",
+                    "locales": {
+                        "en": {
+                            "text": "<p>I'm a front-end developer with a strong focus on {{mobile app development}}. My expertise lies in creating native and cross-platform applications that deliver a seamless user experience across both [[iOS]] and [[Android]] platforms.</p><p>With a solid foundation in web technologies, I leverage frameworks like [[React Native]] and [[Flutter]] to build high-performance mobile applications. [[Check out below]] a list of my tech stacks that I am familiar with and have worked with.</p>"
+                        },
+                        "tr": {
+                            "text": "<p>Ben, hem {{iOS}} hem de {{Android}} platformlarında sorunsuz bir kullanıcı deneyimi sunan yerel ve çapraz platform uygulamaları oluşturma konusunda uzmanlaşmış bir ön uç geliştiricisiyim.</p><p>Web teknolojilerinde sağlam bir temele sahip olarak, yüksek performanslı mobil uygulamalar oluşturmak için [[React Native]] ve [[Flutter]] gibi framework'leri kullanıyorum. Aşağıda, aşina olduğum ve üzerinde çalıştığım teknoloji yığınlarının bir listesini [[kontrol edin]].</p>"
+                        },
+                        "sv": {
+                            "text": "<p>Jag är en front-end utvecklare med starkt fokus på {{mobilapputveckling}}. Min expertis ligger i att skapa inbyggda och plattformsoberoende applikationer som levererar en sömlös användarupplevelse på både [[iOS]] och [[Android]] plattformar.</p><p>Med en solid grund i webbteknologier använder jag ramverk som [[React Native]] och [[Flutter]] för att bygga högpresterande mobilapplikationer. [[Kolla in nedan]] en lista över mina teknikstackar som jag är bekant med och har arbetat med.</p>"
+                        },
+                        "ja": {
+                            "text": "<p>私は、{{モバイルアプリ開発}}に強みを持つフロントエンド開発者です。ネイティブアプリとクロスプラットフォームアプリの両方で、[[iOS]]および[[Android]]向けにシームレスなユーザー体験を提供するアプリケーションの開発に取り組んでいます。</p><p>Web技術に関する確かな知識を活かし、[[React Native]]や[[Flutter]]などのフレームワークを用いて、高パフォーマンスなモバイルアプリケーションを構築しています。[[以下]]に、私が使用経験のある技術スタックを一覧で紹介しています。</p>"
+                        },
+                        "zh": {
+                            "text": "<p>我是一名前端开发者，专注于{{移动应用开发}}。我擅长创建原生和跨平台应用，为 [[iOS]] 与 [[Android]] 用户带来流畅体验。</p><p>凭借扎实的 Web 技术基础，我使用 [[React Native]] 和 [[Flutter]] 等框架构建高性能移动应用。[[下方]]列出了我熟悉并曾使用的技术栈。</p>"
+                        },
+                        "hi": {
+                            "text": "<p>मैं {{मोबाइल ऐप विकास}} पर विशेष ध्यान देने वाला फ्रंट-एंड डेवलपर हूँ। मुझे iOS और Android दोनों पर सहज अनुभव देने वाले नेटिव और क्रॉस-प्लेटफ़ॉर्म ऐप बनाने में विशेषज्ञता है।</p><p>वेब तकनीकों की मजबूत समझ के साथ, मैं उच्च-प्रदर्शन वाले मोबाइल ऐप बनाने के लिए [[React Native]] और [[Flutter]] जैसे फ़्रेमवर्क का उपयोग करता हूँ। नीचे मेरे परिचित और उपयोग किए गए तकनीकी स्टैक की सूची है।</p>"
+                        },
+                        "es": {
+                            "text": "<p>Soy desarrollador frontend y me centro especialmente en el {{desarrollo de aplicaciones móviles}}. Estoy especializado en crear aplicaciones nativas y multiplataforma con una experiencia fluida tanto en [[iOS]] como en [[Android]].</p><p>Con una sólida base en tecnologías web, utilizo frameworks como [[React Native]] y [[Flutter]] para crear aplicaciones móviles de alto rendimiento. [[A continuación]] encontrarás las tecnologías que conozco y con las que he trabajado.</p>"
+                        },
+                        "ar": {
+                            "text": "<p>أنا مطوّر واجهات أمامية أركز على {{تطوير تطبيقات الجوّال}}. أمتلك خبرة في إنشاء تطبيقات أصلية ومتعددة المنصات توفر تجربة سلسة على [[iOS]] و[[Android]].</p><p>وبفضل أساس قوي في تقنيات الويب، أستخدم أطرًا مثل [[React Native]] و[[Flutter]] لبناء تطبيقات جوّال عالية الأداء. ستجد [[أدناه]] قائمة بالتقنيات التي أعرفها وعملت بها.</p>"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Cross-Platform}} Stack"},
+                "tr": {"title": "{{Çapraz Platform}} Yığını"},
+                "sv": {"title": "{{Cross-Platform}} Stack"},
+                "ja": {"title": "{{クロスプラットフォーム}}スタック"},
+                "zh": {"title": "{{跨平台}}技术栈"},
+                "hi": {"title": "{{क्रॉस-प्लेटफ़ॉर्म}} स्टैक"},
+                "es": {"title": "Stack {{multiplataforma}}"},
+                "ar": {"title": "{{التطوير متعدد المنصات}}"}
+            },
+            "settings": {},
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": { "fill": "#61DBFB", "fillLight": "#357c8f" },
+                    "locales": { "en": { "title": "React Native" } }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-flutter",
+                    "faIconColors": { "fill": "#02569B" },
+                    "locales": { "en": { "title": "Flutter" } }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-js-square",
+                    "faIconColors": { "fill": "#f7df1e", "fillLight": "#a68732" },
+                    "locales": { "en": { "title": "JavaScript" } }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-dart-lang",
+                    "faIconColors": { "fill": "#0175C2" },
+                    "locales": { "en": { "title": "Dart" } }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-brands fa-unity",
+                    "faIconColors": { "fill": "#999", "fillLight": "#000" },
+                    "locales": { "en": { "title": "Unity" } }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-brands fa-microsoft",
+                    "faIconColors": { "fill": "#00A4EF" },
+                    "locales": { "en": { "title": "Xamarin" } }
+                },
+                {
+                    "id": 7,
+                    "faIcon": "fa-solid fa-layer-group",
+                    "faIconColors": { "fill": "#512BD4" },
+                    "locales": { "en": { "title": "Maui" } }
+                },
+                {
+                    "id": 8,
+                    "faIcon": "fa-solid fa-atom",
+                    "faIconColors": { "fill": "#6ca2cc", "fillLight": "#4581b0" },
+                    "locales": { "en": { "title": "Ionic" } }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{iOS}} Stack"},
+                "tr": {"title": "{{iOS}} Yığını"},
+                "sv": {"title": "{{iOS}} Stack"},
+                "ja": {"title": "{{iOS}}スタック"},
+                "zh": {"title": "{{iOS}} 技术栈"},
+                "hi": {"title": "तकनीकी स्टैक: {{iOS}}"},
+                "es": {"title": "Stack de {{iOS}}"},
+                "ar": {"title": "تقنيات {{iOS}}"}
+            },
+            "settings": {},
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-swift",
+                    "faIconColors": { "fill": "#bf2232" },
+                    "locales": { "en": { "title": "Swift" } }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-solid fa-mobile-screen-button",
+                    "faIconColors": { "fill": "#5856D6" },
+                    "locales": { "en": { "title": "UIKit" } }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-swift",
+                    "faIconColors": { "fill": "#007AFF" },
+                    "locales": { "en": { "title": "SwiftUI" } }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-solid fa-network-wired",
+                    "faIconColors": { "fill": "#34C759" },
+                    "locales": { "en": { "title": "Combine" } }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-solid fa-database",
+                    "faIconColors": { "fill": "#FF9500" },
+                    "locales": { "en": { "title": "Core Data" } }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "pi pi-lock fw-bold",
+                    "faIconColors": { "fill": "#999", "fillLight": "#333" },
+                    "locales": { "en": { "title": "Keychain Services" } }
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Android}} Stack"},
+                "tr": {"title": "{{Android}} Yığını"},
+                "sv": {"title": "{{Android}} Stack"},
+                "ja": {"title": "{{Android}}スタック"},
+                "zh": {"title": "{{Android}} 技术栈"},
+                "hi": {"title": "तकनीकी स्टैक: {{Android}}"},
+                "es": {"title": "Stack de {{Android}}"},
+                "ar": {"title": "تقنيات {{Android}}"}
+            },
+            "settings": {},
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-java",
+                    "faIconColors": { "fill": "#007396" },
+                    "locales": { "en": { "title": "Java" } }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-korvue",
+                    "faIconColors": { "fill": "#A97BFF" },
+                    "locales": { "en": { "title": "Kotlin" } }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-layer-group",
+                    "faIconColors": { "fill": "#FF9500" },
+                    "locales": { "en": { "title": "Jetpack Compose" } }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-android",
+                    "faIconColors": { "fill": "#3DDC84" },
+                    "locales": { "en": { "title": "Android SDK" } }
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{Additional}} Skills"},
+                "tr": {"title": "{{Ekstra}} Beceriler"},
+                "sv": {"title": "{{Ytterligare}} Färdigheter"},
+                "ja": {"title": "{{追加}}スキル"},
+                "zh": {"title": "{{其他}}技能"},
+                "hi": {"title": "{{अतिरिक्त}} कौशल"},
+                "es": {"title": "Otras {{habilidades}}"},
+                "ar": {"title": "{{مهارات}} إضافية"}
+            },
+            "settings": {},
+            "items": [
+                {
+                    "id": 1,
+                    "faIcon": "fa-brands fa-git-alt",
+                    "faIconColors": { "fill": "#F05032" },
+                    "locales": { "en": { "title": "Git" } }
+                },
+                {
+                    "id": 2,
+                    "faIcon": "fa-brands fa-docker",
+                    "faIconColors": { "fill": "#2496ED" },
+                    "locales": { "en": { "title": "Docker" } }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-brands fa-php",
+                    "faIconColors": { "fill": "#8892BF", "fillLight": "#5f6687" },
+                    "locales": { "en": { "title": "PHP" } }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-aws",
+                    "faIconColors": { "fill": "#FF9900" },
+                    "locales": { "en": { "title": "AWS" } }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-brands fa-react",
+                    "faIconColors": { "fill": "#61DBFB", "fillLight": "#357c8f" },
+                    "locales": { "en": { "title": "React" } }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-brands fa-vuejs",
+                    "faIconColors": { "fill": "#42B883" },
+                    "locales": { "en": { "title": "Vue" } }
+                },
+                {
+                    "id": 7,
+                    "faIcon": "fa-solid fa-s",
+                    "faIconColors": { "fill": "#FF3E00" },
+                    "locales": { "en": { "title": "Svelte" } }
+                },
+                {
+                    "id": 8,
+                    "faIcon": "fa-solid fa-wind",
+                    "faIconColors": { "fill": "#38BDF8" },
+                    "locales": { "en": { "title": "Tailwind" } }
+                }
+            ]
+        }
+    ]
+}

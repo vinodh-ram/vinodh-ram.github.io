@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
+  <defs>
+    <clipPath id="flag">
+      <circle cx="32" cy="32" r="32"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#flag)">
+    <path fill="#006c35" d="M0 0h64v64H0z"/>
+    <text x="32" y="27" fill="#fff" font-family="Arial,sans-serif" font-size="5" text-anchor="middle" direction="rtl">لا إله إلا الله محمد رسول الله</text>
+    <path fill="#fff" d="M13 42h37v2H13zm37 0 4-2v2l-4 2z"/>
+  </g>
+</svg>
