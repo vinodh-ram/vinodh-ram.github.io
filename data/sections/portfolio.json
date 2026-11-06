@@ -31,7 +31,7 @@
             "ar": {"title_short": "معرض الأعمال", "title_short_nav": "الأعمال", "title_long_prefix": "ألقِ نظرة على", "title_long": "{{معرض أعمالي}}"}
         }
     },
-    "articles": [
+    "articles":     [
         {
             "id": 1,
             "component": "ArticleFacts",
@@ -40,100 +40,42 @@
             "items": [
                 {
                     "id": 1,
-                    "faIcon": "fa-solid fa-tablet-screen-button",
+                    "faIcon": "fa-solid fa-calendar-check",
                     "locales": {
-                        "en": { "title": "05", "text": "Apps Developed" },
-                        "tr": { "text": "Geliştirilen Uygulamalar" },
-                        "sv": { "text": "Utvecklade Appar" },
-                        "ja": { "text": "開発されたアプリ" },
-                        "zh": {"text": "已开发的应用"},
-                        "hi": {"text": "विकसित ऐप"},
-                        "es": {"text": "Aplicaciones desarrolladas"},
-                        "ar": {"text": "تطبيقات مطوّرة"}
+                        "en": {
+                            "title": "50,000+",
+                            "text": "Monthly Transactions"
+                        }
                     }
                 },
                 {
                     "id": 2,
-                    "faIcon": "fa-solid fa-laptop-code",
+                    "faIcon": "fa-solid fa-users",
                     "locales": {
-                        "en": { "title": "250,000", "text": "Lines of Code" },
-                        "tr": { "text": "Kod Satırı" },
-                        "sv": { "text": "Kodrader" },
-                        "ja": { "text": "コード行数" },
-                        "zh": {"text": "代码行数"},
-                        "hi": {"text": "कोड की पंक्तियाँ"},
-                        "es": {"text": "Líneas de código"},
-                        "ar": {"text": "سطرًا برمجيًا"}
+                        "en": {
+                            "title": "10+",
+                            "text": "Engineers Led"
+                        }
                     }
                 },
                 {
                     "id": 3,
-                    "faIcon": "fa-solid fa-cloud-arrow-down",
+                    "faIcon": "fa-solid fa-chart-line",
                     "locales": {
-                        "en": { "title": "1,500,000", "text": "App Downloads" },
-                        "tr": { "text": "Uygulama İndirmeleri" },
-                        "sv": { "text": "Appnedladdningar" },
-                        "ja": { "text": "アプリダウンロード数" },
-                        "zh": {"text": "应用下载量"},
-                        "hi": {"text": "ऐप डाउनलोड"},
-                        "es": {"text": "Descargas de aplicaciones"},
-                        "ar": {"text": "تنزيلات التطبيقات"}
+                        "en": {
+                            "title": "30%",
+                            "text": "Faster Delivery"
+                        }
                     }
                 },
                 {
                     "id": 4,
-                    "faIcon": "fa-solid fa-star",
+                    "faIcon": "fa-solid fa-sack-dollar",
                     "locales": {
-                        "en": { "title": "4.76", "text": "Average App Rating" },
-                        "tr": { "text": "Ortalama Uygulama Puanı" },
-                        "sv": { "text": "Genomsnittligt Betyg" },
-                        "ja": { "text": "平均アプリ評価" },
-                        "zh": {"text": "应用平均评分"},
-                        "hi": {"text": "ऐप की औसत रेटिंग"},
-                        "es": {"text": "Valoración media de las apps"},
-                        "ar": {"text": "متوسط تقييم التطبيقات"}
-                    }
-                },
-                {
-                    "id": 5,
-                    "faIcon": "fa-solid fa-bug-slash",
-                    "locales": {
-                        "en": { "title": "500+", "text": "Bugs Squashed" },
-                        "tr": { "text": "Çözülen Hatalar" },
-                        "sv": { "text": "Fixade Buggar" },
-                        "ja": { "text": "修正済みバグ数" },
-                        "zh": {"text": "已修复的错误"},
-                        "hi": {"text": "ठीक किए गए बग"},
-                        "es": {"text": "Errores corregidos"},
-                        "ar": {"text": "أخطاء تم إصلاحها"}
-                    }
-                },
-                {
-                    "id": 6,
-                    "faIcon": "fa-solid fa-heart",
-                    "locales": {
-                        "en": { "title": "35", "text": "Happy Clients" },
-                        "tr": { "text": "Mutlu Müşteriler" },
-                        "sv": { "text": "Nöjda Kunder" },
-                        "ja": { "text": "満足したクライアント数" },
-                        "zh": {"text": "满意的客户"},
-                        "hi": {"text": "संतुष्ट ग्राहक"},
-                        "es": {"text": "Clientes satisfechos"},
-                        "ar": {"text": "عملاء راضون"}
-                    }
-                },
-                {
-                    "id": 7,
-                    "faIcon": "fa-solid fa-mug-hot",
-                    "locales": {
-                        "en": { "title": "100+", "text": "Cups of Coffee" },
-                        "tr": { "text": "İçilen Kahveler" },
-                        "sv": { "text": "Koppar Kaffe" },
-                        "ja": { "text": "飲んだコーヒー数" },
-                        "zh": {"text": "喝掉的咖啡"},
-                        "hi": {"text": "पी गई कॉफ़ी"},
-                        "es": {"text": "Tazas de café"},
-                        "ar": {"text": "أكواب قهوة"}
+                        "en": {
+                            "title": "$1.2M+",
+                            "text": "Annual Revenue Contribution"
+                        }
                     }
                 }
             ]
@@ -143,188 +85,62 @@
             "component": "ArticlePortfolio",
             "settings": {},
             "locales": {
-                "en": {"title":  "{{Apps}} I developed"},
-                "tr": {"title":  "Geliştirdiğim {{Uygulamalar}}"},
-                "sv": {"title":  "Utvecklade {{Appar}}"},
-                "ja": {"title":  "私が開発した{{アプリ}}"},
-                "zh": {"title": "我开发的{{应用}}"},
-                "hi": {"title": "मेरे द्वारा विकसित {{ऐप्स}}"},
-                "es": {"title": "{{Aplicaciones}} que he desarrollado"},
-                "ar": {"title": "{{تطبيقاتي}}"}
+                "en": {
+                    "title": "Selected {{Projects}}"
+                }
             },
             "items": [
                 {
                     "id": 1,
-                    "faIcon": "pi pi-truck",
-                    "faIconColors": {"bg": "#ad183e", "fill": "white"},
-                    "preview": {
-                        "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_the_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
-                        ],
-                        "screenshots": [
-                            "images/content/screenshot-food-app-1-min.jpg",
-                            "images/content/screenshot-food-app-2-min.jpg",
-                            "images/content/screenshot-food-app-3-min.jpg",
-                            "images/content/screenshot-food-app-4-min.jpg",
-                            "images/content/screenshot-food-app-5-min.jpg"
-                        ],
-                        "screenshotsAspectRatio": "9:16",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=l3SZUOuHptw"
-                    },
+                    "faIcon": "fa-solid fa-calendar-check",
                     "locales": {
                         "en": {
-                            "title": "Swiggy",
-                            "text": "A cross-platform [[food delivery app]] that allows users to order food from local restaurants and have it delivered to their doorstep, making it easy to enjoy meals at home or on the go.",
-                            "tags": ["flutter", "dart", "firebase"]
-                        },
-                        "tr": {
-                            "text": "Yerel restoranlardan yemek siparişi verip kapınıza kadar teslim almanızı sağlayan bir [[yemek siparişi uygulaması]]. Evde veya hareket halindeyken yemeklerin tadını çıkarmanızı kolaylaştırır."
-                        },
-                        "sv": {
-                            "text": "En [[matleveransapp]] som låter användare beställa mat från lokala restauranger och få den levererad till dörren, vilket gör det enkelt att njuta av måltider hemma eller på språng."
-                        },
-                        "ja": {
-                            "text": "地元のレストランから食事を注文し、玄関先まで配達してもらうことができる[[フードデリバリーアプリ]]。自宅や外出先での食事を簡単に楽しむことができます。"
-                        },
-                        "zh": {"text": "这是一款跨平台[[外卖应用]]，用户可以从本地餐厅点餐并送到家门口，轻松在家或外出时享用美食。"},
-                        "hi": {"text": "यह एक क्रॉस-प्लेटफ़ॉर्म [[फ़ूड डिलीवरी ऐप]] है, जिससे लोग स्थानीय रेस्तराँ से खाना मँगवाकर घर या बाहर आसानी से भोजन का आनंद ले सकते हैं।"},
-                        "es": {"text": "Una [[app de reparto de comida]] multiplataforma que permite pedir comida de restaurantes locales y recibirla en casa, para disfrutarla allí o donde estés."},
-                        "ar": {"text": "تطبيق متعدد المنصات [[لتوصيل الطعام]] يتيح للمستخدمين الطلب من المطاعم المحلية وتوصيل الوجبات إلى منازلهم أو الاستمتاع بها أثناء التنقل."}
+                            "title": "STX {{Cloud}}",
+                            "text": "A scalable appointment booking platform for services, classes, and packages. Designed to support 50,000+ monthly transactions with Stripe and Clover payments and 99.9% uptime.",
+                            "tags": [
+                                "Node.js",
+                                "Angular",
+                                "MySQL",
+                                "AWS",
+                                "Stripe",
+                                "Clover",
+                                "Twilio"
+                            ]
+                        }
                     }
                 },
                 {
                     "id": 2,
-                    "faIcon": "pi pi-ethereum",
-                    "faIconColors": {"bg": "#2b0d8f", "fill": "white"},
-                    "preview": {
-                        "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_the_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
-                        ],
-                        "screenshots": [
-                            "images/content/screenshot-demo-portrait-1.png",
-                            "images/content/screenshot-demo-portrait-2.png",
-                            "images/content/screenshot-demo-portrait-3.png",
-                            "images/content/screenshot-demo-portrait-4.png",
-                            "images/content/screenshot-demo-portrait-5.png",
-                            "images/content/screenshot-demo-portrait-6.png"
-                        ],
-                        "screenshotsAspectRatio": "9:16",
-                        "youtubeVideo": "https://www.youtube.com/watch?v=A7TtvOYBrgk"
-                    },
+                    "faIcon": "fa-solid fa-train",
                     "locales": {
                         "en": {
-                            "title": "EtherWallet",
-                            "text": "A secure [[Ethereum wallet app]] that allows users to manage their Ether and ERC-20 tokens, send and receive transactions, and view their transaction history.",
-                            "tags": ["blockchain", "swift", "kotlin"]
-                        },
-                        "tr": {
-                            "text": "Kullanıcıların Ether ve ERC-20 token'larını yönetmelerini, işlemler göndermelerini ve almalarını, işlem geçmişlerini görüntülemelerini sağlayan güvenli bir [[Ethereum cüzdan uygulaması]]."
-                        },
-                        "sv": {
-                            "text": "En säker [[Ethereum plånboksapp]] som gör det möjligt för användare att hantera sina Ether och ERC-20-tokens, skicka och ta emot transaktioner samt visa sin transaktionshistorik."
-                        },
-                        "ja": {
-                            "text": "ユーザーがEtherやERC-20トークンを管理し、取引の送受信や取引履歴の確認ができる安全な[[イーサリアムウォレットアプリ]]です。"
-                        },
-                        "zh": {"text": "一款安全的[[以太坊钱包应用]]，用户可以管理 Ether 和 ERC-20 代币、收发交易并查看交易记录。"},
-                        "hi": {"text": "एक सुरक्षित [[Ethereum वॉलेट ऐप]], जिससे उपयोगकर्ता Ether और ERC-20 टोकन प्रबंधित कर सकते हैं, लेन-देन भेज और प्राप्त कर सकते हैं तथा उनका इतिहास देख सकते हैं।"},
-                        "es": {"text": "Una [[app de monedero Ethereum]] segura para gestionar Ether y tokens ERC-20, enviar y recibir transacciones y consultar el historial."},
-                        "ar": {"text": "تطبيق آمن [[لمحفظة Ethereum]] يتيح إدارة Ether ورموز ERC-20 وإرسال المعاملات واستقبالها والاطلاع على سجلها."}
+                            "title": "{{TCIMApp}}",
+                            "text": "A real-time railway track-circuit monitoring and logistics application, combining train and track data with map-based visualization, dashboards, and reports.",
+                            "tags": [
+                                "Node.js",
+                                "Angular",
+                                "PostgreSQL",
+                                "Python",
+                                "Google Maps",
+                                "OpenLayers"
+                            ]
+                        }
                     }
                 },
                 {
                     "id": 3,
-                    "faIcon": "pi pi-barcode",
-                    "faIconColors": {"bg": "#1ba69f", "fill": "white"},
-                    "preview": {
-                        "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_the_app_store", "faIcon": "fa-brands fa-apple"}
-                        ],
-                        "youtubeVideo": "https://www.youtube.com/watch?v=41gW3YhFKyM"
-                    },
+                    "faIcon": "fa-solid fa-video",
                     "locales": {
                         "en": {
-                            "title": "iScan",
-                            "text": "A powerful iOS [[barcode scanning app]] that allows users to scan barcodes and QR codes, retrieve product information, and manage their inventory.",
-                            "tags": ["ios", "swift", "swiftui"]
-                        },
-                        "tr": {
-                            "text": "Kullanıcıların barkodları ve QR kodlarını taramalarına, ürün bilgilerini almalarına ve envanterlerini yönetmelerine olanak tanıyan güçlü bir iOS [[barkod tarama uygulaması]]."
-                        },
-                        "sv": {
-                            "text": "En kraftfull iOS [[streckkodsskanningsapp]] som gör det möjligt för användare att skanna streckkoder och QR-koder, hämta produktinformation och hantera sitt lager."
-                        },
-                        "ja": {
-                            "text": "ユーザーがバーコードやQRコードをスキャンし、製品情報を取得し、在庫を管理できる強力なiOS向け[[バーコードスキャンアプリ]]です。"
-                        },
-                        "zh": {"text": "一款功能强大的 iOS [[条码扫描应用]]，可扫描条形码和二维码、获取产品信息并管理库存。"},
-                        "hi": {"text": "एक शक्तिशाली iOS [[बारकोड स्कैनिंग ऐप]], जिससे बारकोड और QR कोड स्कैन किए जा सकते हैं, उत्पाद की जानकारी प्राप्त की जा सकती है और इन्वेंट्री प्रबंधित की जा सकती है।"},
-                        "es": {"text": "Una potente [[app de lectura de códigos de barras]] para iOS que escanea códigos de barras y QR, obtiene información de productos y gestiona el inventario."},
-                        "ar": {"text": "تطبيق iOS قوي [[لمسح الرموز الشريطية]] ورموز QR واسترجاع معلومات المنتجات وإدارة المخزون."}
-                    }
-                },
-                {
-                    "id": 4,
-                    "faIcon": "pi pi-microchip",
-                    "faIconColors": {"bg": "#0d8f3d", "fill": "white"},
-                    "preview": {
-                        "links": [
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
-                        ],
-                        "youtubeVideo": "https://www.youtube.com/watch?v=HB7JWlH5tNE"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "AndroidTracker",
-                            "text": "An Android [[device tracking app]] that helps users locate their lost or stolen devices, remotely lock them, and erase sensitive data. It uses Firebase for real-time tracking and notifications.",
-                            "tags": ["android", "kotlin", "firebase"]
-                        },
-                        "tr": {
-                            "text": "Kullanıcıların kaybolan veya çalınan cihazlarını bulmalarına, uzaktan kilitlemelerine ve hassas verileri silmelerine yardımcı olan bir Android [[cihaz takip uygulaması]]. Gerçek zamanlı takip ve bildirimler için Firebase kullanır."
-                        },
-                        "sv": {
-                            "text": "En Android [[enhetsspårningsapp]] som hjälper användare att lokalisera sina förlorade eller stulna enheter, låsa dem på distans och radera känslig data. Använder Firebase för spårning och aviseringar i realtid."
-                        },
-                        "ja": {
-                            "text": "ユーザーが紛失または盗難されたデバイスを見つけたり、リモートでロックしたり、機密データを消去したりできるAndroid向け[[デバイス追跡アプリ]]です。リアルタイム追跡と通知にはFirebaseを使用しています。"
-                        },
-                        "zh": {"text": "一款 Android [[设备追踪应用]]，可帮助用户定位丢失或被盗的设备、远程锁定设备并清除敏感数据。它使用 Firebase 实现实时追踪和通知。"},
-                        "hi": {"text": "एक Android [[डिवाइस ट्रैकिंग ऐप]], जो खोए या चोरी हुए डिवाइस ढूँढने, उन्हें दूर से लॉक करने और संवेदनशील डेटा मिटाने में मदद करता है। रियल-टाइम ट्रैकिंग और सूचनाओं के लिए Firebase का उपयोग करता है।"},
-                        "es": {"text": "Una [[app de seguimiento de dispositivos]] Android que permite localizar móviles perdidos o robados, bloquearlos a distancia y borrar datos sensibles. Usa Firebase para el seguimiento y las notificaciones en tiempo real."},
-                        "ar": {"text": "تطبيق Android [[لتتبّع الأجهزة]] يساعد على تحديد موقع الأجهزة المفقودة أو المسروقة وقفلها عن بُعد ومحو البيانات الحساسة. يستخدم Firebase للتتبّع والإشعارات الفورية."}
-                    }
-                },
-                {
-                    "id": 5,
-                    "faIcon": "pi pi-chart-scatter",
-                    "faIconColors": {"bg": "#cc722d", "fill": "white"},
-                    "preview": {
-                        "links": [
-                            {"href": "https://apple.com", "tooltipString": "see_on_the_app_store", "faIcon": "fa-brands fa-apple"},
-                            {"href": "https://google.com", "tooltipString": "see_on_google_play", "faIcon": "fa-brands fa-google-play"}
-                        ]
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "SVM Predictor",
-                            "text": "A machine learning [[SVM predictor app]] that uses support vector machines to predict outcomes based on user input data. It uses TensorFlow Lite for on-device inference and provides real-time predictions.",
-                            "tags": ["ai", "flutter", "dart"]
-                        },
-                        "tr": {
-                            "text": "Kullanıcı giriş verilerine dayanarak sonuçları tahmin etmek için destek vektör makineleri kullanan bir makine öğrenimi [[SVM tahmin uygulaması]]. Cihaz üzerinde çıkarım için TensorFlow Lite kullanır ve gerçek zamanlı tahminler sunar."
-                        },
-                        "sv": {
-                            "text": "En [[SVM-förutsägelseapp]] för maskininlärning som använder supportvektormaskiner för att förutsäga resultat baserat på användardata. Använder TensorFlow Lite för lokal inferens och ger realtidsprognoser."
-                        },
-                        "ja": {
-                            "text": "ユーザーの入力データに基づいて結果を予測するためにサポートベクターマシンを使用する機械学習用の[[SVM予測アプリ]]です。オンデバイス推論にはTensorFlow Liteを使用し、リアルタイム予測を提供します。"
-                        },
-                        "zh": {"text": "一款机器学习[[SVM 预测应用]]，使用支持向量机根据用户输入预测结果。它通过 TensorFlow Lite 在设备上进行推理并提供实时预测。"},
-                        "hi": {"text": "एक मशीन लर्निंग [[SVM प्रेडिक्टर ऐप]], जो उपयोगकर्ता के इनपुट के आधार पर परिणामों का अनुमान लगाने के लिए सपोर्ट वेक्टर मशीन का उपयोग करता है। यह डिवाइस पर अनुमान और रियल-टाइम परिणामों के लिए TensorFlow Lite का उपयोग करता है।"},
-                        "es": {"text": "Una [[app de predicción SVM]] que usa máquinas de vectores de soporte para predecir resultados a partir de los datos introducidos. Utiliza TensorFlow Lite para inferencias en el dispositivo y predicciones en tiempo real."},
-                        "ar": {"text": "تطبيق تعلّم آلي [[للتنبؤ باستخدام SVM]] يستعمل آلات متجهات الدعم للتنبؤ بالنتائج اعتمادًا على بيانات المستخدم. يستخدم TensorFlow Lite للاستدلال على الجهاز وتقديم توقعات فورية."}
+                            "title": "{{WGVS}}",
+                            "text": "A global video delivery platform built to support high user concurrency and seamless streaming on AWS.",
+                            "tags": [
+                                "Java",
+                                "JavaScript",
+                                "AWS",
+                                "Video Streaming"
+                            ]
+                        }
                     }
                 }
             ]

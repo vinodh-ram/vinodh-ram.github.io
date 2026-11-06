@@ -7,8 +7,8 @@
     },
     "preloaderSettings": {
         "enabled": true,
-        "title": "Vinodh <b>Ram</b>",
-        "subtitle": "Mobile Developer",
+        "title": "Vinodh <b>Ram Molli</b>",
+        "subtitle": "Strategic Tech Lead",
         "logoOffset": {
             "right": 12,
             "top": -1,
@@ -108,7 +108,7 @@
                 "list": ["https://github.com/vinodh-ram/react-portfolio-template"]
             },
             {
-                "description": "Portfolio owner: Vinodh Ram"
+                "description": "Portfolio owner: Vinodh Ram Molli"
             },
             {
                 "description": "Developer Info:",

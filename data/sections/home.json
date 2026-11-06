@@ -5,7 +5,7 @@
                 "title_short": "Cheers!",
                 "title_short_nav": "About me",
                 "title_long_prefix": "Greetings nerds...",
-                "title_long": "I'm Vinodh {{Ram!}}"
+                "title_long": "I'm Vinodh {{Ram Molli!}}"
             },
             "tr": {
                 "title_short": "Selam!",
@@ -31,7 +31,7 @@
             "ar": {"title_short": "مرحبًا!", "title_short_nav": "نبذة عني", "title_long_prefix": "أهلًا بالجميع...", "title_long": "أنا Vinodh {{Ram!}}"}
             }
         },
-    "articles": [
+    "articles":     [
         {
             "id": 1,
             "component": "ArticleInlineList",
@@ -45,37 +45,46 @@
                     "faIcon": "pi pi-map-marker",
                     "locales": {
                         "en": {
-                            "label": "Visakhapatnam – AP"
+                            "label": "India | Open to Remote Roles"
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "label": "mr.vinodhram@gmail.com",
-                    "link": {"href": "mailto:mr.vinodhram@gmail.com", "tooltipString": "email_me"},
-                    "faIcon": "fa-regular fa-envelope"
+                    "label": "+91-9985279993",
+                    "link": {
+                        "href": "tel:+919985279993",
+                        "tooltipString": "call_me"
+                    },
+                    "faIcon": "fa-solid fa-phone"
                 },
                 {
                     "id": 3,
-                    "label": "@vinodh-ram",
-                    "link": {"href": "https://github.com/vinodh-ram", "tooltipString": "see_on_github"},
-                    "faIcon": "fa-brands fa-github"
+                    "label": "mr.vinodhram@gmail.com",
+                    "link": {
+                        "href": "mailto:mr.vinodhram@gmail.com",
+                        "tooltipString": "email_me"
+                    },
+                    "faIcon": "fa-regular fa-envelope"
+                },
+                {
+                    "id": 4,
+                    "label": "LinkedIn",
+                    "link": {
+                        "href": "https://linkedin.com/in/vinodh-ram-molli",
+                        "tooltipString": "open_website"
+                    },
+                    "faIcon": "fa-brands fa-linkedin"
                 }
             ]
         },
-
         {
             "id": 2,
             "component": "ArticleText",
             "locales": {
-                "en": {"title": "{{A tiny bit}} about me..."},
-                "tr": {"title": "{{Bana dair}} kısaca..."},
-                "sv": {"title": "{{Lite om}} mig..."},
-                "ja": {"title": "{{私について}}少し..."},
-                "zh": {"title": "{{关于我}}的一点介绍..."},
-                "hi": {"title": "मेरे बारे में {{थोड़ा}}..."},
-                "es": {"title": "{{Un poco}} sobre mí..."},
-                "ar": {"title": "{{نبذة}} عني..."}
+                "en": {
+                    "title": "A little about my {{work}}"
+                }
             },
             "settings": {},
             "items": [
@@ -84,331 +93,63 @@
                     "img": "images/content/article-text-image-home.png",
                     "locales": {
                         "en": {
-                            "text": "<p>I’m a {{Mobile Developer}} with a knack for turning ideas into sleek, responsive, and high-performing apps. I specialize in building with [[Flutter]] and [[React Native]], with solid experience in [[native iOS]] (Swift) and [[Android]] (Kotlin) development when needed.</p><p>I’ve worked on everything from <em>quirky indie apps</em> to enterprise-level mobile solutions, handling UI/UX implementation, API integration, state management, and app store deployment.</p><p>I’m passionate about crafting user-friendly experiences that <strong>fit right in your pocket</strong>, and I can’t wait to help bring your next mobile idea to life!</p>"
-                        },
-                        "tr": {
-                            "text": "<p>Ben, fikirleri şık, duyarlı ve yüksek performanslı uygulamalara dönüştürme konusunda yetenekli bir {{Mobil Geliştirici}}yim. [[Flutter]] ve [[React Native]] ile uygulama geliştirmede uzmanım, gerektiğinde [[native iOS]] (Swift) ve [[Android]] (Kotlin) geliştirme konusunda da sağlam deneyimim var.</p><p>Her şeyden <em>garip bağımsız uygulamalar</em>dan kurumsal düzeyde mobil çözümlere kadar her şeyde çalıştım, UI/UX uygulaması, API entegrasyonu, durum yönetimi ve uygulama mağazası dağıtımı gibi konuları ele aldım.</p><p>Kullanıcı dostu deneyimler oluşturma konusunda tutkuluyum ve <strong>cebinize tam oturan</strong> bir sonraki mobil fikrinizi hayata geçirmeye yardımcı olmak için sabırsızlanıyorum!</p>"
-                        },
-                        "sv": {
-                            "text": "<p>Jag är en {{Mobilutvecklare}} med en talang för att förvandla idéer till eleganta, responsiva och högpresterande appar. Jag specialiserar mig på att bygga med [[Flutter]] och [[React Native]], med gedigen erfarenhet av [[native iOS]] (Swift) och [[Android]] (Kotlin) utveckling när det behövs.</p><p>Jag har arbetat med allt från <em>quirky indie-appar</em> till företagsnivå mobila lösningar, hanterat UI/UX-implementering, API-integration, tillståndshantering och appbutiksdistribution.</p><p>Jag brinner för att skapa användarvänliga upplevelser som <strong>passar perfekt i fickan</strong>, och jag ser fram emot att hjälpa till att förverkliga din nästa mobila idé!</p>"
-                        },
-                        "ja": {
-                            "text": "<p>私は、アイデアを洗練された、レスポンシブで高性能なアプリに変える才能を持つ{{モバイル開発者}}です。[[Flutter]]と[[React Native]]での開発を専門としており、必要に応じて[[native iOS]]（Swift）や[[Android]]（Kotlin）の開発にも豊富な経験があります。</p><p>私は、<em>ユニークなインディアプリ</em>からエンタープライズレベルのモバイルソリューションまで、UI/UXの実装、API統合、状態管理、アプリストアへの配信など、幅広いプロジェクトに取り組んできました。</p><p>私は、ユーザーフレンドリーな体験を作り出すことに情熱を注いでおり、<strong>あなたのポケットにぴったり合う</strong>次のモバイルアイデアを実現するお手伝いができることを楽しみにしています！</p>"
-                        },
-                        "zh": {
-                            "text": "<p>我是一名{{移动应用开发者}}，擅长将创意转化为精致、响应迅速且性能出色的应用。我专注于使用[[Flutter]]和[[React Native]]开发，也具备丰富的[[原生 iOS]]（Swift）和[[Android]]（Kotlin）开发经验。</p><p>我参与过从<em>独立创意应用</em>到企业级移动解决方案的各类项目，涵盖 UI/UX 实现、API 集成、状态管理和应用商店发布。</p><p>我热衷于打造易用的体验，让应用<strong>真正融入你的生活</strong>，期待帮助你实现下一个移动应用创意！</p>"
-                        },
-                        "hi": {
-                            "text": "<p>मैं एक {{मोबाइल डेवलपर}} हूँ, जो विचारों को आकर्षक, उत्तरदायी और तेज़ ऐप्स में बदलने में कुशल हूँ। मैं [[Flutter]] और [[React Native]] के साथ ऐप बनाने में विशेषज्ञ हूँ और ज़रूरत पड़ने पर [[native iOS]] (Swift) तथा [[Android]] (Kotlin) विकास का भी अच्छा अनुभव रखता हूँ।</p><p>मैंने <em>रचनात्मक इंडी ऐप्स</em> से लेकर एंटरप्राइज़-स्तर के मोबाइल समाधानों तक काम किया है, जिसमें UI/UX, API एकीकरण, स्टेट मैनेजमेंट और ऐप स्टोर पर रिलीज़ शामिल हैं।</p><p>मुझे उपयोगकर्ता-अनुकूल अनुभव बनाने का जुनून है, जो <strong>आपकी रोज़मर्रा की ज़िंदगी में सहजता से फिट हों</strong>। आपके अगले मोबाइल विचार को साकार करने में मदद करने के लिए उत्सुक हूँ!</p>"
-                        },
-                        "es": {
-                            "text": "<p>Soy desarrollador de {{aplicaciones móviles}} y se me da bien convertir ideas en apps atractivas, adaptables y de alto rendimiento. Me especializo en [[Flutter]] y [[React Native]], y también tengo experiencia sólida en desarrollo [[nativo para iOS]] (Swift) y [[Android]] (Kotlin).</p><p>He trabajado en proyectos que van desde <em>apps independientes originales</em> hasta soluciones móviles empresariales, ocupándome de la implementación de UI/UX, la integración de API, la gestión del estado y la publicación en tiendas de aplicaciones.</p><p>Me apasiona crear experiencias fáciles de usar que <strong>encajen en tu día a día</strong>, y estoy deseando ayudarte a hacer realidad tu próxima idea móvil.</p>"
-                        },
-                        "ar": {
-                            "text": "<p>أنا {{مطوّر تطبيقات جوّال}} أبرع في تحويل الأفكار إلى تطبيقات أنيقة وسريعة الاستجابة وعالية الأداء. أتخصص في التطوير باستخدام [[Flutter]] و[[React Native]]، ولدي خبرة قوية في تطوير [[iOS الأصلي]] باستخدام Swift و[[Android]] باستخدام Kotlin.</p><p>عملت على مشاريع متنوعة، من <em>التطبيقات المستقلة المبتكرة</em> إلى حلول الأجهزة المحمولة للمؤسسات، وشمل ذلك تنفيذ UI/UX وتكامل API وإدارة الحالة ونشر التطبيقات في المتاجر.</p><p>أحب ابتكار تجارب سهلة الاستخدام <strong>تناسب حياتك اليومية</strong>، وأتطلع إلى مساعدتك على تحويل فكرتك القادمة لتطبيق جوّال إلى واقع!</p>"
+                            "text": "<p>Strategic Tech Lead with 13+ years of experience building scalable web and mobile ecosystems with Node.js, Angular, React, and AWS. I lead cross-functional engineering teams and modernize legacy systems into high-performance microservices.</p><p>With an M.Sc. in Psychology, I bring a people-centered approach to mentoring developers, strengthening team dynamics, and improving delivery.</p>"
                         }
                     }
                 }
             ]
         },
-
         {
             "id": 3,
             "component": "ArticleInfoList",
             "locales": {
-                "en": {"title": "What {{I do}}"},
-                "tr": {"title": "Neler {{yapıyorum}}"},
-                "sv": {"title": "Vad {{jag gör}}"},
-                "ja": {"title": "私が{{すること}}"},
-                "zh": {"title": "我能{{做什么}}"},
-                "hi": {"title": "मैं {{क्या करता हूँ}}"},
-                "es": {"title": "Lo que {{hago}}"},
-                "ar": {"title": "ما الذي {{أقدّمه}}"}
+                "en": {
+                    "title": "What {{I do}}"
+                }
             },
             "settings": {},
             "items": [
                 {
                     "id": 1,
-                    "faIcon": "fa-brands fa-apple",
                     "locales": {
                         "en": {
-                            "title": "{{iOS}} Development",
-                            "text": "I can develop native iOS apps using the latest Swift features and UIKit or SwiftUI."
-                        },
-                        "tr": {
-                            "title": "{{iOS}} Geliştirme",
-                            "text": "iOS uygulamalarını en son Swift özelliklerini ve UIKit veya SwiftUI'yi kullanarak geliştirebilirim."
-                        },
-                        "sv": {
-                            "title": "{{iOS}} Utveckling",
-                            "text": "Jag kan utveckla inhemska iOS-appar med de senaste Swift-funktionerna och UIKit eller SwiftUI."
-                        },
-                        "ja": {
-                            "title": "{{iOS}}開発",
-                            "text": "最新のSwift機能とUIKitまたはSwiftUIを使用して、ネイティブiOSアプリを開発できます。"
-                        },
-                        "zh": {"title": "{{iOS}} 开发", "text": "我可以使用最新的 Swift 功能以及 UIKit 或 SwiftUI 开发原生 iOS 应用。"},
-                        "hi": {"title": "{{iOS}} विकास", "text": "मैं Swift की नवीनतम सुविधाओं और UIKit या SwiftUI का उपयोग करके नेटिव iOS ऐप बना सकता हूँ।"},
-                        "es": {"title": "Desarrollo para {{iOS}}", "text": "Puedo desarrollar apps nativas para iOS con las últimas funciones de Swift y UIKit o SwiftUI."},
-                        "ar": {"title": "تطوير {{iOS}}", "text": "أستطيع تطوير تطبيقات iOS أصلية باستخدام أحدث ميزات Swift وUIKit أو SwiftUI."}
-                    }
+                            "title": "{{Engineering Leadership}}",
+                            "text": "Leading and mentoring cross-functional teams, establishing coding standards, and improving release velocity."
+                        }
+                    },
+                    "faIcon": "fa-solid fa-people-group"
                 },
                 {
                     "id": 2,
-                    "faIcon": "fa-brands fa-android",
                     "locales": {
                         "en": {
-                            "title": "{{Android}} Development",
-                            "text": "I can develop native Android apps using modern Kotlin features and Jetpack Compose."
-                        },
-                        "tr": {
-                            "title": "{{Android}} Geliştirme",
-                            "text": "En modern Kotlin özelliklerini ve Jetpack Compose'u kullanarak yerel Android uygulamaları geliştirebilirim."
-                        },
-                        "sv": {
-                            "title": "{{Android}} Utveckling",
-                            "text": "Jag kan utveckla inhemska Android-appar med de mest moderna Kotlin-funktionerna och Jetpack Compose."
-                        },
-                        "ja": {
-                            "title": "{{Android}}開発",
-                            "text": "最新のKotlin機能とJetpack Composeを使用して、ネイティブAndroidアプリを開発できます。"
-                        },
-                        "zh": {"title": "{{Android}} 开发", "text": "我可以使用现代 Kotlin 功能和 Jetpack Compose 开发原生 Android 应用。"},
-                        "hi": {"title": "{{Android}} विकास", "text": "मैं Kotlin की आधुनिक सुविधाओं और Jetpack Compose का उपयोग करके नेटिव Android ऐप बना सकता हूँ।"},
-                        "es": {"title": "Desarrollo para {{Android}}", "text": "Puedo desarrollar apps nativas para Android con las funciones modernas de Kotlin y Jetpack Compose."},
-                        "ar": {"title": "تطوير {{Android}}", "text": "أستطيع تطوير تطبيقات Android أصلية باستخدام ميزات Kotlin الحديثة وJetpack Compose."}
-                    }
+                            "title": "{{Full-Stack Development}}",
+                            "text": "Building web and mobile applications with Angular, React, Node.js, and Java."
+                        }
+                    },
+                    "faIcon": "fa-solid fa-code"
                 },
                 {
                     "id": 3,
-                    "faIcon": "fa-brands fa-react",
                     "locales": {
                         "en": {
-                            "title": "{{React Native}} Development",
-                            "text": "I can build cross-platform apps using React Native, especially with TypeScript."
-                        },
-                        "tr": {
-                            "title": "{{React Native}} Geliştirme",
-                            "text": "React Native kullanarak, özellikle TypeScript ile, çapraz platform uygulamaları geliştirebilirim."
-                        },
-                        "sv": {
-                            "title": "{{React Native}} Utveckling",
-                            "text": "Jag kan bygga plattformsoberoende appar med React Native, särskilt med TypeScript."
-                        },
-                        "ja": {
-                            "title": "{{React Native}}開発",
-                            "text": "React Nativeを使用して、特にTypeScriptを使用してクロスプラットフォームアプリを構築できます。"
-                        },
-                        "zh": {"title": "{{React Native}} 开发", "text": "我可以使用 React Native 构建跨平台应用，尤其擅长结合 TypeScript 开发。"},
-                        "hi": {"title": "{{React Native}} विकास", "text": "मैं React Native का उपयोग करके क्रॉस-प्लेटफ़ॉर्म ऐप बना सकता हूँ, विशेषकर TypeScript के साथ।"},
-                        "es": {"title": "Desarrollo con {{React Native}}", "text": "Puedo crear apps multiplataforma con React Native, especialmente con TypeScript."},
-                        "ar": {"title": "تطوير {{React Native}}", "text": "أستطيع إنشاء تطبيقات متعددة المنصات باستخدام React Native، ولا سيما مع TypeScript."}
-                    }
+                            "title": "{{Microservices & APIs}}",
+                            "text": "Designing REST APIs and modular services to modernize legacy systems and improve scalability."
+                        }
+                    },
+                    "faIcon": "fa-solid fa-diagram-project"
                 },
                 {
                     "id": 4,
-                    "faIcon": "fa-brands fa-flutter",
                     "locales": {
                         "en": {
-                            "title": "{{Flutter}} Development",
-                            "text": "I can build cross-platform apps using Flutter. I'm a huge devotee of Dart and Flutter's ecosystem."
-                        },
-                        "tr": {
-                            "title": "{{Flutter}} Geliştirme",
-                            "text": "Flutter kullanarak çapraz platform uygulamaları geliştirebilirim."
-                        },
-                        "sv": {
-                            "title": "{{Flutter}} Utveckling",
-                            "text": "Jag kan bygga plattformsoberoende appar med Flutter. Jag är en stor beundrare av Dart och Flutters ekosystem."
-                        },
-                        "ja": {
-                            "title": "{{Flutter}}開発",
-                            "text": "Flutterを使用してクロスプラットフォームアプリを構築できます。DartとFlutterのエコシステムの大ファンです。"
-                        },
-                        "zh": {"title": "{{Flutter}} 开发", "text": "我可以使用 Flutter 构建跨平台应用。我非常喜欢 Dart 和 Flutter 生态系统。"},
-                        "hi": {"title": "{{Flutter}} विकास", "text": "मैं Flutter का उपयोग करके क्रॉस-प्लेटफ़ॉर्म ऐप बना सकता हूँ। मुझे Dart और Flutter इकोसिस्टम बहुत पसंद है।"},
-                        "es": {"title": "Desarrollo con {{Flutter}}", "text": "Puedo crear apps multiplataforma con Flutter. Me encantan Dart y el ecosistema de Flutter."},
-                        "ar": {"title": "تطوير {{Flutter}}", "text": "أستطيع إنشاء تطبيقات متعددة المنصات باستخدام Flutter، وأحب Dart ومنظومة Flutter كثيرًا."}
-                    }
-                },
-                {
-                    "id": 5,
-                    "faIcon": "fa-solid fa-code",
-                    "locales": {
-                        "en": {
-                            "title": "{{API}} Integration",
-                            "text": "I can integrate your app with RESTful APIs, Firebase or GraphQL."
-                        },
-                        "tr": {
-                            "title": "{{API}} Entegrasyonu",
-                            "text": "Uygulamanızı RESTful API'ler, Firebase veya GraphQL ile entegre edebilirim."
-                        },
-                        "sv": {
-                            "title": "{{API}} Integration",
-                            "text": "Jag kan integrera din app med RESTful API:er, Firebase eller GraphQL."
-                        },
-                        "ja": {
-                            "title": "{{API}}統合",
-                            "text": "アプリをRESTful API、Firebase、またはGraphQLと統合できます。"
-                        },
-                        "zh": {"title": "{{API}} 集成", "text": "我可以将您的应用与 RESTful API、Firebase 或 GraphQL 集成。"},
-                        "hi": {"title": "{{API}} एकीकरण", "text": "मैं आपके ऐप को RESTful API, Firebase या GraphQL से जोड़ सकता हूँ।"},
-                        "es": {"title": "Integración de {{API}}", "text": "Puedo integrar tu app con API RESTful, Firebase o GraphQL."},
-                        "ar": {"title": "تكامل {{API}}", "text": "أستطيع دمج تطبيقك مع RESTful API أو Firebase أو GraphQL."}
-                    }
-                },
-                {
-                    "id": 6,
-                    "faIcon": "fa-solid fa-cogs",
-                    "locales": {
-                        "en": {
-                            "title": "{{State}} Management",
-                            "text": "I can implement state management solutions like Redux, MobX, or Provider."
-                        },
-                        "tr": {
-                            "title": "{{State}} Yönetimi",
-                            "text": "Durum yönetimi çözümlerini Redux, MobX veya Provider gibi uygulayabilirim."
-                        },
-                        "sv": {
-                            "title": "{{State}} Management",
-                            "text": "Jag kan implementera tillståndshanteringslösningar som Redux, MobX eller Provider."
-                        },
-                        "ja": {
-                            "title": "{{状態}}管理",
-                            "text": "状態管理ソリューションをRedux、MobX、またはProviderのように実装できます。"
-                        },
-                        "zh": {"title": "{{状态}}管理", "text": "我可以实现 Redux、MobX 或 Provider 等状态管理方案。"},
-                        "hi": {"title": "{{स्टेट}} प्रबंधन", "text": "मैं Redux, MobX या Provider जैसे स्टेट मैनेजमेंट समाधान लागू कर सकता हूँ।"},
-                        "es": {"title": "Gestión del {{estado}}", "text": "Puedo implementar soluciones de gestión del estado como Redux, MobX o Provider."},
-                        "ar": {"title": "إدارة {{الحالة}}", "text": "أستطيع تطبيق حلول لإدارة الحالة مثل Redux وMobX وProvider."}
-                    }
+                            "title": "{{AWS Cloud Solutions}}",
+                            "text": "Delivering cloud-backed systems with AWS services including Lambda, S3, RDS, and EC2."
+                        }
+                    },
+                    "faIcon": "fa-brands fa-aws"
                 }
             ]
-        },
-
-        {
-            "id": 4,
-            "component": "ArticleSkills",
-            "locales": {
-                "en": {"title": "{{Languages}} I Speak"},
-                "tr": {"title": "{{Konuştuğum}} Diller"},
-                "sv": {"title": "{{Språk}} Jag Talar"},
-                "ja": {"title": "{{私が話す}}言語"}
-            },
-            "settings": {
-                "max_items_per_row": 1,
-                "max_rows_collapse_threshold": 6,
-                "order_items_by": "id",
-                "order_items_sort": "asc",
-                "round_icons": true
-            },
-            "items": [
-                {
-                    "id": 1,
-                    "img": "images/flags/en-uk.png",
-                    "locales": {
-                        "en": {
-                            "title": "English",
-                            "text": "Native speaker with a strong command of technical vocabulary.",
-                            "level": "Native"
-                        },
-                        "tr": {
-                            "title": "İngilizce",
-                            "text": "İleri düzeyde dil bilgisi ve teknik kelime dağarcığına hakimiyet.",
-                            "level": "İleri"
-                        },
-                        "sv": {
-                            "title": "English",
-                            "text": "Mellannivå i språkfärdighet med god förståelse för vardagliga och tekniska ämnen.",
-                            "level": "Mellannivå"
-                        },
-                        "ja": {
-                            "title": "英語",
-                            "text": "初級レベルで基本的な会話と読み書きができます。",
-                            "level": "初級"
-                        }
-                    }
-                },
-                {
-                    "id": 2,
-                    "img": "images/flags/tr.png",
-                    "locales": {
-                        "en": {
-                            "title": "Turkish",
-                            "text": "Advanced language skills with a strong grasp of grammar and technical vocabulary.",
-                            "level": "Advanced"
-                        },
-                        "tr": {
-                            "title": "Türkçe",
-                            "text": "İleri düzeyde dil bilgisi ve teknik kelime dağarcığına hakimiyet.",
-                            "level": "İleri"
-                        },
-                        "sv": {
-                            "title": "Turkiska",
-                            "text": "Avancerad språkkunskap med god förståelse för grammatik och tekniska termer.",
-                            "level": "Avancerad"
-                        },
-                        "ja": {
-                            "title": "トルコ語",
-                            "text": "高度な文法と専門用語の理解力があります。",
-                            "level": "上級"
-                        }
-                    }
-                },
-                {
-                    "id": 3,
-                    "img": "images/flags/sv.png",
-                    "locales": {
-                        "en": {
-                            "title": "Swedish",
-                            "text": "Intermediate proficiency with good understanding of everyday and technical topics.",
-                            "level": "Intermediate"
-                        },
-                        "tr": {
-                            "title": "İsveççe",
-                            "text": "Günlük ve teknik konulara iyi derecede hakim orta seviye dil bilgisi.",
-                            "level": "Orta"
-                        },
-                        "sv": {
-                            "title": "Svenska",
-                            "text": "Mellannivå i språkfärdighet med god förståelse för vardagliga och tekniska ämnen.",
-                            "level": "Mellannivå"
-                        },
-                        "ja": {
-                            "title": "スウェーデン語",
-                            "text": "日常会話や技術的なトピックにある程度対応できる中級レベルです。",
-                            "level": "中級"
-                        }
-                    }
-                },
-                {
-                    "id": 4,
-                    "img": "images/flags/ja.png",
-                    "locales": {
-                        "en": {
-                            "title": "Japanese",
-                            "text": "Beginner level with basic conversation and reading skills.",
-                            "level": "Beginner"
-                        },
-                        "tr": {
-                            "title": "Japonca",
-                            "text": "Temel konuşma ve okuma becerilerine sahip başlangıç seviyesi.",
-                            "level": "Başlangıç"
-                        },
-                        "sv": {
-                            "title": "Japanska",
-                            "text": "Grundläggande samtals- och läsförmåga på nybörjarnivå.",
-                            "level": "Nybörjare"
-                        },
-                        "ja": {
-                            "title": "日本語",
-                            "text": "初級レベルで基本的な会話と読み書きができます。",
-                            "level": "初級"
-                        }
-                    }
-                }
-            ]
-
         }
     ]
 }

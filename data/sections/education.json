@@ -31,7 +31,7 @@
             "ar": {"title_short": "التعليم", "title_short_nav": "التعليم", "title_long_prefix": "هذه", "title_long": "{{خلفيتي}} التعليمية"}
         }
     },
-    "articles": [
+    "articles":     [
         {
             "id": 1,
             "component": "ArticleTimeline",
@@ -39,310 +39,67 @@
                 "en": {
                     "category_all": "All",
                     "category_academic": "Academic",
-                    "category_courses": "Online Courses"
-                },
-                "tr": {
-                    "category_all": "Hepsi",
-                    "category_academic": "Akademik",
-                    "category_courses": "Çevrimiçi Kurslar"
-                },
-                "sv": {
-                    "category_all": "Alla",
-                    "category_academic": "Akademisk",
-                    "category_courses": "Onlinekurser"
-                },
-                "ja": {
-                    "category_all": "すべて",
-                    "category_academic": "学術",
-                    "category_courses": "オンラインコース"
-                },
-                "zh": {
-                    "category_all": "全部",
-                    "category_academic": "学历",
-                    "category_courses": "在线课程"
-                },
-                "hi": {
-                    "category_all": "सभी",
-                    "category_academic": "शैक्षणिक",
-                    "category_courses": "ऑनलाइन पाठ्यक्रम"
-                },
-                "es": {
-                    "category_all": "Todo",
-                    "category_academic": "Formación académica",
-                    "category_courses": "Cursos en línea"
-                },
-                "ar": {
-                    "category_all": "الكل",
-                    "category_academic": "التعليم الأكاديمي",
-                    "category_courses": "الدورات عبر الإنترنت"
+                    "category_courses": "Certifications"
                 }
             },
             "settings": {
                 "order_items_by": "dateStart",
                 "order_items_sort": "desc",
-                "categorize_by": ["category_academic", "category_courses"],
-                "max_rows_collapse_threshold": 9
+                "categorize_by": [
+                    "category_academic",
+                    "category_courses"
+                ]
             },
             "items": [
                 {
                     "id": 1,
                     "categoryId": "category_academic",
-                    "dateStart": {"year": 2011, "month": 6},
-                    "dateEnd": {"year": 2015, "month": 6},
-                    "faIcon": "fa-solid fa-chalkboard",
-                    "faIconColors": {"bgLight":"#1b506e", "fillLight": "white"},
+                    "faIcon": "fa-solid fa-brain",
                     "locales": {
                         "en": {
-                            "title": "Bachelor in {{Computer Science}}",
-                            "province": "",
-                            "country": "US",
-                            "institution": "University of San Francisco",
-                            "text": "Earned a Bachelor of Science in Computer Science, specializing in [[Software Engineering]] and [[Data Science]]. Gained hands-on experience through multiple projects and internships, strengthening my programming skills and deepening my understanding of computer systems. In 2015, I was awarded [[Best Graduation Project]] for my research on UI/UX design for mobile devices. It was a comprehensive project that involved creating a mobile application with a focus on user experience and interface design."
-                        },
-                        "tr": {
-                            "title": "{{Bilgisayar Bilimleri}} Lisans",
-                            "province": "",
-                            "country": "ABD",
-                            "institution": "San Francisco Üniversitesi",
-                            "text": "Bilgisayar Bilimleri alanında Lisans Diploması aldım, [[Yazılım Mühendisliği]] ve [[Veri Bilimi]] üzerine uzmanlaştım. Birçok proje ve staj aracılığıyla pratik deneyim kazandım, programlama becerilerimi güçlendirdim ve bilgisayar sistemleri konusundaki anlayışımı derinleştirdim. 2015 yılında, mobil cihazlar için UI/UX tasarımı üzerine yaptığım araştırma ile [[En İyi Mezuniyet Projesi]] ödülünü kazandım. Bu, kullanıcı deneyimi ve arayüz tasarımına odaklanan bir mobil uygulama oluşturmayı içeren kapsamlı bir projeydi."
-                        },
-                        "sv": {
-                            "title": "Kandidatexamen i {{Datavetenskap}}",
-                            "province": "",
-                            "country": "USA",
-                            "institution": "University of San Francisco",
-                            "text": "Avlade en kandidatexamen i datavetenskap med inriktning mot [[Programvaruteknik]] och [[Datavetenskap]]. Fick praktisk erfarenhet genom flera projekt och praktikplatser, vilket stärkte mina programmeringskunskaper och fördjupade min förståelse för datorsystem. År 2015 tilldelades jag [[Bästa examensarbete]] för min forskning om UI/UX-design för mobila enheter."
-                        },
-                        "ja": {
-                            "title": "{{コンピュータサイエンス}}の学士号",
-                            "province": "",
-                            "country": "アメリカ",
-                            "institution": "サンフランシスコ大学",
-                            "text": "コンピュータサイエンスの学士号を取得し、[[ソフトウェア工学]]と[[データサイエンス]]を専門としました。複数のプロジェクトとインターンシップを通じて実践的な経験を積み、プログラミングスキルを強化し、コンピュータシステムの理解を深めました。2015年には、モバイルデバイスのUI/UXデザインに関する研究で[[最優秀卒業プロジェクト]]賞を受賞しました。 これは、ユーザーエクスペリエンスとインターフェイスデザインに焦点を当てたモバイルアプリケーションの作成を含む包括的なプロジェクトでした。"
+                            "title": "M.Sc. in {{Psychology}}",
+                            "institution": "Dr. B. R. Ambedkar Open University",
+                            "country": "India",
+                            "text": "Master of Science in Psychology, completed in 2021."
                         }
                     }
                 },
                 {
                     "id": 2,
-                    "categoryId": "category_academic",
-                    "dateStart": {"year": 2022, "month": 3},
-                    "dateEnd": {"year": 2024, "month": 5},
-                    "faIcon": "fa-solid fa-building-columns",
-                    "faIconColors": {"bgLight":"#1b506e", "fillLight": "white"},
+                    "categoryId": "category_courses",
+                    "faIcon": "fa-solid fa-users-gear",
                     "locales": {
                         "en": {
-                            "title": "Master in {{Mobile Computing}}",
-                            "province": "Stockholm",
-                            "country": "Sweden",
-                            "institution": "KTH Royal Institute of Technology",
-                            "text": "Earned an Associate Degree with a concentration in [[Mobile App Development]]. Focused on [[Android]] and [[iOS]] programming, learning the foundations of mobile UI design and cross-platform development. My final thesis involved creating a food delivery cross-platform mobile application using [[React Native]] using advanced features like [[Redux]] for state management and [[Firebase]] for backend services. This project was recognized as one of the top 5 in my class."
-                        },
-                        "tr": {
-                            "title": "{{Mobil Bilişim}} Yüksek Lisans",
-                            "province": "Stockholm",
-                            "country": "İsveç",
-                            "institution": "KTH Kraliyet Teknoloji Enstitüsü",
-                            "text": "Mobil Uygulama Geliştirme üzerine yoğunlaşarak [[Mobil Bilişim]] alanında Yüksek Lisans Diploması aldım. [[Android]] ve [[iOS]] programlamaya odaklandım, mobil UI tasarımının temellerini ve çapraz platform geliştirmeyi öğrendim. Final tez projem, [[React Native]] kullanarak bir gıda teslimat çapraz platform mobil uygulaması geliştirmeyi içeriyordu, gelişmiş özellikler olarak [[Redux]] ile durum yönetimi ve [[Firebase]] ile arka uç hizmetleri kullandım. Bu proje sınıfımdaki en iyi 5 projeden biri olarak tanındı."
-                        },
-                        "sv": {
-                            "title": "Master i {{Mobil databehandling}}",
-                            "province": "Stockholm",
-                            "country": "Sverige",
-                            "institution": "KTH Kungliga Tekniska Högskolan",
-                            "text": "Avlade en masterexamen med inriktning mot [[Mobil apputveckling]]. Fokuserade på [[Android]] och [[iOS]] programmering, lärde mig grunderna i mobil UI-design och plattformsoberoende utveckling. Mitt examensarbete involverade att skapa en plattformsoberoende mobilapplikation för matleverans med [[React Native]], där jag använde avancerade funktioner som [[Redux]] för tillståndshantering och [[Firebase]] för backend-tjänster. Detta projekt erkändes som ett av de 5 bästa i min klass."
-                        },
-                        "ja": {
-                            "title": "{{モバイルコンピューティング}}の修士号",
-                            "province": "ストックホルム",
-                            "country": "スウェーデン",
-                            "institution": "KTH王立工科大学",
-                            "text": "モバイルアプリ開発に焦点を当てた[[モバイルコンピューティング]]の修士号を取得しました。[[Android]]と[[iOS]]プログラミングに集中し、モバイルUIデザインとクロスプラットフォーム開発の基礎を学びました。最終論文では、[[React Native]]を使用して食品配達のクロスプラットフォームモバイルアプリケーションを作成し、状態管理には[[Redux]]、バックエンドサービスには[[Firebase]]を使用しました。このプロジェクトはクラスでトップ5に選ばれました。"
+                            "title": "{{Certified Scrum Master}}",
+                            "institution": "KnowledgeHut Solutions Pvt. Ltd.",
+                            "country": "India",
+                            "text": "Certified Scrum Master (CSM), 2016. Course ID: CSMKH-1; Certificate No. CSMKH-1/101."
                         }
                     }
                 },
                 {
                     "id": 3,
-                    "categoryId": "category_courses",
-                    "dateStart": {"year": 2016, "month": 7},
-                    "dateEnd": {"year": 2016, "month": 9},
-                    "faIcon": "fa-brands fa-android",
-                    "faIconColors": {"bgLight":"#1b506e", "fillLight": "white"},
+                    "categoryId": "category_academic",
+                    "faIcon": "fa-solid fa-graduation-cap",
                     "locales": {
                         "en": {
-                            "title": "{{Android App Development}} Specialization",
-                            "province": "",
-                            "country": "Online",
-                            "institution": "Harvard University",
-                            "text": "Completed a specialization covering [[Android development]] using Java and Kotlin via Coursera. Learned to:",
-                            "list": [
-                                "Build responsive and performant apps following [[Material Design]] guidelines",
-                                "Implement features like location services, notifications, and data storage",
-                                "Develop several projects including a weather app and a task manager to apply learned concepts",
-                                "Understand best practices for Android app architecture and testing"
-                            ]
-                        },
-                        "tr": {
-                            "title": "{{Android Uygulama}} Geliştirme Uzmanlığı",
-                            "province": "",
-                            "country": "Çevrimiçi",
-                            "institution": "Harvard Üniversitesi",
-                            "text": "Coursera aracılığıyla Java ve Kotlin kullanarak [[Android geliştirme]] üzerine bir uzmanlık programını tamamladım. Şunları öğrendim: ",
-                            "list": [
-                                "[[Material Design]] yönergelerine uygun olarak duyarlı ve performanslı uygulamalar oluşturma",
-                                "Konum hizmetleri, bildirimler ve veri depolama gibi özellikleri uygulama",
-                                "Öğrenilen kavramları uygulamak için hava durumu uygulaması ve görev yöneticisi gibi birkaç proje geliştirme",
-                                "Android uygulama mimarisi ve testleri için en iyi uygulamaları anlama"
-                            ]
-                        },
-                        "sv": {
-                            "title": "Specialisering i {{Android apputveckling}}",
-                            "province": "",
-                            "country": "Online",
-                            "institution": "Harvard University",
-                            "text": "Slutförde en specialisering som täcker [[Android-utveckling]] med Java och Kotlin via Coursera. Lärde mig att: ",
-                            "list": [
-                                "Bygga responsiva och prestandaoptimerade appar enligt [[Material Design]]-riktlinjer",
-                                "Implementera funktioner som platsbaserade tjänster, aviseringar och datalagring",
-                                "Utveckla flera projekt inklusive en väderapp och en uppgiftshanterare för att tillämpa inlärda koncept",
-                                "Förstå bästa praxis för Android-apparkitektur och testning"
-                            ]
-                        },
-                        "ja": {
-                            "title": "{{Androidアプリ開発}}の専門化",
-                            "province": "",
-                            "country": "オンライン",
-                            "institution": "ハーバード大学",
-                            "text": "Courseraを通じて、JavaとKotlinを使用した[[Android開発]]の専門化を完了しました。以下のことを学びました: ",
-                            "list": [
-                                "[[Material Design]]ガイドラインに従って、レスポンシブでパフォーマンスの高いアプリを構築する",
-                                "位置情報サービス、通知、データストレージなどの機能を実装する",
-                                "学んだ概念を適用するために、天気アプリやタスクマネージャーなどのプロジェクトをいくつか開発する",
-                                "Androidアプリのアーキテクチャとテストのベストプラクティスを理解する"
-                            ]
+                            "title": "Master of {{Computer Applications}}",
+                            "institution": "NB Science College, Osmania University",
+                            "country": "India",
+                            "text": "Master of Computer Applications (MCA), completed in 2011."
                         }
                     }
                 },
                 {
                     "id": 4,
-                    "categoryId": "category_courses",
-                    "dateStart": {"year": 2022, "month": 1},
-                    "dateEnd": {"year": 2022, "month": 3},
-                    "faIcon": "fa-brands fa-apple",
-                    "faIconColors": {"bgLight":"#1b506e", "fillLight": "white"},
+                    "categoryId": "category_academic",
+                    "faIcon": "fa-solid fa-graduation-cap",
                     "locales": {
                         "en": {
-                            "title": "{{iOS App Development}} with Swift",
-                            "province": "",
-                            "country": "US",
-                            "institution": "University of Pittsburgh",
-                            "text": "Learned how to develop native [[iOS apps]] from scratch using Swift and Xcode. Covered topics like:",
-                            "list": [
-                                "Swift programming fundamentals",
-                                "UIKit and SwiftUI for UI design",
-                                "Networking with URLSession and Alamofire",
-                                "Data persistence with Core Data and UserDefaults"
-                            ]
-                        },
-                        "tr": {
-                            "title": "Swift ile {{iOS Uygulama Geliştirme}}",
-                            "province": "",
-                            "country": "ABD",
-                            "institution": "Pittsburgh Üniversitesi",
-                            "text": "Swift ve Xcode kullanarak sıfırdan yerel [[iOS uygulamaları]] geliştirmeyi öğrendim. Şunlar gibi konuları kapsadım: ",
-                            "list": [
-                                "Swift programlama temelleri",
-                                "UI tasarımı için UIKit ve SwiftUI",
-                                "URLSession ve Alamofire ile ağ iletişimi",
-                                "Core Data ve UserDefaults ile veri kalıcılığı"
-                            ]
-                        },
-                        "sv": {
-                            "title": "{{iOS Apputveckling}} med Swift",
-                            "province": "",
-                            "country": "USA",
-                            "institution": "University of Pittsburgh",
-                            "text": "Lärde mig att utveckla inhemska [[iOS-appar]] från grunden med Swift och Xcode. Täckte ämnen som: ",
-                            "list": [
-                                "Grunderna i Swift-programmering",
-                                "UIKit och SwiftUI för UI-design",
-                                "Nätverkshantering med URLSession och Alamofire",
-                                "Databevarande med Core Data och UserDefaults"
-                            ]
-                        },
-                        "ja": {
-                            "title": "Swiftを使用した{{iOSアプリ開発}}",
-                            "province": "",
-                            "country": "アメリカ",
-                            "institution": "ピッツバーグ大学",
-                            "text": "SwiftとXcodeを使用して、ゼロからネイティブ[[iOSアプリ]]を開発する方法を学びました。以下のトピックをカバーしました: ",
-                            "list": [
-                                "Swiftプログラミングの基礎",
-                                "UIデザインのためのUIKitとSwiftUI",
-                                "URLSessionとAlamofireを使用したネットワーキング",
-                                "Core DataとUserDefaultsを使用したデータ永続化"
-                            ]
-                        }
-                    }
-                },
-                {
-                    "id": 5,
-                    "categoryId": "category_courses",
-                    "dateStart": {"year": 2023, "month": 12},
-                    "dateEnd": {"year": 2024, "month": 5},
-                    "faIcon": "fa-brands fa-flutter",
-                    "faIconColors": {"bgLight":"#1b506e", "fillLight": "white"},
-                    "locales": {
-                        "en": {
-                            "title": "{{Flutter & Dart}} – The Complete Guide",
-                            "province": "",
-                            "country": "Online",
-                            "institution": "Udemy",
-                            "text": "Gained expertise in building cross-platform mobile apps using [[Flutter]] and [[Dart]]. Some key topics included: ",
-                            "list": [
-                                "State management with Provider and Riverpod",
-                                "Networking with Dio and GraphQL",
-                                "Database integration with Hive and SQLite",
-                                "Animations and custom UI components"
-                            ]
-                        },
-                        "tr": {
-                            "title": "{{Flutter & Dart}} – Tam Kılavuz",
-                            "province": "",
-                            "country": "Çevrimiçi",
-                            "institution": "Udemy",
-                            "text": "Çapraz platform mobil uygulamalar geliştirme konusunda uzmanlık kazandım, [[Flutter]] ve [[Dart]] kullanarak. Bazı önemli konular şunlardı: ",
-                            "list": [
-                                "Provider ve Riverpod ile durum yönetimi",
-                                "Dio ve GraphQL ile ağ iletişimi",
-                                "Hive ve SQLite ile veritabanı entegrasyonu",
-                                "Animasyonlar ve özel UI bileşenleri"
-                            ]
-                        },
-                        "sv": {
-                            "title": "{{Flutter & Dart}} – Den kompletta guiden",
-                            "province": "",
-                            "country": "Online",
-                            "institution": "Udemy",
-                            "text": "Fick expertis i att bygga plattformsoberoende mobilappar med [[Flutter]] och [[Dart]]. Några viktiga ämnen inkluderade: ",
-                            "list": [
-                                "Tillståndshantering med Provider och Riverpod",
-                                "Nätverkshantering med Dio och GraphQL",
-                                "Databasintegration med Hive och SQLite",
-                                "Animationer och anpassade UI-komponenter"
-                            ]
-                        },
-                        "ja": {
-                            "title": "{{Flutter & Dart}} – 完全ガイド",
-                            "province": "",
-                            "country": "オンライン",
-                            "institution": "Udemy",
-                            "text": "クロスプラットフォームのモバイルアプリを[[Flutter]]と[[Dart]]を使用して構築する専門知識を得ました。主なトピックは以下の通りです: ",
-                            "list": [
-                                "ProviderとRiverpodを使用した状態管理",
-                                "DioとGraphQLを使用したネットワーキング",
-                                "HiveとSQLiteを使用したデータベース統合",
-                                "アニメーションとカスタムUIコンポーネント"
-                            ]
+                            "title": "Bachelor of {{Science}}",
+                            "institution": "Andhra University",
+                            "country": "India",
+                            "text": "Bachelor of Science (B.Sc.), completed in 2007."
                         }
                     }
                 }

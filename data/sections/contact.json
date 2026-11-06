@@ -25,10 +25,30 @@
                 "title_long_prefix": "お気軽に",
                 "title_long": "{{メッセージ}}を送ってください"
             },
-            "zh": {"title_short": "联系", "title_short_nav": "联系", "title_long_prefix": "欢迎", "title_long": "与我{{联系}}"},
-            "hi": {"title_short": "संपर्क", "title_short_nav": "संपर्क", "title_long_prefix": "बेझिझक", "title_long": "{{संपर्क}} करें"},
-            "es": {"title_short": "Contacto", "title_short_nav": "Contacto", "title_long_prefix": "No dudes en", "title_long": "{{Contactar}} conmigo"},
-            "ar": {"title_short": "تواصل", "title_short_nav": "تواصل", "title_long_prefix": "لا تتردد في", "title_long": "{{التواصل}} معي"}
+            "zh": {
+                "title_short": "联系",
+                "title_short_nav": "联系",
+                "title_long_prefix": "欢迎",
+                "title_long": "与我{{联系}}"
+            },
+            "hi": {
+                "title_short": "संपर्क",
+                "title_short_nav": "संपर्क",
+                "title_long_prefix": "बेझिझक",
+                "title_long": "{{संपर्क}} करें"
+            },
+            "es": {
+                "title_short": "Contacto",
+                "title_short_nav": "Contacto",
+                "title_long_prefix": "No dudes en",
+                "title_long": "{{Contactar}} conmigo"
+            },
+            "ar": {
+                "title_short": "تواصل",
+                "title_short_nav": "تواصل",
+                "title_long_prefix": "لا تتردد في",
+                "title_long": "{{التواصل}} معي"
+            }
         }
     },
     "articles": [
@@ -92,108 +112,75 @@
             "component": "ArticleInfoList",
             "settings": {},
             "locales": {
-                "en": {"title": "Or if you {{prefer...}}"},
-                "tr": {"title": "Ya da {{tercih}} ederseniz..."},
-                "sv": {"title": "Eller om du {{föredrar...}}"},
-                "ja": {"title": "{{好み}}なら..."},
-                "zh": {"title": "或者，如果你{{更愿意……}}"},
-                "hi": {"title": "या अगर आप {{पसंद करें...}}"},
-                "es": {"title": "O, si lo {{prefieres...}}"},
-                "ar": {"title": "أو إذا كنت {{تفضّل...}}"}
+                "en": {
+                    "title": "Or if you {{prefer...}}"
+                },
+                "tr": {
+                    "title": "Ya da {{tercih}} ederseniz..."
+                },
+                "sv": {
+                    "title": "Eller om du {{föredrar...}}"
+                },
+                "ja": {
+                    "title": "{{好み}}なら..."
+                },
+                "zh": {
+                    "title": "或者，如果你{{更愿意……}}"
+                },
+                "hi": {
+                    "title": "या अगर आप {{पसंद करें...}}"
+                },
+                "es": {
+                    "title": "O, si lo {{prefieres...}}"
+                },
+                "ar": {
+                    "title": "أو إذا كنت {{تفضّل...}}"
+                }
             },
             "items": [
                 {
                     "id": 1,
                     "faIcon": "fa-solid fa-phone",
-                    "label": "+1 (123) 456-7890",
+                    "label": "+91-9985279993",
                     "link": {
-                        "href": "tel:+1234567890",
+                        "href": "tel:+919985279993",
                         "tooltipString": "call_me"
                     },
                     "copyToClipboardButton": true,
                     "locales": {
-                        "en": {"title": "Phone"},
-                        "tr": {"title": "Telefon"},
-                        "sv": {"title": "Telefon"},
-                        "ja": {"title": "電話"},
-                        "zh": {"title": "电话"},
-                        "hi": {"title": "फ़ोन"},
-                        "es": {"title": "Teléfono"},
-                        "ar": {"title": "الهاتف"}
+                        "en": {
+                            "title": "Phone"
+                        }
                     }
                 },
                 {
                     "id": 2,
                     "faIcon": "fa-solid fa-envelope",
-                    "label": "mike.ozkan@live.com",
+                    "label": "mr.vinodhram@gmail.com",
                     "link": {
-                        "href": "mailto:mike.ozkan@live.com",
+                        "href": "mailto:mr.vinodhram@gmail.com",
                         "tooltipString": "email_me"
                     },
                     "copyToClipboardButton": true,
                     "locales": {
-                        "en": {"title": "E-mail"},
-                        "ja": {"title": "メール"},
-                        "zh": {"title": "电子邮件"},
-                        "hi": {"title": "ईमेल"},
-                        "es": {"title": "Correo electrónico"},
-                        "ar": {"title": "البريد الإلكتروني"}
+                        "en": {
+                            "title": "E-mail"
+                        }
                     }
                 },
                 {
                     "id": 3,
-                    "faIcon": "fa-brands fa-discord",
-                    "label": "@mikeozkan",
-                    "link": {
-                        "href": "https://discord.com/",
-                        "tooltipString": "open_website"
-                    },
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": {"title": "Discord"},
-                        "ja": {"title": "ディスコード"}
-                    }
-                },
-                {
-                    "id": 4,
-                    "faIcon": "fa-brands fa-medium",
-                    "label": "@mikeozdev",
-                    "link": {
-                        "href": "https://medium.com/",
-                        "tooltipString": "open_website"
-                    },
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": { "title": "Medium" },
-                        "ja": { "title": "ミディアム" }
-                    }
-                },
-                {
-                    "id": 5,
                     "faIcon": "fa-brands fa-linkedin",
-                    "label": "Vinodh Ram",
+                    "label": "linkedin.com/in/vinodh-ram-molli",
                     "link": {
-                        "href": "https://www.linkedin.com/",
+                        "href": "https://linkedin.com/in/vinodh-ram-molli",
                         "tooltipString": "open_website"
                     },
                     "copyToClipboardButton": false,
                     "locales": {
-                        "en": { "title": "LinkedIn" },
-                        "ja": { "title": "リンクトイン" }
-                    }
-                },
-                {
-                    "id": 6,
-                    "faIcon": "fa-brands fa-github",
-                    "label": "@vinodh-ram",
-                    "link": {
-                        "href": "https://github.com/vinodh-ram",
-                        "tooltipString": "open_website"
-                    },
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": { "title": "GitHub" },
-                        "ja": { "title": "ギットハブ" }
+                        "en": {
+                            "title": "LinkedIn"
+                        }
                     }
                 }
             ]
