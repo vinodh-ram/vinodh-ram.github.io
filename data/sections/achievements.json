@@ -93,11 +93,11 @@
                         "en": {
                             "title": "{{Spot Award}}",
                             "institution": "Cognizant",
-                            "text": "Recognized for the success of TCIMApp at the RSSI exhibition."
+                            "text": "Recognized for the success of TCIM App at the RSSI exhibition."
                         },
                         "te": {
                             "title": "{{స్పాట్ అవార్డ్}}",
-                            "text": "RSSI ప్రదర్శనలో TCIMApp విజయానికి గుర్తింపు పొందాను."
+                            "text": "RSSI ప్రదర్శనలో TCIM App విజయానికి గుర్తింపు పొందాను."
                         }
                     }
                 },
@@ -108,11 +108,11 @@
                         "en": {
                             "title": "{{Shining Star Award}}",
                             "institution": "Cognizant",
-                            "text": "Recognized for the rapid and successful deployment of TCIMApp."
+                            "text": "Recognized for the rapid and successful deployment of TCIM App."
                         },
                         "te": {
                             "title": "{{షైనింగ్ స్టార్ అవార్డ్}}",
-                            "text": "TCIMAppను వేగంగా, విజయవంతంగా డిప్లాయ్ చేసినందుకు గుర్తింపు పొందాను."
+                            "text": "TCIM Appను వేగంగా, విజయవంతంగా డిప్లాయ్ చేసినందుకు గుర్తింపు పొందాను."
                         }
                     }
                 },
@@ -143,45 +143,6 @@
                         "te": {
                             "title": "{{ప్రశంసా పురస్కారం}}",
                             "text": "వీడియో ఎడిటింగ్, అప్‌లోడ్, ప్రచురణ పనివిధానాల్లో మెరుగుదలలకు గుర్తింపు పొందాను."
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "component": "ArticleCards",
-            "settings": {},
-            "locales": {
-                "en": {
-                    "title": "{{Certification}}"
-                },
-                "tr": {
-                    "title": "Sertifikalar"
-                },
-                "sv": {
-                    "title": "Certifieringar"
-                },
-                "ja": {
-                    "title": "認定"
-                },
-                "te": {
-                    "title": "{{ధృవీకరణ}}"
-                }
-            },
-            "items": [
-                {
-                    "id": 1,
-                    "faIcon": "fa-solid fa-users-gear",
-                    "locales": {
-                        "en": {
-                            "title": "Certified {{Scrum Master}}",
-                            "institution": "KnowledgeHut Solutions Pvt. Ltd.",
-                            "text": "Certified Scrum Master, 2016. Course ID: CSMKH-1; Certificate No. CSMKH-1/101."
-                        },
-                        "te": {
-                            "title": "సర్టిఫైడ్ {{స్క్రమ్ మాస్టర్}}",
-                            "text": "2016లో సర్టిఫైడ్ స్క్రమ్ మాస్టర్ ధృవీకరణ పొందాను. కోర్సు ID: CSMKH-1; సర్టిఫికేట్ నం.: CSMKH-1/101."
                         }
                     }
                 }

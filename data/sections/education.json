@@ -86,17 +86,22 @@
                     "id": 1,
                     "categoryId": "category_academic",
                     "faIcon": "fa-solid fa-brain",
+                    "dateStart": {"year": 2019, "month": 8},
+                    "dateEnd": {"year": 2021, "month": 9},
                     "locales": {
                         "en": {
                             "title": "M.Sc. in {{Psychology}}",
                             "institution": "Dr. B. R. Ambedkar Open University",
+                            "province": "Hyderabad",
                             "country": "India",
-                            "text": "Master of Science in Psychology, completed in 2021."
+                            "text": "Completed a Master of Science in Psychology, developing a deeper understanding of human behavior and psychological principles. The program strengthened my ability to consider people, motivation, and well-being from different perspectives."
                         },
                         "te": {
                             "title": "సైకాలజీలో {{ఎం.ఎస్‌సి.}}",
+                            "institution": "డా. బి. ఆర్. అంబేద్కర్ ఓపెన్ యూనివర్సిటీ",
+                            "province": "హైదరాబాద్",
                             "country": "భారతదేశం",
-                            "text": "డాక్టర్ బి.ఆర్. అంబేద్కర్ ఓపెన్ యూనివర్సిటీలో 2021లో సైకాలజీలో మాస్టర్ ఆఫ్ సైన్స్ పూర్తి చేశాను."
+                            "text": "సైకాలజీలో మాస్టర్ ఆఫ్ సైన్స్ పూర్తి చేసి, మానవ ప్రవర్తన మరియు మానసిక సూత్రాలపై లోతైన అవగాహన పెంపొందించుకున్నాను. వ్యక్తులు, ప్రేరణ, శ్రేయస్సును విభిన్న కోణాల్లో అర్థం చేసుకునే సామర్థ్యాన్ని ఈ చదువు బలోపేతం చేసింది."
                         }
                     }
                 },
@@ -104,17 +109,22 @@
                     "id": 2,
                     "categoryId": "category_courses",
                     "faIcon": "fa-solid fa-users-gear",
+                    "dateStart": {"year": 2016, "month": 8},
+                    "dateEnd": {"year": 2016, "month": 8},
                     "locales": {
                         "en": {
                             "title": "{{Certified Scrum Master}}",
                             "institution": "KnowledgeHut Solutions Pvt. Ltd.",
+                            "province": "Hyderabad",
                             "country": "India",
-                            "text": "Certified Scrum Master (CSM), 2016. Course ID: CSMKH-1; Certificate No. CSMKH-1/101."
+                            "text": "Completed Certified Scrum Master training and earned the CSM credential in 2016. The course introduced the Scrum framework and the Scrum Master's role in helping teams collaborate, work iteratively, and continuously improve. Course ID: CSMKH-1; Certificate No. CSMKH-1/101."
                         },
                         "te": {
                             "title": "{{సర్టిఫైడ్ స్క్రమ్ మాస్టర్}}",
+                            "institution": "KnowledgeHut Solutions Pvt. Ltd.",
+                            "province": "హైదరాబాద్",
                             "country": "భారతదేశం",
-                            "text": "KnowledgeHutలో 2016లో సర్టిఫైడ్ స్క్రమ్ మాస్టర్ (CSM) ధృవీకరణ పొందాను. కోర్సు ID: CSMKH-1; సర్టిఫికేట్ నం.: CSMKH-1/101."
+                            "text": "2016లో సర్టిఫైడ్ స్క్రమ్ మాస్టర్ శిక్షణ పూర్తి చేసి CSM ధృవీకరణ పొందాను. ఈ కోర్సు స్క్రమ్ ఫ్రేమ్‌వర్క్‌ను మరియు బృందాలు కలిసి పనిచేయడం, దశలవారీగా పని చేయడం, నిరంతరం మెరుగుపడటంలో స్క్రమ్ మాస్టర్ పాత్రను పరిచయం చేసింది. కోర్సు ID: CSMKH-1; సర్టిఫికేట్ నం.: CSMKH-1/101."
                         }
                     }
                 },
@@ -122,17 +132,22 @@
                     "id": 3,
                     "categoryId": "category_academic",
                     "faIcon": "fa-solid fa-graduation-cap",
+                    "dateStart": {"year": 2008, "month": 8},
+                    "dateEnd": {"year": 2011, "month": 6},
                     "locales": {
                         "en": {
                             "title": "Master of {{Computer Applications}}",
                             "institution": "NB Science College, Osmania University",
+                            "province": "Hyderabad",
                             "country": "India",
-                            "text": "Master of Computer Applications (MCA), completed in 2011."
+                            "text": "Completed a Master of Computer Applications, building a strong foundation in computer applications and software development. The program developed my understanding of programming, databases, and the design of practical computing solutions."
                         },
                         "te": {
                             "title": "మాస్టర్ ఆఫ్ {{కంప్యూటర్ అప్లికేషన్స్}}",
+                            "institution": "NB సైన్స్ కాలేజ్, ఉస్మానియా యూనివర్సిటీ",
+                            "province": "హైదరాబాద్",
                             "country": "భారతదేశం",
-                            "text": "ఒస్మానియా యూనివర్సిటీకి చెందిన NB సైన్స్ కాలేజీలో 2011లో MCA పూర్తి చేశాను."
+                            "text": "మాస్టర్ ఆఫ్ కంప్యూటర్ అప్లికేషన్స్ పూర్తి చేసి, కంప్యూటర్ అప్లికేషన్లు మరియు సాఫ్ట్‌వేర్ అభివృద్ధిలో బలమైన పునాది ఏర్పరచుకున్నాను. ప్రోగ్రామింగ్, డేటాబేస్‌లు, ఆచరణాత్మక కంప్యూటింగ్ పరిష్కారాల రూపకల్పనపై నా అవగాహనను ఈ చదువు అభివృద్ధి చేసింది."
                         }
                     }
                 },
@@ -140,17 +155,22 @@
                     "id": 4,
                     "categoryId": "category_academic",
                     "faIcon": "fa-solid fa-graduation-cap",
+                    "dateStart": {"year": 2004, "month": 3},
+                    "dateEnd": {"year": 2008, "month": 3},
                     "locales": {
                         "en": {
                             "title": "Bachelor of {{Science}}",
-                            "institution": "Andhra University",
+                            "institution": "AMAL College, Andhra University",
+                            "province": "Visakhapatnam",
                             "country": "India",
-                            "text": "Bachelor of Science (B.Sc.), completed in 2007."
+                            "text": "Completed a Bachelor of Science at AMAL College, affiliated with Andhra University. The degree provided a broad scientific foundation and strengthened my analytical thinking, curiosity, and problem-solving skills. Graduated in 2008."
                         },
                         "te": {
                             "title": "బ్యాచిలర్ ఆఫ్ {{సైన్స్}}",
+                            "institution": "AMAL కాలేజ్, ఆంధ్ర యూనివర్సిటీ",
+                            "province": "విశాఖపట్నం",
                             "country": "భారతదేశం",
-                            "text": "ఆంధ్ర యూనివర్సిటీలో 2007లో B.Sc. పూర్తి చేశాను."
+                            "text": "ఆంధ్ర యూనివర్సిటీకి అనుబంధమైన AMAL కాలేజీలో బ్యాచిలర్ ఆఫ్ సైన్స్ పూర్తి చేశాను. ఈ డిగ్రీ విస్తృతమైన శాస్త్రీయ పునాదిని అందించి, విశ్లేషణాత్మక ఆలోచన, జిజ్ఞాస, సమస్య పరిష్కార నైపుణ్యాలను బలోపేతం చేసింది. 2008లో పట్టా పొందాను."
                         }
                     }
                 }

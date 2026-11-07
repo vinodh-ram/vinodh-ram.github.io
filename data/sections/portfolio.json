@@ -136,10 +136,20 @@
                 {
                     "id": 1,
                     "faIcon": "fa-solid fa-calendar-check",
+                    "faIconColors": {"bg": "#0F766E", "bgLight": "#0F766E", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://stxsoftware.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-globe"
+                            }
+                        ]
+                    },
                     "locales": {
                         "en": {
                             "title": "STX {{Cloud}}",
-                            "text": "A scalable appointment booking platform for services, classes, and packages. Designed to support 50,000+ monthly transactions with Stripe and Clover payments and 99.9% uptime.",
+                            "text": "<p><strong>Duration:</strong> JAN 2018 – DEC 2018; DEC 2019 – PRESENT</p><p><strong>Overview:</strong> An online booking and commerce platform for services, classes, and packages. Customers can book around the clock, find appointment availability, receive automated reminders, pay deposits, and purchase services, retail products, and gift cards. The platform supports rewards, securely stored payment methods, and integrated credit-card processing.</p><p><strong>Role and contributions:</strong> Worked with the client to turn requirements into solutions, coordinated team assignments, handled critical application work and crash support, and delivered technical enhancements. Contributed across the Angular, Node.js, MySQL, and AWS application, including the appointments calendar, checkout, Clover/Stripe/Tilled payment integrations, Twilio messaging, cron jobs, reports, mobile APIs, external data integrations, and AWS-backed API services.</p><p>Designed to support 50,000+ monthly transactions and 99.9% uptime.</p>",
                             "tags": [
                                 "Node.js",
                                 "Angular",
@@ -152,49 +162,132 @@
                         },
                         "te": {
                             "title": "STX {{Cloud}}",
-                            "text": "సేవలు, తరగతులు, ప్యాకేజీల కోసం విస్తరించగల అపాయింట్‌మెంట్ బుకింగ్ ప్లాట్‌ఫారమ్. Stripe, Clover చెల్లింపులతో నెలకు 50,000+ లావాదేవీలు, 99.9% అప్‌టైమ్‌కు మద్దతుగా రూపొందించబడింది."
+                            "text": "<p><strong>వ్యవధి:</strong> జనవరి 2018–డిసెంబర్ 2018; డిసెంబర్ 2019–ప్రస్తుతం</p><p><strong>సారాంశం:</strong> సేవలు, తరగతులు, ప్యాకేజీల కోసం ఆన్‌లైన్ బుకింగ్ మరియు కామర్స్ ప్లాట్‌ఫారమ్. కస్టమర్లు ఎప్పుడైనా బుక్ చేసుకోవచ్చు, అందుబాటులో ఉన్న సమయాలను కనుగొనవచ్చు, ఆటోమేటెడ్ రిమైండర్‌లు పొందవచ్చు, అడ్వాన్స్ చెల్లించవచ్చు, సేవలు, రిటైల్ ఉత్పత్తులు, గిఫ్ట్ కార్డ్‌లు కొనుగోలు చేయవచ్చు. రివార్డ్‌లు, భద్రంగా నిల్వ చేసిన చెల్లింపు పద్ధతులు, సమగ్ర క్రెడిట్ కార్డ్ ప్రాసెసింగ్‌కు మద్దతు ఇస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> క్లయింట్ అవసరాలను పరిష్కారాలుగా మార్చడం, బృంద పనులను సమన్వయం చేయడం, కీలక అభివృద్ధి పనులు మరియు యాప్ క్రాష్‌లకు మద్దతు అందించడం, సాంకేతిక మెరుగుదలలు చేయడంలో భాగమయ్యాను. అపాయింట్‌మెంట్ క్యాలెండర్, చెక్‌అవుట్, Clover/Stripe/Tilled చెల్లింపులు, Twilio సందేశాలు, క్రాన్ జాబ్‌లు, నివేదికలు, మొబైల్ APIలు, ఇతర అప్లికేషన్‌లతో డేటా ఇంటిగ్రేషన్, AWS ఆధారిత API సేవలతో సహా Angular, Node.js, MySQL, AWSలోని వివిధ భాగాల్లో పనిచేశాను.</p><p>నెలకు 50,000+ లావాదేవీలు మరియు 99.9% అప్‌టైమ్‌కు మద్దతుగా రూపొందించబడింది.</p>"
                         }
                     }
                 },
                 {
                     "id": 2,
                     "faIcon": "fa-solid fa-train",
+                    "faIconColors": {"bg": "#1D4ED8", "bgLight": "#1D4ED8", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
                     "locales": {
                         "en": {
-                            "title": "{{TCIMApp}}",
-                            "text": "A real-time railway track-circuit monitoring and logistics application, combining train and track data with map-based visualization, dashboards, and reports.",
+                            "title": "{{TCIM App}}",
+                            "text": "<p><strong>Duration:</strong> DEC 2018 – DEC 2019</p><p><strong>Overview:</strong> Track Circuit Implementation and Monitor (TCIM) helps locate grade-crossing predictors and monitor train speed, train issues, and track conditions. Live train locations and details are shown on Google Maps, with dashboards, charts, and reports for reviewing train and track status over time.</p><p><strong>Role and contributions:</strong> Owned the application end to end, from requirements and client progress meetings through design, development, deployment, and log-based issue management. Built the UI, APIs, and PostgreSQL database; transformed GCP data into readable information with Python; integrated Google Maps and OpenLayers; and implemented JWT authentication, PrimeNG components, chart-based dashboards and reports, and UI tests with Karma and Jasmine.</p>",
                             "tags": [
                                 "Node.js",
                                 "Angular",
                                 "PostgreSQL",
                                 "Python",
+                                "MindSphere",
                                 "Google Maps",
-                                "OpenLayers"
+                                "OpenLayers",
+                                "JWT",
+                                "Karma",
+                                "Jasmine"
                             ]
                         },
                         "te": {
-                            "title": "{{TCIMApp}}",
-                            "text": "రైల్వే ట్రాక్-సర్క్యూట్ పర్యవేక్షణ, లాజిస్టిక్స్ కోసం రియల్-టైమ్ అప్లికేషన్. రైలు, ట్రాక్ డేటాను మ్యాప్ విజువలైజేషన్, డాష్‌బోర్డ్‌లు, నివేదికలతో అందిస్తుంది."
+                            "title": "{{TCIM App}}",
+                            "text": "<p><strong>వ్యవధి:</strong> డిసెంబర్ 2018–డిసెంబర్ 2019</p><p><strong>సారాంశం:</strong> Track Circuit Implementation and Monitor (TCIM) గ్రేడ్-క్రాసింగ్ ప్రిడిక్టర్‌ల స్థానాన్ని గుర్తించి, రైళ్ల వేగం, సమస్యలు, ట్రాక్ పరిస్థితులను పర్యవేక్షించడానికి ఉపయోగపడుతుంది. Google Mapsలో రైళ్ల ప్రత్యక్ష స్థానాలు, వివరాలను చూపించి, కాలక్రమేణా రైలు మరియు ట్రాక్ స్థితిని పరిశీలించడానికి డాష్‌బోర్డ్‌లు, చార్ట్‌లు, నివేదికలను అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> అవసరాల సేకరణ, క్లయింట్ సమావేశాలు, రూపకల్పన, అభివృద్ధి, డిప్లాయ్‌మెంట్, లాగ్‌ల ద్వారా సమస్యల నిర్వహణ వరకు అప్లికేషన్‌కు పూర్తి బాధ్యత వహించాను. UI, APIలు, PostgreSQL డేటాబేస్ రూపొందించాను; Pythonతో GCP డేటాను చదవగలిగే సమాచారంగా మార్చాను; Google Maps, OpenLayers, JWT ఆథెంటికేషన్, PrimeNG, చార్ట్ డాష్‌బోర్డ్‌లు మరియు నివేదికలు, Karma మరియు Jasmine UI పరీక్షలను సమగ్రపరిచాను.</p>"
                         }
                     }
                 },
                 {
-                    "id": 3,
+                    "id": 4,
                     "faIcon": "fa-solid fa-video",
+                    "faIconColors": {"bg": "#6D28D9", "bgLight": "#6D28D9", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
                     "locales": {
                         "en": {
                             "title": "{{WGVS}}",
-                            "text": "A global video delivery platform built to support high user concurrency and seamless streaming on AWS.",
+                            "text": "<p><strong>Duration:</strong> MAR 2016 – JUL 2017</p><p><strong>Overview:</strong> World’s Greatest Videos (WGVS) is a global entertainment platform where the community uploads, combines, rates, and votes on videos. It includes a video-creator experience with streaming, trending content, comments, and community awards.</p><p><strong>Role and contributions:</strong> Led a team of 10 as senior software developer and video-module lead, delivering video upload and publishing across frontend and backend. Designed and developed the UI, implemented AWS elastic transcoding and cron jobs for trending videos, designed the database, and integrated DynamoDB with APIs for video comments.</p>",
                             "tags": [
-                                "Java",
-                                "JavaScript",
+                                "Node.js",
+                                "Angular 4",
+                                "MySQL",
+                                "DynamoDB",
                                 "AWS",
+                                "JW Player",
                                 "Video Streaming"
                             ]
                         },
                         "te": {
                             "title": "{{WGVS}}",
-                            "text": "AWSపై నిర్మించిన గ్లోబల్ వీడియో డెలివరీ ప్లాట్‌ఫారమ్. అధిక సంఖ్యలో ఏకకాల వినియోగదారులకు, అంతరాయం లేని స్ట్రీమింగ్‌కు మద్దతు ఇస్తుంది."
+                            "text": "<p><strong>వ్యవధి:</strong> మార్చి 2016–జూలై 2017</p><p><strong>సారాంశం:</strong> World’s Greatest Videos (WGVS) అనేది వినియోగదారులు వీడియోలను అప్‌లోడ్ చేయడం, కలపడం, రేటింగ్ ఇవ్వడం, ఓటు వేయడం చేసే గ్లోబల్ వినోద ప్లాట్‌ఫారమ్. స్ట్రీమింగ్, ట్రెండింగ్ కంటెంట్, కామెంట్‌లు, కమ్యూనిటీ అవార్డులతో వీడియో క్రియేటర్ అనుభవాన్ని అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> సీనియర్ సాఫ్ట్‌వేర్ డెవలపర్ మరియు వీడియో మాడ్యూల్ లీడ్‌గా 10 మంది బృందానికి నాయకత్వం వహించి, ఫ్రంట్‌ఎండ్ మరియు బ్యాక్‌ఎండ్‌లో వీడియో అప్‌లోడ్, పబ్లిషింగ్‌ను అందించాను. UI రూపకల్పన, అభివృద్ధి, AWS ఎలాస్టిక్ ట్రాన్స్‌కోడింగ్, ట్రెండింగ్ వీడియోల క్రాన్ జాబ్‌లు, డేటాబేస్ రూపకల్పన, వీడియో కామెంట్‌ల కోసం APIలతో DynamoDB ఇంటిగ్రేషన్ చేశాను.</p>"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-map-location-dot",
+                    "faIconColors": {"bg": "#BE123C", "bgLight": "#BE123C", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+                    "preview": {
+                        "links": [
+                            {
+                                "href": "https://pigeon-tech.com/",
+                                "tooltipString": "open_website",
+                                "faIcon": "fa-solid fa-globe"
+                            }
+                        ]
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "{{Pigeon Tech}}",
+                            "text": "<p><strong>Duration:</strong> JUL 2017 – JAN 2018</p><p><strong>Overview:</strong> A real-time location platform for zoos, aquariums, museums, galleries, theme parks, shopping malls, healthcare facilities, and other public spaces. Its customer-facing applications provide location-based services, while giving organizations insights to improve revenue, loyalty, and visitor satisfaction.</p><p><strong>Role and contributions:</strong> Helped turn client ideas into technical solutions, led and guided the team, and developed key application features. Integrated Leaflet maps, designed and built the UI, implemented the Node.js/Express server, and designed the database.</p>",
+                            "tags": [
+                                "Ionic",
+                                "MySQL",
+                                "Leaflet",
+                                "AWS",
+                                "Node.js",
+                                "Express"
+                            ]
+                        },
+                        "te": {
+                            "title": "{{Pigeon Tech}}",
+                            "text": "<p><strong>వ్యవధి:</strong> జూలై 2017–జనవరి 2018</p><p><strong>సారాంశం:</strong> జూలు, అక్వేరియంలు, మ్యూజియంలు, గ్యాలరీలు, థీమ్ పార్కులు, షాపింగ్ మాల్స్, ఆరోగ్య కేంద్రాలు మరియు ఇతర బహిరంగ ప్రదేశాల కోసం రియల్-టైమ్ లొకేషన్ ప్లాట్‌ఫారమ్. లొకేషన్ ఆధారిత సేవలతో పాటు, ఆదాయం, కస్టమర్ నిబద్ధత, సందర్శకుల సంతృప్తిని మెరుగుపరచడానికి సంస్థలకు అవసరమైన సమాచారాన్ని అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> క్లయింట్ ఆలోచనలను సాంకేతిక పరిష్కారాలుగా మార్చడం, బృందానికి నాయకత్వం మరియు మార్గదర్శకత్వం అందించడం, కీలక ఫీచర్ల అభివృద్ధిలో పనిచేశాను. Leaflet మ్యాప్‌లను సమగ్రపరిచాను, UI రూపొందించి అభివృద్ధి చేశాను, Node.js/Express సర్వర్‌ను అమలు చేశాను, డేటాబేస్‌ను రూపొందించాను.</p>"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-solid fa-id-card",
+                    "faIconColors": {"bg": "#B45309", "bgLight": "#B45309", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+                    "locales": {
+                        "en": {
+                            "title": "{{VCS}}",
+                            "text": "<p><strong>Duration:</strong> AUG 2014 – MAR 2016</p><p><strong>Overview:</strong> The Visitor Check-In System helps organizations manage visitor check-ins and appointments. Built for Cincinnati Parks, it provides visitor and counter assignment, appointment booking, token generation, document uploads, and a monitoring display.</p><p><strong>Role and contributions:</strong> Served as team lead and key developer, shaping application requirements, coordinating team tasks, and helping teammates with critical work. Designed the database and wireframes, developed visitor pages and appointment/token logic, integrated the JBoss server, and implemented data import/export and module upload/publishing workflows.</p>",
+                            "tags": [
+                                "Spring MVC",
+                                "MySQL",
+                                "JBoss",
+                                "Java"
+                            ]
+                        },
+                        "te": {
+                            "title": "{{VCS}}",
+                            "text": "<p><strong>వ్యవధి:</strong> ఆగస్టు 2014–మార్చి 2016</p><p><strong>సారాంశం:</strong> సంస్థలు సందర్శకుల చెక్-ఇన్‌లు, అపాయింట్‌మెంట్‌లను నిర్వహించడానికి Visitor Check-In System ఉపయోగపడుతుంది. Cincinnati Parks కోసం రూపొందించిన ఈ అప్లికేషన్ సందర్శకుల నమోదు, కౌంటర్ కేటాయింపు, అపాయింట్‌మెంట్ బుకింగ్, టోకెన్‌ల సృష్టి, పత్రాల అప్‌లోడ్, మానిటరింగ్ డిస్‌ప్లేను అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> టీమ్ లీడ్ మరియు కీలక డెవలపర్‌గా అవసరాలను పరిష్కారాలుగా మార్చడం, బృంద పనులను సమన్వయం చేయడం, కీలక పనుల్లో సహాయం చేయడం చేశాను. డేటాబేస్, వైర్‌ఫ్రేమ్‌లను రూపొందించి, సందర్శకుల పేజీలు, అపాయింట్‌మెంట్/టోకెన్ లాజిక్, JBoss ఇంటిగ్రేషన్, డేటా దిగుమతి/ఎగుమతి, మాడ్యూల్ అప్‌లోడ్ మరియు పబ్లిషింగ్ వర్క్‌ఫ్లోలను అభివృద్ధి చేశాను.</p>"
+                        }
+                    }
+                },
+                {
+                    "id": 6,
+                    "faIcon": "fa-solid fa-calendar-plus",
+                    "faIconColors": {"bg": "#15803D", "bgLight": "#15803D", "fill": "#FFFFFF", "fillLight": "#FFFFFF"},
+                    "locales": {
+                        "en": {
+                            "title": "{{ASI}}",
+                            "text": "<p><strong>Duration:</strong> DEC 2012 – AUG 2014</p><p><strong>Overview:</strong> Appointment Scheduler Inc. connects customers with service providers so appointments can be booked for the right service and resource. The scheduling model can support a range of settings, including healthcare and education.</p><p><strong>Role and contributions:</strong> Worked as a software developer, translating functionality requirements into working software. Contributed to server integration, appointment and service-provider resource pages, data import/export across pages, document uploads, and user-management features.</p>",
+                            "tags": [
+                                "Spring MVC",
+                                "MySQL",
+                                "JBoss",
+                                "Java"
+                            ]
+                        },
+                        "te": {
+                            "title": "{{ASI}}",
+                            "text": "<p><strong>వ్యవధి:</strong> డిసెంబర్ 2012–ఆగస్టు 2014</p><p><strong>సారాంశం:</strong> Appointment Scheduler Inc. కస్టమర్లను సేవా ప్రదాతలతో అనుసంధానించి, సరైన సేవ మరియు వనరును ఎంచుకుని అపాయింట్‌మెంట్ బుక్ చేసుకునేలా చేస్తుంది. ఈ షెడ్యూలింగ్ విధానాన్ని వైద్యం, విద్య వంటి విభిన్న రంగాల్లో ఉపయోగించవచ్చు.</p><p><strong>పాత్ర మరియు కృషి:</strong> సాఫ్ట్‌వేర్ డెవలపర్‌గా అవసరమైన ఫంక్షనాలిటీని పనిచేసే సాఫ్ట్‌వేర్‌గా మార్చాను. సర్వర్ ఇంటిగ్రేషన్, అపాయింట్‌మెంట్ మరియు సేవా ప్రదాత వనరుల పేజీలు, అన్ని పేజీల్లో డేటా దిగుమతి/ఎగుమతి, పత్రాల అప్‌లోడ్, వినియోగదారుల నిర్వహణ ఫీచర్లలో సహకరించాను.</p>"
                         }
                     }
                 }

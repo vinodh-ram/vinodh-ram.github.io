@@ -61,7 +61,11 @@
         {
             "id": 1,
             "component": "ArticleContactForm",
-            "settings": {},
+            "settings": {
+                "email_js_public_key": "-xb5KOyDXfqp5daDf",
+                "email_js_service_id": "service_m2yalek",
+                "email_js_template_id": "template_zegkekx"
+            },
             "locales": {
                 "en": {
                     "contact_thank_you_title": "{{Thanks}} for the contact!",
@@ -204,6 +208,42 @@
                         },
                         "te": {
                             "title": "LinkedIn"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-github",
+                    "label": "github.com/vinodh-ram",
+                    "link": {
+                        "href": "https://github.com/vinodh-ram",
+                        "tooltipString": "open_website"
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "GitHub"
+                        },
+                        "te": {
+                            "title": "GitHub"
+                        }
+                    }
+                },
+                {
+                    "id": 5,
+                    "faIcon": "fa-brands fa-whatsapp",
+                    "label": "+91-9985279993",
+                    "link": {
+                        "href": "https://wa.me/919985279993?text=Hi%20Vinodh%20Ram%2C%20I%20found%20your%20contact%20number%20on%20your%20personal%20website%20and%20would%20like%20to%20connect%20with%20you.",
+                        "tooltipString": "open_website"
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "WhatsApp"
+                        },
+                        "te": {
+                            "title": "WhatsApp"
                         }
                     }
                 }
