@@ -25,17 +25,45 @@
                 "title_long_prefix": "ぜひご覧ください",
                 "title_long": "私の{{ポートフォリオ}}"
             },
-            "zh": {"title_short": "作品集", "title_short_nav": "作品集", "title_long_prefix": "欢迎查看", "title_long": "我的{{作品集}}"},
-            "hi": {"title_short": "पोर्टफोलियो", "title_short_nav": "पोर्टफोलियो", "title_long_prefix": "देखें", "title_long": "मेरा {{पोर्टफोलियो}}"},
-            "es": {"title_short": "Proyectos", "title_short_nav": "Proyectos", "title_long_prefix": "Echa un vistazo a", "title_long": "Mi {{portafolio}}"},
-            "ar": {"title_short": "معرض الأعمال", "title_short_nav": "الأعمال", "title_long_prefix": "ألقِ نظرة على", "title_long": "{{معرض أعمالي}}"}
+            "zh": {
+                "title_short": "作品集",
+                "title_short_nav": "作品集",
+                "title_long_prefix": "欢迎查看",
+                "title_long": "我的{{作品集}}"
+            },
+            "hi": {
+                "title_short": "पोर्टफोलियो",
+                "title_short_nav": "पोर्टफोलियो",
+                "title_long_prefix": "देखें",
+                "title_long": "मेरा {{पोर्टफोलियो}}"
+            },
+            "es": {
+                "title_short": "Proyectos",
+                "title_short_nav": "Proyectos",
+                "title_long_prefix": "Echa un vistazo a",
+                "title_long": "Mi {{portafolio}}"
+            },
+            "ar": {
+                "title_short": "معرض الأعمال",
+                "title_short_nav": "الأعمال",
+                "title_long_prefix": "ألقِ نظرة على",
+                "title_long": "{{معرض أعمالي}}"
+            },
+            "te": {
+                "title_short": "ప్రాజెక్టులు",
+                "title_short_nav": "ప్రాజెక్టులు",
+                "title_long_prefix": "నా",
+                "title_long": "{{పోర్ట్‌ఫోలియో}}"
+            }
         }
     },
-    "articles":     [
+    "articles": [
         {
             "id": 1,
             "component": "ArticleFacts",
-            "locales": {},
+            "locales": {
+                "te": {}
+            },
             "settings": {},
             "items": [
                 {
@@ -45,6 +73,9 @@
                         "en": {
                             "title": "50,000+",
                             "text": "Monthly Transactions"
+                        },
+                        "te": {
+                            "text": "నెలవారీ లావాదేవీలు"
                         }
                     }
                 },
@@ -55,6 +86,9 @@
                         "en": {
                             "title": "10+",
                             "text": "Engineers Led"
+                        },
+                        "te": {
+                            "text": "నాయకత్వం వహించిన ఇంజినీర్లు"
                         }
                     }
                 },
@@ -65,6 +99,9 @@
                         "en": {
                             "title": "30%",
                             "text": "Faster Delivery"
+                        },
+                        "te": {
+                            "text": "డెలివరీ వేగం పెరుగుదల"
                         }
                     }
                 },
@@ -75,6 +112,9 @@
                         "en": {
                             "title": "$1.2M+",
                             "text": "Annual Revenue Contribution"
+                        },
+                        "te": {
+                            "text": "వార్షిక ఆదాయానికి తోడ్పాటు"
                         }
                     }
                 }
@@ -87,6 +127,9 @@
             "locales": {
                 "en": {
                     "title": "Selected {{Projects}}"
+                },
+                "te": {
+                    "title": "ఎంచుకున్న {{ప్రాజెక్టులు}}"
                 }
             },
             "items": [
@@ -106,6 +149,10 @@
                                 "Clover",
                                 "Twilio"
                             ]
+                        },
+                        "te": {
+                            "title": "STX {{Cloud}}",
+                            "text": "సేవలు, తరగతులు, ప్యాకేజీల కోసం విస్తరించగల అపాయింట్‌మెంట్ బుకింగ్ ప్లాట్‌ఫారమ్. Stripe, Clover చెల్లింపులతో నెలకు 50,000+ లావాదేవీలు, 99.9% అప్‌టైమ్‌కు మద్దతుగా రూపొందించబడింది."
                         }
                     }
                 },
@@ -124,6 +171,10 @@
                                 "Google Maps",
                                 "OpenLayers"
                             ]
+                        },
+                        "te": {
+                            "title": "{{TCIMApp}}",
+                            "text": "రైల్వే ట్రాక్-సర్క్యూట్ పర్యవేక్షణ, లాజిస్టిక్స్ కోసం రియల్-టైమ్ అప్లికేషన్. రైలు, ట్రాక్ డేటాను మ్యాప్ విజువలైజేషన్, డాష్‌బోర్డ్‌లు, నివేదికలతో అందిస్తుంది."
                         }
                     }
                 },
@@ -140,6 +191,10 @@
                                 "AWS",
                                 "Video Streaming"
                             ]
+                        },
+                        "te": {
+                            "title": "{{WGVS}}",
+                            "text": "AWSపై నిర్మించిన గ్లోబల్ వీడియో డెలివరీ ప్లాట్‌ఫారమ్. అధిక సంఖ్యలో ఏకకాల వినియోగదారులకు, అంతరాయం లేని స్ట్రీమింగ్‌కు మద్దతు ఇస్తుంది."
                         }
                     }
                 }

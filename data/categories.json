@@ -4,56 +4,132 @@
             "id": "profile",
             "faIcon": "fa-regular fa-user",
             "locales": {
-                "en": {"title": "Profile"},
-                "tr": {"title": "Profil"},
-                "sv": {"title": "Profil"},
-                "ja": {"title": "プロフィール"},
-                "zh": {"title": "个人资料"},
-                "hi": {"title": "प्रोफ़ाइल"},
-                "es": {"title": "Perfil"},
-                "ar": {"title": "الملف الشخصي"}
+                "en": {
+                    "title": "Profile"
+                },
+                "tr": {
+                    "title": "Profil"
+                },
+                "sv": {
+                    "title": "Profil"
+                },
+                "ja": {
+                    "title": "プロフィール"
+                },
+                "zh": {
+                    "title": "个人资料"
+                },
+                "hi": {
+                    "title": "प्रोफ़ाइल"
+                },
+                "es": {
+                    "title": "Perfil"
+                },
+                "ar": {
+                    "title": "الملف الشخصي"
+                },
+                "te": {
+                    "title": "ప్రొఫైల్"
+                }
             }
         },
         {
             "id": "background",
             "faIcon": "fa-regular fa-clock",
             "locales": {
-                "en": {"title": "History"},
-                "tr": {"title": "Geçmiş"},
-                "sv": {"title": "Historik"},
-                "ja": {"title": "履歴"},
-                "zh": {"title": "经历"},
-                "hi": {"title": "पृष्ठभूमि"},
-                "es": {"title": "Trayectoria"},
-                "ar": {"title": "المسيرة"}
+                "en": {
+                    "title": "History"
+                },
+                "tr": {
+                    "title": "Geçmiş"
+                },
+                "sv": {
+                    "title": "Historik"
+                },
+                "ja": {
+                    "title": "履歴"
+                },
+                "zh": {
+                    "title": "经历"
+                },
+                "hi": {
+                    "title": "पृष्ठभूमि"
+                },
+                "es": {
+                    "title": "Trayectoria"
+                },
+                "ar": {
+                    "title": "المسيرة"
+                },
+                "te": {
+                    "title": "వృత్తి ప్రయాణం"
+                }
             }
         },
         {
             "id": "showcase",
             "faIcon": "pi pi-images",
             "locales": {
-                "en": {"title": "Showcase"},
-                "tr": {"title": "Vitrin"},
-                "sv": {"title": "Utställning"},
-                "ja": {"title": "ショーケース"},
-                "zh": {"title": "作品展示"},
-                "hi": {"title": "कार्य प्रदर्शन"},
-                "es": {"title": "Proyectos"},
-                "ar": {"title": "الأعمال"}
+                "en": {
+                    "title": "Showcase"
+                },
+                "tr": {
+                    "title": "Vitrin"
+                },
+                "sv": {
+                    "title": "Utställning"
+                },
+                "ja": {
+                    "title": "ショーケース"
+                },
+                "zh": {
+                    "title": "作品展示"
+                },
+                "hi": {
+                    "title": "कार्य प्रदर्शन"
+                },
+                "es": {
+                    "title": "Proyectos"
+                },
+                "ar": {
+                    "title": "الأعمال"
+                },
+                "te": {
+                    "title": "ప్రాజెక్టులు"
+                }
             }
         },
         {
             "id": "contact",
             "faIcon": "fa-regular fa-envelope",
             "locales": {
-                "en": {"title": "Contact"},
-                "tr": {"title": "İletişim"},
-                "sv": {"title": "Kontakt"},
-                "ja": {"title": "連絡先"},
-                "zh": {"title": "联系"},
-                "hi": {"title": "संपर्क"},
-                "es": {"title": "Contacto"},
-                "ar": {"title": "التواصل"}
+                "en": {
+                    "title": "Contact"
+                },
+                "tr": {
+                    "title": "İletişim"
+                },
+                "sv": {
+                    "title": "Kontakt"
+                },
+                "ja": {
+                    "title": "連絡先"
+                },
+                "zh": {
+                    "title": "联系"
+                },
+                "hi": {
+                    "title": "संपर्क"
+                },
+                "es": {
+                    "title": "Contacto"
+                },
+                "ar": {
+                    "title": "التواصل"
+                },
+                "te": {
+                    "title": "సంప్రదింపు"
+                }
             }
         }
     ]

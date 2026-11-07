@@ -25,17 +25,45 @@
                 "title_long_prefix": "探索",
                 "title_long": "私の{{技術スタック}}"
             },
-            "zh": {"title_short": "技术栈", "title_short_nav": "技术栈", "title_long_prefix": "探索", "title_long": "我的{{技术栈}}"},
-            "hi": {"title_short": "तकनीकी कौशल", "title_short_nav": "तकनीकी कौशल", "title_long_prefix": "देखें", "title_long": "मेरा {{टेक स्टैक}}"},
-            "es": {"title_short": "Tecnologías", "title_short_nav": "Tecnologías", "title_long_prefix": "Explora", "title_long": "Mi {{stack tecnológico}}"},
-            "ar": {"title_short": "التقنيات", "title_short_nav": "التقنيات", "title_long_prefix": "استكشف", "title_long": "{{مجموعة تقنياتي}}"}
+            "zh": {
+                "title_short": "技术栈",
+                "title_short_nav": "技术栈",
+                "title_long_prefix": "探索",
+                "title_long": "我的{{技术栈}}"
+            },
+            "hi": {
+                "title_short": "तकनीकी कौशल",
+                "title_short_nav": "तकनीकी कौशल",
+                "title_long_prefix": "देखें",
+                "title_long": "मेरा {{टेक स्टैक}}"
+            },
+            "es": {
+                "title_short": "Tecnologías",
+                "title_short_nav": "Tecnologías",
+                "title_long_prefix": "Explora",
+                "title_long": "Mi {{stack tecnológico}}"
+            },
+            "ar": {
+                "title_short": "التقنيات",
+                "title_short_nav": "التقنيات",
+                "title_long_prefix": "استكشف",
+                "title_long": "{{مجموعة تقنياتي}}"
+            },
+            "te": {
+                "title_short": "సాంకేతిక నైపుణ్యాలు",
+                "title_short_nav": "సాంకేతిక నైపుణ్యాలు",
+                "title_long_prefix": "నా",
+                "title_long": "{{సాంకేతిక నైపుణ్యాలు}}"
+            }
         }
     },
-    "articles":     [
+    "articles": [
         {
             "id": 1,
             "component": "ArticleText",
-            "locales": {},
+            "locales": {
+                "te": {}
+            },
             "settings": {},
             "items": [
                 {
@@ -44,6 +72,9 @@
                     "locales": {
                         "en": {
                             "text": "<p>Technology leadership and hands-on full-stack engineering across web and mobile applications, APIs, microservices, and AWS. Core expertise includes:</p>"
+                        },
+                        "te": {
+                            "text": "<p>వెబ్, మొబైల్ అప్లికేషన్లు, APIలు, మైక్రోసర్వీసులు, AWS రంగాల్లో సాంకేతిక నాయకత్వం మరియు ప్రత్యక్ష ఫుల్-స్టాక్ అభివృద్ధి. ప్రధాన నైపుణ్యాలు:</p>"
                         }
                     }
                 }
@@ -55,6 +86,9 @@
             "locales": {
                 "en": {
                     "title": "{{Frontend}}"
+                },
+                "te": {
+                    "title": "{{ఫ్రంట్‌ఎండ్}}"
                 }
             },
             "settings": {},
@@ -123,6 +157,9 @@
             "locales": {
                 "en": {
                     "title": "{{Backend}} & APIs"
+                },
+                "te": {
+                    "title": "{{బ్యాక్‌ఎండ్}} & APIలు"
                 }
             },
             "settings": {},
@@ -191,6 +228,9 @@
             "locales": {
                 "en": {
                     "title": "{{Cloud}} & DevOps"
+                },
+                "te": {
+                    "title": "{{క్లౌడ్}} & DevOps"
                 }
             },
             "settings": {},
@@ -259,6 +299,9 @@
             "locales": {
                 "en": {
                     "title": "{{Databases}}"
+                },
+                "te": {
+                    "title": "{{డేటాబేస్‌లు}}"
                 }
             },
             "settings": {},
@@ -295,6 +338,9 @@
             "locales": {
                 "en": {
                     "title": "{{Tools}} & Practices"
+                },
+                "te": {
+                    "title": "{{సాధనాలు}} & విధానాలు"
                 }
             },
             "settings": {},

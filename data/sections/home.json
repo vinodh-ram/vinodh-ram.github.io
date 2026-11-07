@@ -25,17 +25,45 @@
                 "title_long_prefix": "みんな、こんにちは...",
                 "title_long": "ヴィノド・{{ラム}}です！"
             },
-            "zh": {"title_short": "你好！", "title_short_nav": "关于我", "title_long_prefix": "大家好...", "title_long": "我是 Vinodh {{Ram！}}"},
-            "hi": {"title_short": "नमस्ते!", "title_short_nav": "मेरे बारे में", "title_long_prefix": "नमस्कार दोस्तों...", "title_long": "मैं Vinodh {{Ram हूँ!}}"},
-            "es": {"title_short": "¡Hola!", "title_short_nav": "Sobre mí", "title_long_prefix": "¡Hola a todos!", "title_long": "Soy Vinodh {{Ram!}}"},
-            "ar": {"title_short": "مرحبًا!", "title_short_nav": "نبذة عني", "title_long_prefix": "أهلًا بالجميع...", "title_long": "أنا Vinodh {{Ram!}}"}
+            "zh": {
+                "title_short": "你好！",
+                "title_short_nav": "关于我",
+                "title_long_prefix": "大家好...",
+                "title_long": "我是 Vinodh {{Ram！}}"
+            },
+            "hi": {
+                "title_short": "नमस्ते!",
+                "title_short_nav": "मेरे बारे में",
+                "title_long_prefix": "नमस्कार दोस्तों...",
+                "title_long": "मैं Vinodh {{Ram हूँ!}}"
+            },
+            "es": {
+                "title_short": "¡Hola!",
+                "title_short_nav": "Sobre mí",
+                "title_long_prefix": "¡Hola a todos!",
+                "title_long": "Soy Vinodh {{Ram!}}"
+            },
+            "ar": {
+                "title_short": "مرحبًا!",
+                "title_short_nav": "نبذة عني",
+                "title_long_prefix": "أهلًا بالجميع...",
+                "title_long": "أنا Vinodh {{Ram!}}"
+            },
+            "te": {
+                "title_short": "నమస్కారం!",
+                "title_short_nav": "నా గురించి",
+                "title_long_prefix": "నమస్కారం...",
+                "title_long": "నేను వినోద్ {{రామ్ మొల్లి!}}"
             }
-        },
-    "articles":     [
+        }
+    },
+    "articles": [
         {
             "id": 1,
             "component": "ArticleInlineList",
-            "locales": {},
+            "locales": {
+                "te": {}
+            },
             "settings": {
                 "display_as_list_if_width_is_lower_than": 380
             },
@@ -46,6 +74,9 @@
                     "locales": {
                         "en": {
                             "label": "India | Open to Remote Roles"
+                        },
+                        "te": {
+                            "label": "భారతదేశం | రిమోట్ ఉద్యోగాలకు సిద్ధం"
                         }
                     }
                 },
@@ -84,6 +115,9 @@
             "locales": {
                 "en": {
                     "title": "A little about my {{work}}"
+                },
+                "te": {
+                    "title": "నా {{పని}} గురించి"
                 }
             },
             "settings": {},
@@ -93,7 +127,10 @@
                     "img": "images/content/article-text-image-home.png",
                     "locales": {
                         "en": {
-                            "text": "<p>Strategic Tech Lead with 13+ years of experience building scalable web and mobile ecosystems with Node.js, Angular, React, and AWS. I lead cross-functional engineering teams and modernize legacy systems into high-performance microservices.</p><p>With an M.Sc. in Psychology, I bring a people-centered approach to mentoring developers, strengthening team dynamics, and improving delivery.</p>"
+                            "text": "<p>Strategic Tech Lead with 14+ years of experience building scalable web and mobile ecosystems with Node.js, Angular, React, and AWS. I lead cross-functional engineering teams and modernize legacy systems into high-performance microservices.</p><p>With an M.Sc. in Psychology, I bring a people-centered approach to mentoring developers, strengthening team dynamics, and improving delivery.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Molli_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>Download my resume</a></p>"
+                        },
+                        "te": {
+                            "text": "<p>Node.js, Angular, React, AWS సాంకేతికతలతో విస్తరించగల వెబ్, మొబైల్ వ్యవస్థలను నిర్మిస్తున్న వ్యూహాత్మక టెక్ లీడ్‌గా నాకు 14+ సంవత్సరాల అనుభవం ఉంది. విభిన్న విభాగాల ఇంజినీరింగ్ బృందాలకు నాయకత్వం వహిస్తూ, పాత వ్యవస్థలను అధిక పనితీరు గల మైక్రోసర్వీసులుగా ఆధునీకరిస్తాను.</p><p>సైకాలజీలో మాస్టర్స్ డిగ్రీతో, డెవలపర్లకు మార్గనిర్దేశం చేయడం, బృందాల సమన్వయాన్ని బలోపేతం చేయడం, పనుల అమలును మెరుగుపరచడంలో వ్యక్తి-కేంద్రిత దృక్పథాన్ని అనుసరిస్తాను.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Molli_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>నా రెజ్యూమేను డౌన్‌లోడ్ చేయండి</a></p>"
                         }
                     }
                 }
@@ -105,6 +142,9 @@
             "locales": {
                 "en": {
                     "title": "What {{I do}}"
+                },
+                "te": {
+                    "title": "నేను చేసే {{పనులు}}"
                 }
             },
             "settings": {},
@@ -115,6 +155,10 @@
                         "en": {
                             "title": "{{Engineering Leadership}}",
                             "text": "Leading and mentoring cross-functional teams, establishing coding standards, and improving release velocity."
+                        },
+                        "te": {
+                            "title": "{{ఇంజినీరింగ్ నాయకత్వం}}",
+                            "text": "విభిన్న విభాగాల బృందాలకు నాయకత్వం వహించడం, మార్గనిర్దేశం చేయడం, కోడింగ్ ప్రమాణాలను ఏర్పాటు చేయడం, విడుదల వేగాన్ని పెంచడం."
                         }
                     },
                     "faIcon": "fa-solid fa-people-group"
@@ -125,6 +169,10 @@
                         "en": {
                             "title": "{{Full-Stack Development}}",
                             "text": "Building web and mobile applications with Angular, React, Node.js, and Java."
+                        },
+                        "te": {
+                            "title": "{{ఫుల్-స్టాక్ అభివృద్ధి}}",
+                            "text": "Angular, React, Node.js, Java ఉపయోగించి వెబ్, మొబైల్ అప్లికేషన్లను నిర్మించడం."
                         }
                     },
                     "faIcon": "fa-solid fa-code"
@@ -135,6 +183,10 @@
                         "en": {
                             "title": "{{Microservices & APIs}}",
                             "text": "Designing REST APIs and modular services to modernize legacy systems and improve scalability."
+                        },
+                        "te": {
+                            "title": "{{మైక్రోసర్వీసులు & APIలు}}",
+                            "text": "పాత వ్యవస్థలను ఆధునీకరించి విస్తరణ సామర్థ్యాన్ని మెరుగుపరచడానికి REST APIలు, మాడ్యులర్ సేవలను రూపొందించడం."
                         }
                     },
                     "faIcon": "fa-solid fa-diagram-project"
@@ -145,9 +197,79 @@
                         "en": {
                             "title": "{{AWS Cloud Solutions}}",
                             "text": "Delivering cloud-backed systems with AWS services including Lambda, S3, RDS, and EC2."
+                        },
+                        "te": {
+                            "title": "{{AWS క్లౌడ్ పరిష్కారాలు}}",
+                            "text": "Lambda, S3, RDS, EC2 వంటి AWS సేవలతో క్లౌడ్ ఆధారిత వ్యవస్థలను అందించడం."
                         }
                     },
                     "faIcon": "fa-brands fa-aws"
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "component": "ArticleSkills",
+            "locales": {
+                "en": {
+                    "title": "{{Languages}} I Speak"
+                },
+                "te": {
+                    "title": "{{నాకు తెలిసిన భాషలు}}"
+                }
+            },
+            "settings": {
+                "max_items_per_row": 1,
+                "round_icons": true
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/flags/en-uk.png",
+                    "locales": {
+                        "en": {
+                            "title": "English",
+                            "level": "Fluent",
+                            "text": "Smooth and confident communication for professional and everyday environments."
+                        },
+                        "te": {
+                            "title": "English",
+                            "level": "ప్రవీణం",
+                            "text": "వృత్తిపరమైన మరియు రోజువారీ సందర్భాల్లో స్పష్టంగా, ఆత్మవిశ్వాసంతో సంభాషించగలను."
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/flags/hi.png",
+                    "locales": {
+                        "en": {
+                            "title": "Hindi",
+                            "level": "Fluent",
+                            "text": "Natural and effortless interaction in both formal and casual settings."
+                        },
+                        "te": {
+                            "title": "Hindi",
+                            "level": "ప్రవీణం",
+                            "text": "అధికారిక మరియు అనౌపచారిక సందర్భాల్లో సహజంగా, సులభంగా సంభాషించగలను."
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/flags/hi.png",
+                    "locales": {
+                        "en": {
+                            "title": "Telugu",
+                            "level": "Native",
+                            "text": "Complete native mastery with complete linguistic and cultural fluency."
+                        },
+                        "te": {
+                            "title": "Telugu",
+                            "level": "మాతృభాష",
+                            "text": "తెలుగు నా మాతృభాష; భాషా, సాంస్కృతిక పరిజ్ఞానం సంపూర్ణంగా ఉంది."
+                        }
+                    }
                 }
             ]
         }

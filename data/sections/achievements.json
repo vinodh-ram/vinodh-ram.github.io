@@ -25,13 +25,39 @@
                 "title_long_prefix": "こちらが私の",
                 "title_long": "キャリアの{{実績}}"
             },
-            "zh": {"title_short": "成就", "title_short_nav": "成就", "title_long_prefix": "以下是我的", "title_long": "职业{{成就}}"},
-            "hi": {"title_short": "उपलब्धियाँ", "title_short_nav": "उपलब्धियाँ", "title_long_prefix": "यहाँ मेरी", "title_long": "करियर की {{उपलब्धियाँ}}"},
-            "es": {"title_short": "Logros", "title_short_nav": "Logros", "title_long_prefix": "Estos son mis", "title_long": "{{Logros}} profesionales"},
-            "ar": {"title_short": "الإنجازات", "title_short_nav": "الإنجازات", "title_long_prefix": "إليك", "title_long": "{{إنجازاتي}} المهنية"}
+            "zh": {
+                "title_short": "成就",
+                "title_short_nav": "成就",
+                "title_long_prefix": "以下是我的",
+                "title_long": "职业{{成就}}"
+            },
+            "hi": {
+                "title_short": "उपलब्धियाँ",
+                "title_short_nav": "उपलब्धियाँ",
+                "title_long_prefix": "यहाँ मेरी",
+                "title_long": "करियर की {{उपलब्धियाँ}}"
+            },
+            "es": {
+                "title_short": "Logros",
+                "title_short_nav": "Logros",
+                "title_long_prefix": "Estos son mis",
+                "title_long": "{{Logros}} profesionales"
+            },
+            "ar": {
+                "title_short": "الإنجازات",
+                "title_short_nav": "الإنجازات",
+                "title_long_prefix": "إليك",
+                "title_long": "{{إنجازاتي}} المهنية"
+            },
+            "te": {
+                "title_short": "విజయాలు",
+                "title_short_nav": "విజయాలు",
+                "title_long_prefix": "నా",
+                "title_long": "వృత్తిపరమైన {{విజయాలు}}"
+            }
         }
     },
-    "articles":     [
+    "articles": [
         {
             "id": 1,
             "component": "ArticleCards",
@@ -39,6 +65,9 @@
             "locales": {
                 "en": {
                     "title": "Awards & {{Recognition}}"
+                },
+                "te": {
+                    "title": "పురస్కారాలు & {{గుర్తింపు}}"
                 }
             },
             "items": [
@@ -50,6 +79,10 @@
                             "title": "{{Outstanding Leadership}}",
                             "institution": "WebAppClouds Software Solutions",
                             "text": "Recognized for leadership in delivering a web and mobile application that increased user engagement by 50%."
+                        },
+                        "te": {
+                            "title": "{{అత్యుత్తమ నాయకత్వం}}",
+                            "text": "వినియోగదారుల భాగస్వామ్యాన్ని 50% పెంచిన వెబ్, మొబైల్ అప్లికేషన్‌ను అందించడంలో నాయకత్వానికి గుర్తింపు పొందాను."
                         }
                     }
                 },
@@ -61,6 +94,10 @@
                             "title": "{{Spot Award}}",
                             "institution": "Cognizant",
                             "text": "Recognized for the success of TCIMApp at the RSSI exhibition."
+                        },
+                        "te": {
+                            "title": "{{స్పాట్ అవార్డ్}}",
+                            "text": "RSSI ప్రదర్శనలో TCIMApp విజయానికి గుర్తింపు పొందాను."
                         }
                     }
                 },
@@ -72,6 +109,10 @@
                             "title": "{{Shining Star Award}}",
                             "institution": "Cognizant",
                             "text": "Recognized for the rapid and successful deployment of TCIMApp."
+                        },
+                        "te": {
+                            "title": "{{షైనింగ్ స్టార్ అవార్డ్}}",
+                            "text": "TCIMAppను వేగంగా, విజయవంతంగా డిప్లాయ్ చేసినందుకు గుర్తింపు పొందాను."
                         }
                     }
                 },
@@ -83,6 +124,10 @@
                             "title": "{{Employee of the Quarter}}",
                             "institution": "Vedic Systems",
                             "text": "Recognized for leadership and high-quality client-side and administrative application development."
+                        },
+                        "te": {
+                            "title": "{{త్రైమాసిక ఉత్తమ ఉద్యోగి}}",
+                            "text": "క్లయింట్-సైడ్, అడ్మినిస్ట్రేటివ్ అప్లికేషన్ అభివృద్ధిలో నాయకత్వం మరియు నాణ్యమైన పనికి గుర్తింపు పొందాను."
                         }
                     }
                 },
@@ -94,6 +139,10 @@
                             "title": "{{Pat on the Back}}",
                             "institution": "Vedic Systems",
                             "text": "Recognized for enhancements to video editing, uploading, and publishing workflows."
+                        },
+                        "te": {
+                            "title": "{{ప్రశంసా పురస్కారం}}",
+                            "text": "వీడియో ఎడిటింగ్, అప్‌లోడ్, ప్రచురణ పనివిధానాల్లో మెరుగుదలలకు గుర్తింపు పొందాను."
                         }
                     }
                 }
@@ -115,6 +164,9 @@
                 },
                 "ja": {
                     "title": "認定"
+                },
+                "te": {
+                    "title": "{{ధృవీకరణ}}"
                 }
             },
             "items": [
@@ -126,6 +178,10 @@
                             "title": "Certified {{Scrum Master}}",
                             "institution": "KnowledgeHut Solutions Pvt. Ltd.",
                             "text": "Certified Scrum Master, 2016. Course ID: CSMKH-1; Certificate No. CSMKH-1/101."
+                        },
+                        "te": {
+                            "title": "సర్టిఫైడ్ {{స్క్రమ్ మాస్టర్}}",
+                            "text": "2016లో సర్టిఫైడ్ స్క్రమ్ మాస్టర్ ధృవీకరణ పొందాను. కోర్సు ID: CSMKH-1; సర్టిఫికేట్ నం.: CSMKH-1/101."
                         }
                     }
                 }

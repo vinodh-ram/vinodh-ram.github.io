@@ -25,13 +25,39 @@
                 "title_long_prefix": "私の",
                 "title_long": "{{学歴}}の概要"
             },
-            "zh": {"title_short": "教育背景", "title_short_nav": "教育背景", "title_long_prefix": "这是我的", "title_long": "{{教育}}背景"},
-            "hi": {"title_short": "शिक्षा", "title_short_nav": "शिक्षा", "title_long_prefix": "यह मेरी", "title_long": "{{शैक्षिक}} पृष्ठभूमि है"},
-            "es": {"title_short": "Formación", "title_short_nav": "Formación", "title_long_prefix": "Esta es mi", "title_long": "{{Formación}} académica"},
-            "ar": {"title_short": "التعليم", "title_short_nav": "التعليم", "title_long_prefix": "هذه", "title_long": "{{خلفيتي}} التعليمية"}
+            "zh": {
+                "title_short": "教育背景",
+                "title_short_nav": "教育背景",
+                "title_long_prefix": "这是我的",
+                "title_long": "{{教育}}背景"
+            },
+            "hi": {
+                "title_short": "शिक्षा",
+                "title_short_nav": "शिक्षा",
+                "title_long_prefix": "यह मेरी",
+                "title_long": "{{शैक्षिक}} पृष्ठभूमि है"
+            },
+            "es": {
+                "title_short": "Formación",
+                "title_short_nav": "Formación",
+                "title_long_prefix": "Esta es mi",
+                "title_long": "{{Formación}} académica"
+            },
+            "ar": {
+                "title_short": "التعليم",
+                "title_short_nav": "التعليم",
+                "title_long_prefix": "هذه",
+                "title_long": "{{خلفيتي}} التعليمية"
+            },
+            "te": {
+                "title_short": "విద్య",
+                "title_short_nav": "విద్య",
+                "title_long_prefix": "నా",
+                "title_long": "{{విద్యా నేపథ్యం}}"
+            }
         }
     },
-    "articles":     [
+    "articles": [
         {
             "id": 1,
             "component": "ArticleTimeline",
@@ -40,6 +66,11 @@
                     "category_all": "All",
                     "category_academic": "Academic",
                     "category_courses": "Certifications"
+                },
+                "te": {
+                    "category_all": "అన్నీ",
+                    "category_academic": "విద్య",
+                    "category_courses": "ధృవపత్రాలు"
                 }
             },
             "settings": {
@@ -61,6 +92,11 @@
                             "institution": "Dr. B. R. Ambedkar Open University",
                             "country": "India",
                             "text": "Master of Science in Psychology, completed in 2021."
+                        },
+                        "te": {
+                            "title": "సైకాలజీలో {{ఎం.ఎస్‌సి.}}",
+                            "country": "భారతదేశం",
+                            "text": "డాక్టర్ బి.ఆర్. అంబేద్కర్ ఓపెన్ యూనివర్సిటీలో 2021లో సైకాలజీలో మాస్టర్ ఆఫ్ సైన్స్ పూర్తి చేశాను."
                         }
                     }
                 },
@@ -74,6 +110,11 @@
                             "institution": "KnowledgeHut Solutions Pvt. Ltd.",
                             "country": "India",
                             "text": "Certified Scrum Master (CSM), 2016. Course ID: CSMKH-1; Certificate No. CSMKH-1/101."
+                        },
+                        "te": {
+                            "title": "{{సర్టిఫైడ్ స్క్రమ్ మాస్టర్}}",
+                            "country": "భారతదేశం",
+                            "text": "KnowledgeHutలో 2016లో సర్టిఫైడ్ స్క్రమ్ మాస్టర్ (CSM) ధృవీకరణ పొందాను. కోర్సు ID: CSMKH-1; సర్టిఫికేట్ నం.: CSMKH-1/101."
                         }
                     }
                 },
@@ -87,6 +128,11 @@
                             "institution": "NB Science College, Osmania University",
                             "country": "India",
                             "text": "Master of Computer Applications (MCA), completed in 2011."
+                        },
+                        "te": {
+                            "title": "మాస్టర్ ఆఫ్ {{కంప్యూటర్ అప్లికేషన్స్}}",
+                            "country": "భారతదేశం",
+                            "text": "ఒస్మానియా యూనివర్సిటీకి చెందిన NB సైన్స్ కాలేజీలో 2011లో MCA పూర్తి చేశాను."
                         }
                     }
                 },
@@ -100,6 +146,11 @@
                             "institution": "Andhra University",
                             "country": "India",
                             "text": "Bachelor of Science (B.Sc.), completed in 2007."
+                        },
+                        "te": {
+                            "title": "బ్యాచిలర్ ఆఫ్ {{సైన్స్}}",
+                            "country": "భారతదేశం",
+                            "text": "ఆంధ్ర యూనివర్సిటీలో 2007లో B.Sc. పూర్తి చేశాను."
                         }
                     }
                 }

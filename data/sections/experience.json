@@ -25,17 +25,45 @@
                 "title_long_prefix": "私の",
                 "title_long": "{{職務}}経験のまとめ"
             },
-            "zh": {"title_short": "工作经历", "title_short_nav": "工作经历", "title_long_prefix": "我的", "title_long": "{{工作}}经历"},
-            "hi": {"title_short": "अनुभव", "title_short_nav": "अनुभव", "title_long_prefix": "मेरे कार्य का", "title_long": "{{अनुभव}} सारांश"},
-            "es": {"title_short": "Experiencia", "title_short_nav": "Experiencia", "title_long_prefix": "Resumen de mi", "title_long": "{{Experiencia}} laboral"},
-            "ar": {"title_short": "الخبرة", "title_short_nav": "الخبرة", "title_long_prefix": "ملخص", "title_long": "{{خبرتي}} المهنية"}
+            "zh": {
+                "title_short": "工作经历",
+                "title_short_nav": "工作经历",
+                "title_long_prefix": "我的",
+                "title_long": "{{工作}}经历"
+            },
+            "hi": {
+                "title_short": "अनुभव",
+                "title_short_nav": "अनुभव",
+                "title_long_prefix": "मेरे कार्य का",
+                "title_long": "{{अनुभव}} सारांश"
+            },
+            "es": {
+                "title_short": "Experiencia",
+                "title_short_nav": "Experiencia",
+                "title_long_prefix": "Resumen de mi",
+                "title_long": "{{Experiencia}} laboral"
+            },
+            "ar": {
+                "title_short": "الخبرة",
+                "title_short_nav": "الخبرة",
+                "title_long_prefix": "ملخص",
+                "title_long": "{{خبرتي}} المهنية"
+            },
+            "te": {
+                "title_short": "అనుభవం",
+                "title_short_nav": "అనుభవం",
+                "title_long_prefix": "నా",
+                "title_long": "{{వృత్తి అనుభవం}}"
+            }
         }
     },
-    "articles":     [
+    "articles": [
         {
             "id": 1,
             "component": "ArticleTimeline",
-            "locales": {},
+            "locales": {
+                "te": {}
+            },
             "settings": {
                 "order_items_by": "dateStart",
                 "order_items_sort": "desc"
@@ -46,27 +74,43 @@
                     "faIcon": "fa-solid fa-people-group",
                     "dateStart": {
                         "year": 2022,
-                        "month": 1
+                        "month": 3
                     },
                     "dateEnd": {
                         "now": true
                     },
                     "locales": {
                         "en": {
-                            "title": "{{Team Lead}}",
+                            "title": "{{Technical Lead}}",
                             "institution": "WebAppClouds Software Solutions",
-                            "country": "India",
+                            "country": "Hyderabad, India",
                             "text": "Lead a team of 10 engineers delivering high-availability web and mobile systems that contribute more than $1.2M in annual revenue.",
                             "list": [
                                 "Mentor developers and establish unified coding standards, increasing delivery velocity by 30%.",
-                                "Refine code quality frameworks, reducing post-release defects by 20%."
+                                "Refine code quality frameworks, reducing post-release defects by 20%.",
+                                "Manage client communication to align technical delivery with requirements and provide clear progress updates."
                             ],
                             "tags": [
                                 "Node.js",
                                 "Angular",
                                 "React",
                                 "AWS",
-                                "Team Leadership"
+                                "TypeScript",
+                                "JavaScript",
+                                "REST APIs",
+                                "Microservices",
+                                "Team Leadership",
+                                "Client Communication"
+                            ]
+                        },
+                        "te": {
+                            "title": "{{టెక్నికల్ లీడ్}}",
+                            "country": "హైదరాబాద్, భారతదేశం",
+                            "text": "10 మంది ఇంజినీర్ల బృందానికి నాయకత్వం వహిస్తూ, సంవత్సరానికి $1.2M కంటే ఎక్కువ ఆదాయానికి తోడ్పడే అధిక లభ్యత గల వెబ్, మొబైల్ వ్యవస్థలను అందిస్తున్నాను.",
+                            "list": [
+                                "డెవలపర్లకు మార్గనిర్దేశం చేసి, ఏకరీతి కోడింగ్ ప్రమాణాలను ఏర్పాటు చేయడం ద్వారా పనుల అమలు వేగాన్ని 30% పెంచాను.",
+                                "కోడ్ నాణ్యతా విధానాలను మెరుగుపరచి, విడుదల తర్వాతి లోపాలను 20% తగ్గించాను.",
+                                "సాంకేతిక పనులను అవసరాలకు అనుగుణంగా సమన్వయం చేయడానికి, పురోగతిని స్పష్టంగా తెలియజేయడానికి క్లయింట్లతో కమ్యూనికేషన్ నిర్వహిస్తాను."
                             ]
                         }
                     }
@@ -75,18 +119,18 @@
                     "id": 2,
                     "faIcon": "fa-solid fa-gears",
                     "dateStart": {
-                        "year": 2020,
-                        "month": 1
+                        "year": 2019,
+                        "month": 12
                     },
                     "dateEnd": {
-                        "year": 2021,
-                        "month": 12
+                        "year": 2022,
+                        "month": 2
                     },
                     "locales": {
                         "en": {
                             "title": "{{Team Lead}}",
                             "institution": "Appcloud Software Solutions",
-                            "country": "India",
+                            "country": "Hyderabad, India",
                             "text": "Modernized legacy platforms for enterprise scalability and improved application performance and reliability.",
                             "list": [
                                 "Architected microservices that reduced system load times by 30%.",
@@ -96,7 +140,20 @@
                                 "Microservices",
                                 "Architecture",
                                 "QA",
-                                "Performance"
+                                "Performance",
+                                "Node.js",
+                                "Angular",
+                                "REST APIs",
+                                "AWS"
+                            ]
+                        },
+                        "te": {
+                            "title": "{{టీమ్ లీడ్}}",
+                            "country": "హైదరాబాద్, భారతదేశం",
+                            "text": "ఎంటర్‌ప్రైజ్ స్థాయిలో విస్తరించేలా పాత ప్లాట్‌ఫారమ్‌లను ఆధునీకరించి, అప్లికేషన్ పనితీరు మరియు విశ్వసనీయతను మెరుగుపరిచాను.",
+                            "list": [
+                                "మైక్రోసర్వీస్ నిర్మాణాన్ని రూపొందించి, సిస్టమ్ లోడ్ సమయాన్ని 30% తగ్గించాను.",
+                                "క్రమబద్ధమైన QA విధానాలను అమలు చేసి, ప్రొడక్షన్ సమస్యలను 50% తగ్గించాను."
                             ]
                         }
                     }
@@ -106,7 +163,7 @@
                     "faIcon": "fa-solid fa-train",
                     "dateStart": {
                         "year": 2018,
-                        "month": 1
+                        "month": 12
                     },
                     "dateEnd": {
                         "year": 2019,
@@ -116,7 +173,7 @@
                         "en": {
                             "title": "{{Senior Associate}}",
                             "institution": "Cognizant",
-                            "country": "India",
+                            "country": "Hyderabad, India",
                             "text": "Built full-stack Node.js and Angular systems, including scalable REST APIs for railway logistics.",
                             "list": [
                                 "Engineered APIs handling 500,000+ daily concurrent requests at under 200 ms latency.",
@@ -128,7 +185,19 @@
                                 "Angular",
                                 "REST APIs",
                                 "Microservices",
-                                "PostgreSQL"
+                                "PostgreSQL",
+                                "TypeScript",
+                                "JavaScript"
+                            ]
+                        },
+                        "te": {
+                            "title": "{{సీనియర్ అసోసియేట్}}",
+                            "country": "హైదరాబాద్, భారతదేశం",
+                            "text": "రైల్వే లాజిస్టిక్స్ కోసం విస్తరించగల REST APIలతో సహా Node.js, Angular ఫుల్-స్టాక్ వ్యవస్థలను నిర్మించాను.",
+                            "list": [
+                                "రోజుకు 500,000+ ఏకకాల అభ్యర్థనలను 200 మిల్లీసెకన్లలోపు ఆలస్యంతో నిర్వహించే APIలను రూపొందించాను.",
+                                "పాత మోనోలిథిక్ వ్యవస్థలను 15+ మాడ్యులర్ మైక్రోసర్వీసులుగా విభజించి, డిప్లాయ్‌మెంట్ తరచుదనాన్ని 50% పెంచాను.",
+                                "పనితీరు కోసం Spot Award, Shining Star Award అందుకున్నాను."
                             ]
                         }
                     }
@@ -137,18 +206,18 @@
                     "id": 4,
                     "faIcon": "fa-solid fa-laptop-code",
                     "dateStart": {
-                        "year": 2017,
+                        "year": 2018,
                         "month": 1
                     },
                     "dateEnd": {
-                        "year": 2017,
+                        "year": 2018,
                         "month": 12
                     },
                     "locales": {
                         "en": {
                             "title": "{{Senior Software Engineer}}",
                             "institution": "Appcloud Software Solutions",
-                            "country": "India",
+                            "country": "Hyderabad, India",
                             "text": "Managed technical delivery for a team of 10, ensuring high-quality releases under aggressive timelines.",
                             "list": [
                                 "Improved customer satisfaction by 20% through proactive system stabilization and performance tuning."
@@ -156,7 +225,19 @@
                             "tags": [
                                 "Technical Delivery",
                                 "Team Leadership",
-                                "Performance"
+                                "Performance",
+                                "Node.js",
+                                "Angular",
+                                "JavaScript",
+                                "REST APIs"
+                            ]
+                        },
+                        "te": {
+                            "title": "{{సీనియర్ సాఫ్ట్‌వేర్ ఇంజినీర్}}",
+                            "country": "హైదరాబాద్, భారతదేశం",
+                            "text": "కఠినమైన గడువుల్లో నాణ్యమైన విడుదలలను నిర్ధారిస్తూ 10 మంది సభ్యుల బృందం సాంకేతిక పనుల అమలును నిర్వహించాను.",
+                            "list": [
+                                "ముందస్తు సిస్టమ్ స్థిరీకరణ, పనితీరు మెరుగుదల ద్వారా కస్టమర్ సంతృప్తిని 20% పెంచాను."
                             ]
                         }
                     }
@@ -165,18 +246,18 @@
                     "id": 5,
                     "faIcon": "fa-solid fa-code",
                     "dateStart": {
-                        "year": 2012,
-                        "month": 12
+                        "year": 2013,
+                        "month": 3
                     },
                     "dateEnd": {
-                        "year": 2016,
-                        "month": 12
+                        "year": 2018,
+                        "month": 1
                     },
                     "locales": {
                         "en": {
                             "title": "{{Associate Consultant}}",
                             "institution": "Vedic Systems",
-                            "country": "India",
+                            "country": "Hyderabad, India",
                             "text": "Developed Java and Spring MVC applications and helped improve system performance and delivery practices.",
                             "list": [
                                 "Built a modular microservices framework that reduced feature deployment cycles by 40% and improved throughput by 25%.",
@@ -186,7 +267,19 @@
                                 "Java",
                                 "Spring MVC",
                                 "Microservices",
-                                "JavaScript"
+                                "JavaScript",
+                                "MySQL",
+                                "PostgreSQL",
+                                "MongoDB"
+                            ]
+                        },
+                        "te": {
+                            "title": "{{అసోసియేట్ కన్సల్టెంట్}}",
+                            "country": "హైదరాబాద్, భారతదేశం",
+                            "text": "Java, Spring MVC అప్లికేషన్లను అభివృద్ధి చేసి, సిస్టమ్ పనితీరు మరియు డెలివరీ విధానాలను మెరుగుపరచడంలో సహకరించాను.",
+                            "list": [
+                                "మాడ్యులర్ మైక్రోసర్వీస్ ఫ్రేమ్‌వర్క్‌తో ఫీచర్ డిప్లాయ్‌మెంట్ చక్రాలను 40% తగ్గించి, పనితీరును 25% పెంచాను.",
+                                "కఠినమైన డీబగ్గింగ్, ఆప్టిమైజేషన్ ద్వారా లోపాలను 40% తగ్గించాను."
                             ]
                         }
                     }

@@ -1,7 +1,7 @@
 {
     "name": "Vinodh Ram Molli",
     "profilePictureUrl": "images/content/pfp-{theme}.png",
-    "resumePdfUrl": "pdf/Vinodh_Ram_Molli_Latest_Resume.pdf",
+    "resumePdfUrl": "pdf/resume.pdf",
     "statusCircleVisible": true,
     "statusCircleVariant": "available",
     "statusCircleHoverMessage": "status_message_available_for_freelance",
@@ -69,6 +69,19 @@
                 "Angular Developer",
                 "Microservices Architect",
                 "Engineering Team Lead"
+            ]
+        },
+        "te": {
+            "localized_name": "వినోద్ రామ్ మొల్లి",
+            "localized_name_stylized": "<strong>వినోద్ {{రామ్ మొల్లి}}</strong>",
+            "status_message_available_for_freelance": "రిమోట్ ఉద్యోగాలకు సిద్ధంగా ఉన్నాను",
+            "roles": [
+                "వ్యూహాత్మక టెక్ లీడ్",
+                "ఫుల్-స్టాక్ డెవలపర్",
+                "Node.js డెవలపర్",
+                "Angular డెవలపర్",
+                "మైక్రోసర్వీసెస్ ఆర్కిటెక్ట్",
+                "ఇంజినీరింగ్ టీమ్ లీడ్"
             ]
         }
     }
