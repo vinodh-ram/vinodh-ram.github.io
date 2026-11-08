@@ -39,7 +39,7 @@ Feel free to reach out. Always happy to connect with curious minds and fellow bu
 ---
 
 <p align="center">
-  Made with ❤️ and curiosity by Vinodhram.
+  Made with ❤️ and curiosity by Vinodh Ram.
   <br />
   <a href="https://vinodhram.com">vinodhram.com</a>
 </p>
