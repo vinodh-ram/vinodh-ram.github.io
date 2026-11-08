@@ -75,6 +75,18 @@
                         "en": {
                             "label": "India | Open to Remote Roles"
                         },
+                        "zh": {
+                            "label": "印度 | 欢迎远程工作机会"
+                        },
+                        "hi": {
+                            "label": "भारत | रिमोट कार्य के अवसरों के लिए उपलब्ध"
+                        },
+                        "es": {
+                            "label": "India | Disponible para trabajar en remoto"
+                        },
+                        "ar": {
+                            "label": "الهند | متاح لفرص العمل عن بُعد"
+                        },
                         "te": {
                             "label": "భారతదేశం | రిమోట్ ఉద్యోగాలకు సిద్ధం"
                         }
@@ -116,6 +128,18 @@
                 "en": {
                     "title": "A little about my {{work}}"
                 },
+                "zh": {
+                    "title": "关于我的{{工作}}"
+                },
+                "hi": {
+                    "title": "मेरे {{काम}} के बारे में"
+                },
+                "es": {
+                    "title": "Un poco sobre mi {{trabajo}}"
+                },
+                "ar": {
+                    "title": "نبذة عن {{عملي}}"
+                },
                 "te": {
                     "title": "నా {{పని}} గురించి"
                 }
@@ -124,13 +148,32 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/content/article-text-image-home.png",
+                    "img": "images/content/article-text-image-home.svg",
+                    "label": "Tablet and desktop illustrating software development",
                     "locales": {
                         "en": {
-                            "text": "<p>Strategic Tech Lead with 13+ years of experience building scalable web and mobile ecosystems with Node.js, Angular, React, and AWS. I lead cross-functional engineering teams and modernize legacy systems into high-performance microservices.</p><p>With an M.Sc. in Psychology, I bring a people-centered approach to mentoring developers, strengthening team dynamics, and improving delivery.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Molli_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>Download my resume</a></p>"
+                            "label": "Tablet and desktop illustrating software development",
+                            "text": "<p>Engineering Team Lead with 13+ years of experience building scalable web and mobile ecosystems with Node.js, Angular, React, and AWS. I lead cross-functional engineering teams and modernize legacy systems into high-performance microservices.</p><p>With an M.Sc. in Psychology, I bring a people-centered approach to mentoring developers, strengthening team dynamics, and improving delivery.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>Download my resume</a></p>"
+                        },
+                        "zh": {
+                            "label": "展示软件开发的平板电脑和台式电脑",
+                            "text": "<p>拥有 13 年以上经验的工程团队负责人，使用 Node.js、Angular、React 和 AWS 构建可扩展的 Web 与移动生态系统。我带领跨职能工程团队，并将旧系统现代化为高性能微服务。</p><p>凭借心理学理学硕士背景，我以关注人的方式指导开发人员、增强团队协作并改善交付。</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>下载我的简历</a></p>"
+                        },
+                        "hi": {
+                            "label": "सॉफ्टवेयर विकास दर्शाने वाला टैबलेट और डेस्कटॉप",
+                            "text": "<p>13+ वर्षों के अनुभव वाले इंजीनियरिंग टीम लीड, जो Node.js, Angular, React और AWS के साथ विस्तार योग्य वेब और मोबाइल इकोसिस्टम बनाते हैं। मैं विभिन्न विशेषज्ञताओं वाली इंजीनियरिंग टीमों का नेतृत्व करता हूँ और पुराने सिस्टम को उच्च-प्रदर्शन वाले माइक्रोसर्विसेज़ में आधुनिक बनाता हूँ।</p><p>मनोविज्ञान में M.Sc. के साथ, मैं डेवलपरों का मार्गदर्शन करने, टीम के तालमेल को मजबूत करने और डिलीवरी बेहतर बनाने में व्यक्ति-केंद्रित दृष्टिकोण अपनाता हूँ।</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>मेरा रिज़्यूमे डाउनलोड करें</a></p>"
+                        },
+                        "es": {
+                            "label": "Tableta y ordenador de escritorio que ilustran el desarrollo de software",
+                            "text": "<p>Líder de equipos de ingeniería con más de 13 años de experiencia creando ecosistemas web y móviles escalables con Node.js, Angular, React y AWS. Dirijo equipos de ingeniería multidisciplinarios y modernizo sistemas heredados para convertirlos en microservicios de alto rendimiento.</p><p>Con un máster en Psicología, aporto un enfoque centrado en las personas para orientar a desarrolladores, fortalecer la dinámica del equipo y mejorar las entregas.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>Descargar mi currículum</a></p>"
+                        },
+                        "ar": {
+                            "label": "جهاز لوحي وحاسوب مكتبي يوضحان تطوير البرمجيات",
+                            "text": "<p>قائد فريق هندسي بخبرة تزيد على 13 عامًا في بناء منظومات ويب وجوال قابلة للتوسع باستخدام Node.js وAngular وReact وAWS. أقود فرقًا هندسية متعددة التخصصات وأحدّث الأنظمة القديمة إلى خدمات مصغرة عالية الأداء.</p><p>وبفضل درجة الماجستير في علم النفس، أتبع نهجًا يركز على الإنسان في توجيه المطورين وتعزيز تعاون الفريق وتحسين التسليم.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>تنزيل سيرتي الذاتية</a></p>"
                         },
                         "te": {
-                            "text": "<p>Node.js, Angular, React, AWS సాంకేతికతలతో విస్తరించగల వెబ్, మొబైల్ వ్యవస్థలను నిర్మిస్తున్న వ్యూహాత్మక టెక్ లీడ్‌గా నాకు 13+ సంవత్సరాల అనుభవం ఉంది. విభిన్న విభాగాల ఇంజినీరింగ్ బృందాలకు నాయకత్వం వహిస్తూ, పాత వ్యవస్థలను అధిక పనితీరు గల మైక్రోసర్వీసులుగా ఆధునీకరిస్తాను.</p><p>సైకాలజీలో మాస్టర్స్ డిగ్రీతో, డెవలపర్లకు మార్గనిర్దేశం చేయడం, బృందాల సమన్వయాన్ని బలోపేతం చేయడం, పనుల అమలును మెరుగుపరచడంలో వ్యక్తి-కేంద్రిత దృక్పథాన్ని అనుసరిస్తాను.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Molli_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>నా రెజ్యూమేను డౌన్‌లోడ్ చేయండి</a></p>"
+                            "label": "సాఫ్ట్‌వేర్ అభివృద్ధిని సూచించే టాబ్లెట్ మరియు డెస్క్‌టాప్",
+                            "text": "<p>Node.js, Angular, React, AWS సాంకేతికతలతో విస్తరించగల వెబ్, మొబైల్ వ్యవస్థలను నిర్మిస్తున్న వ్యూహాత్మక టెక్ లీడ్‌గా నాకు 13+ సంవత్సరాల అనుభవం ఉంది. విభిన్న విభాగాల ఇంజినీరింగ్ బృందాలకు నాయకత్వం వహిస్తూ, పాత వ్యవస్థలను అధిక పనితీరు గల మైక్రోసర్వీసులుగా ఆధునీకరిస్తాను.</p><p>సైకాలజీలో మాస్టర్స్ డిగ్రీతో, డెవలపర్లకు మార్గనిర్దేశం చేయడం, బృందాల సమన్వయాన్ని బలోపేతం చేయడం, పనుల అమలును మెరుగుపరచడంలో వ్యక్తి-కేంద్రిత దృక్పథాన్ని అనుసరిస్తాను.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>నా రెజ్యూమేను డౌన్‌లోడ్ చేయండి</a></p>"
                         }
                     }
                 }
@@ -142,6 +185,18 @@
             "locales": {
                 "en": {
                     "title": "What {{I do}}"
+                },
+                "zh": {
+                    "title": "{{我的工作}}内容"
+                },
+                "hi": {
+                    "title": "मैं {{क्या करता हूँ}}"
+                },
+                "es": {
+                    "title": "Lo que {{hago}}"
+                },
+                "ar": {
+                    "title": "ما {{أقدمه}}"
                 },
                 "te": {
                     "title": "నేను చేసే {{పనులు}}"
@@ -155,6 +210,22 @@
                         "en": {
                             "title": "{{Engineering Leadership}}",
                             "text": "Leading and mentoring cross-functional teams, establishing coding standards, and improving release velocity."
+                        },
+                        "zh": {
+                            "title": "{{工程领导力}}",
+                            "text": "领导并指导跨职能团队，建立编码规范并提升版本发布速度。"
+                        },
+                        "hi": {
+                            "title": "{{इंजीनियरिंग नेतृत्व}}",
+                            "text": "बहु-विषयक टीमों का नेतृत्व और मार्गदर्शन करना, कोडिंग मानक स्थापित करना और रिलीज़ की गति बढ़ाना।"
+                        },
+                        "es": {
+                            "title": "{{Liderazgo de ingeniería}}",
+                            "text": "Liderar y orientar equipos multidisciplinarios, establecer estándares de codificación y acelerar las entregas."
+                        },
+                        "ar": {
+                            "title": "{{القيادة الهندسية}}",
+                            "text": "قيادة الفرق متعددة التخصصات وتوجيهها، ووضع معايير للبرمجة، وتحسين سرعة إصدار الإصدارات."
                         },
                         "te": {
                             "title": "{{ఇంజినీరింగ్ నాయకత్వం}}",
@@ -170,6 +241,22 @@
                             "title": "{{Full-Stack Development}}",
                             "text": "Building web and mobile applications with Angular, React, Node.js, and Java."
                         },
+                        "zh": {
+                            "title": "{{全栈开发}}",
+                            "text": "使用 Angular、React、Node.js 和 Java 构建 Web 与移动应用。"
+                        },
+                        "hi": {
+                            "title": "{{फुल-स्टैक विकास}}",
+                            "text": "Angular, React, Node.js और Java के साथ वेब और मोबाइल ऐप बनाना।"
+                        },
+                        "es": {
+                            "title": "{{Desarrollo full-stack}}",
+                            "text": "Crear aplicaciones web y móviles con Angular, React, Node.js y Java."
+                        },
+                        "ar": {
+                            "title": "{{تطوير متكامل}}",
+                            "text": "بناء تطبيقات ويب وجوال باستخدام Angular وReact وNode.js وJava."
+                        },
                         "te": {
                             "title": "{{ఫుల్-స్టాక్ అభివృద్ధి}}",
                             "text": "Angular, React, Node.js, Java ఉపయోగించి వెబ్, మొబైల్ అప్లికేషన్లను నిర్మించడం."
@@ -184,6 +271,22 @@
                             "title": "{{Microservices & APIs}}",
                             "text": "Designing REST APIs and modular services to modernize legacy systems and improve scalability."
                         },
+                        "zh": {
+                            "title": "{{微服务与 API}}",
+                            "text": "设计 REST API 和模块化服务，使旧系统现代化并提升可扩展性。"
+                        },
+                        "hi": {
+                            "title": "{{माइक्रोसर्विसेज़ और API}}",
+                            "text": "पुराने सिस्टम को आधुनिक बनाने और विस्तार क्षमता बढ़ाने के लिए REST API और मॉड्यूलर सेवाएँ डिज़ाइन करना।"
+                        },
+                        "es": {
+                            "title": "{{Microservicios y API}}",
+                            "text": "Diseñar API REST y servicios modulares para modernizar sistemas heredados y mejorar su escalabilidad."
+                        },
+                        "ar": {
+                            "title": "{{الخدمات المصغرة وواجهات API}}",
+                            "text": "تصميم واجهات REST API وخدمات معيارية لتحديث الأنظمة القديمة وتحسين قابليتها للتوسع."
+                        },
                         "te": {
                             "title": "{{మైక్రోసర్వీసులు & APIలు}}",
                             "text": "పాత వ్యవస్థలను ఆధునీకరించి విస్తరణ సామర్థ్యాన్ని మెరుగుపరచడానికి REST APIలు, మాడ్యులర్ సేవలను రూపొందించడం."
@@ -197,6 +300,22 @@
                         "en": {
                             "title": "{{AWS Cloud Solutions}}",
                             "text": "Delivering cloud-backed systems with AWS services including Lambda, S3, RDS, and EC2."
+                        },
+                        "zh": {
+                            "title": "{{AWS 云解决方案}}",
+                            "text": "利用 Lambda、S3、RDS 和 EC2 等 AWS 服务交付云端系统。"
+                        },
+                        "hi": {
+                            "title": "{{AWS क्लाउड समाधान}}",
+                            "text": "Lambda, S3, RDS और EC2 सहित AWS सेवाओं के साथ क्लाउड-आधारित सिस्टम उपलब्ध कराना।"
+                        },
+                        "es": {
+                            "title": "{{Soluciones en la nube de AWS}}",
+                            "text": "Desarrollar sistemas en la nube con servicios de AWS como Lambda, S3, RDS y EC2."
+                        },
+                        "ar": {
+                            "title": "{{حلول AWS السحابية}}",
+                            "text": "تقديم أنظمة سحابية باستخدام خدمات AWS، بما فيها Lambda وS3 وRDS وEC2."
                         },
                         "te": {
                             "title": "{{AWS క్లౌడ్ పరిష్కారాలు}}",
@@ -213,6 +332,18 @@
             "locales": {
                 "en": {
                     "title": "{{Languages}} I Speak"
+                },
+                "zh": {
+                    "title": "我会说的{{语言}}"
+                },
+                "hi": {
+                    "title": "मैं कौन-सी {{भाषाएँ}} बोलता हूँ"
+                },
+                "es": {
+                    "title": "{{Idiomas}} que hablo"
+                },
+                "ar": {
+                    "title": "{{اللغات}} التي أتحدثها"
                 },
                 "te": {
                     "title": "{{నాకు తెలిసిన భాషలు}}"
@@ -232,6 +363,26 @@
                             "level": "Fluent",
                             "text": "Smooth and confident communication for professional and everyday environments."
                         },
+                        "zh": {
+                            "title": "英语",
+                            "level": "流利",
+                            "text": "能够在专业和日常场合中流畅、自信地交流。"
+                        },
+                        "hi": {
+                            "title": "अंग्रेज़ी",
+                            "level": "धाराप्रवाह",
+                            "text": "पेशेवर और रोज़मर्रा के माहौल में सहज और आत्मविश्वास से संवाद।"
+                        },
+                        "es": {
+                            "title": "Inglés",
+                            "level": "Fluido",
+                            "text": "Comunicación fluida y segura en entornos profesionales y cotidianos."
+                        },
+                        "ar": {
+                            "title": "الإنجليزية",
+                            "level": "بطلاقة",
+                            "text": "تواصل سلس وواثق في البيئات المهنية واليومية."
+                        },
                         "te": {
                             "title": "English",
                             "level": "ప్రవీణం",
@@ -248,6 +399,26 @@
                             "level": "Fluent",
                             "text": "Natural and effortless interaction in both formal and casual settings."
                         },
+                        "zh": {
+                            "title": "印地语",
+                            "level": "流利",
+                            "text": "能够在正式和日常场合中自然、轻松地交流。"
+                        },
+                        "hi": {
+                            "title": "हिंदी",
+                            "level": "धाराप्रवाह",
+                            "text": "औपचारिक और अनौपचारिक, दोनों परिस्थितियों में स्वाभाविक और सहज संवाद।"
+                        },
+                        "es": {
+                            "title": "Hindi",
+                            "level": "Fluido",
+                            "text": "Interacción natural y cómoda tanto en contextos formales como informales."
+                        },
+                        "ar": {
+                            "title": "الهندية",
+                            "level": "بطلاقة",
+                            "text": "تواصل طبيعي وسلس في الأجواء الرسمية وغير الرسمية."
+                        },
                         "te": {
                             "title": "Hindi",
                             "level": "ప్రవీణం",
@@ -263,6 +434,26 @@
                             "title": "Telugu",
                             "level": "Native",
                             "text": "Complete native mastery with complete linguistic and cultural fluency."
+                        },
+                        "zh": {
+                            "title": "泰卢固语",
+                            "level": "母语",
+                            "text": "母语水平，具备完整的语言能力和文化流利度。"
+                        },
+                        "hi": {
+                            "title": "तेलुगु",
+                            "level": "मातृभाषा",
+                            "text": "मातृभाषा पर पूर्ण अधिकार और भाषा व संस्कृति में सहज दक्षता।"
+                        },
+                        "es": {
+                            "title": "Telugu",
+                            "level": "Nativo",
+                            "text": "Dominio nativo completo y plena fluidez lingüística y cultural."
+                        },
+                        "ar": {
+                            "title": "التيلوغوية",
+                            "level": "اللغة الأم",
+                            "text": "إتقان كامل للغة الأم وطلاقة لغوية وثقافية."
                         },
                         "te": {
                             "title": "Telugu",

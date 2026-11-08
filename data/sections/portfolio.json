@@ -74,7 +74,24 @@
                             "title": "50,000+",
                             "text": "Monthly Transactions"
                         },
+                        "zh": {
+                            "title": "50,000+",
+                            "text": "月交易量"
+                        },
+                        "hi": {
+                            "title": "50,000+",
+                            "text": "मासिक लेन-देन"
+                        },
+                        "es": {
+                            "title": "50.000+",
+                            "text": "Transacciones mensuales"
+                        },
+                        "ar": {
+                            "title": "+50,000",
+                            "text": "معاملة شهريًا"
+                        },
                         "te": {
+                            "title": "50,000+",
                             "text": "నెలవారీ లావాదేవీలు"
                         }
                     }
@@ -87,7 +104,24 @@
                             "title": "10+",
                             "text": "Engineers Led"
                         },
+                        "zh": {
+                            "title": "10+",
+                            "text": "带领的工程师"
+                        },
+                        "hi": {
+                            "title": "10+",
+                            "text": "नेतृत्व किए इंजीनियर"
+                        },
+                        "es": {
+                            "title": "10+",
+                            "text": "Ingenieros liderados"
+                        },
+                        "ar": {
+                            "title": "+10",
+                            "text": "مهندسين تحت قيادتي"
+                        },
                         "te": {
+                            "title": "10+",
                             "text": "నాయకత్వం వహించిన ఇంజినీర్లు"
                         }
                     }
@@ -100,7 +134,24 @@
                             "title": "30%",
                             "text": "Faster Delivery"
                         },
+                        "zh": {
+                            "title": "30%",
+                            "text": "更快的交付"
+                        },
+                        "hi": {
+                            "title": "30%",
+                            "text": "तेज़ डिलीवरी"
+                        },
+                        "es": {
+                            "title": "30 %",
+                            "text": "Entrega más rápida"
+                        },
+                        "ar": {
+                            "title": "30٪",
+                            "text": "تسليم أسرع"
+                        },
                         "te": {
+                            "title": "30%",
                             "text": "డెలివరీ వేగం పెరుగుదల"
                         }
                     }
@@ -113,7 +164,24 @@
                             "title": "$1.2M+",
                             "text": "Annual Revenue Contribution"
                         },
+                        "zh": {
+                            "title": "$1.2M+",
+                            "text": "年度收入贡献"
+                        },
+                        "hi": {
+                            "title": "$1.2M+",
+                            "text": "वार्षिक राजस्व योगदान"
+                        },
+                        "es": {
+                            "title": "Más de 1,2 M$",
+                            "text": "Contribución a los ingresos anuales"
+                        },
+                        "ar": {
+                            "title": "+1.2 مليون دولار",
+                            "text": "المساهمة في الإيرادات السنوية"
+                        },
                         "te": {
+                            "title": "$1.2M+",
                             "text": "వార్షిక ఆదాయానికి తోడ్పాటు"
                         }
                     }
@@ -127,6 +195,18 @@
             "locales": {
                 "en": {
                     "title": "Selected {{Projects}}"
+                },
+                "zh": {
+                    "title": "{{精选项目}}"
+                },
+                "hi": {
+                    "title": "{{चुनिंदा प्रोजेक्ट}}"
+                },
+                "es": {
+                    "title": "{{Proyectos destacados}}"
+                },
+                "ar": {
+                    "title": "{{مشاريع مختارة}}"
                 },
                 "te": {
                     "title": "ఎంచుకున్న {{ప్రాజెక్టులు}}"
@@ -160,9 +240,30 @@
                                 "Twilio"
                             ]
                         },
+                        "zh": {
+                            "title": "STX {{Cloud}}",
+                            "text": "<p><strong>时间：</strong>2018 年 1 月–2018 年 12 月；2019 年 12 月–至今</p><p><strong>概述：</strong>面向服务、课程和套餐的在线预订与商务平台。客户可随时预约、查询可用时段、接收自动提醒、支付定金，并购买服务、零售商品和礼品卡。平台支持奖励计划、安全保存的支付方式及集成信用卡处理。</p><p><strong>职责与贡献：</strong>与客户合作将需求转化为解决方案，协调团队任务，处理关键应用工作和故障支持，并交付技术改进。参与 Angular、Node.js、MySQL 和 AWS 应用的多个部分，包括预约日历、结账流程、Clover/Stripe/Tilled 支付集成、Twilio 消息、定时任务、报告、移动 API、外部数据集成和 AWS API 服务。</p><p>系统设计支持每月 50,000+ 笔交易和 99.9% 的正常运行时间。</p>",
+                            "tags": ["Node.js", "Angular", "MySQL", "AWS", "Stripe", "Clover", "Twilio"]
+                        },
+                        "hi": {
+                            "title": "STX {{Cloud}}",
+                            "text": "<p><strong>अवधि:</strong> जनवरी 2018 – दिसंबर 2018; दिसंबर 2019 – वर्तमान</p><p><strong>अवलोकन:</strong> सेवाओं, कक्षाओं और पैकेजों के लिए ऑनलाइन बुकिंग और कॉमर्स प्लेटफ़ॉर्म। ग्राहक कभी भी बुकिंग कर सकते हैं, उपलब्ध समय देख सकते हैं, स्वचालित रिमाइंडर पा सकते हैं, अग्रिम भुगतान कर सकते हैं और सेवाएँ, रिटेल उत्पाद तथा गिफ्ट कार्ड खरीद सकते हैं। प्लेटफ़ॉर्म रिवॉर्ड, सुरक्षित रूप से सहेजे गए भुगतान तरीकों और एकीकृत क्रेडिट-कार्ड प्रोसेसिंग का समर्थन करता है।</p><p><strong>भूमिका और योगदान:</strong> क्लाइंट के साथ आवश्यकताओं को समाधान में बदलने, टीम के काम समन्वित करने, महत्वपूर्ण ऐप कार्य और क्रैश सहायता संभालने तथा तकनीकी सुधार देने में योगदान दिया। Angular, Node.js, MySQL और AWS ऐप में अपॉइंटमेंट कैलेंडर, चेकआउट, Clover/Stripe/Tilled भुगतान एकीकरण, Twilio संदेश, cron jobs, रिपोर्ट, मोबाइल API, बाहरी डेटा एकीकरण और AWS-आधारित API सेवाओं पर काम किया।</p><p>प्रति माह 50,000+ लेन-देन और 99.9% अपटाइम को समर्थन देने के लिए डिज़ाइन किया गया।</p>",
+                            "tags": ["Node.js", "Angular", "MySQL", "AWS", "Stripe", "Clover", "Twilio"]
+                        },
+                        "es": {
+                            "title": "STX {{Cloud}}",
+                            "text": "<p><strong>Duración:</strong> ENE 2018 – DIC 2018; DIC 2019 – ACTUALIDAD</p><p><strong>Resumen:</strong> Plataforma de reservas y comercio en línea para servicios, clases y paquetes. Los clientes pueden reservar en cualquier momento, consultar disponibilidad, recibir recordatorios automáticos, pagar depósitos y comprar servicios, productos y tarjetas regalo. La plataforma ofrece recompensas, métodos de pago almacenados de forma segura e integración para procesar tarjetas de crédito.</p><p><strong>Funciones y contribuciones:</strong> Colaboré con el cliente para convertir requisitos en soluciones, coordiné tareas del equipo, atendí trabajo crítico y soporte ante fallos de la aplicación e implementé mejoras técnicas. Trabajé en la aplicación Angular, Node.js, MySQL y AWS, incluidos el calendario de citas, el pago, las integraciones Clover/Stripe/Tilled, la mensajería Twilio, tareas cron, informes, API móviles, integraciones de datos externos y servicios API en AWS.</p><p>Diseñada para admitir más de 50.000 transacciones mensuales y un 99,9 % de disponibilidad.</p>",
+                            "tags": ["Node.js", "Angular", "MySQL", "AWS", "Stripe", "Clover", "Twilio"]
+                        },
+                        "ar": {
+                            "title": "STX {{Cloud}}",
+                            "text": "<p><strong>المدة:</strong> يناير 2018 – ديسمبر 2018؛ ديسمبر 2019 – حتى الآن</p><p><strong>نبذة:</strong> منصة للحجز والتجارة عبر الإنترنت للخدمات والدروس والباقات. يمكن للعملاء الحجز في أي وقت، ومعرفة المواعيد المتاحة، وتلقي تذكيرات آلية، ودفع العربون، وشراء الخدمات والمنتجات وبطاقات الهدايا. تدعم المنصة المكافآت وطرق الدفع المحفوظة بأمان ومعالجة بطاقات الائتمان المتكاملة.</p><p><strong>الدور والمساهمات:</strong> تعاونت مع العميل لتحويل المتطلبات إلى حلول، ونسقت مهام الفريق، وتوليت الأعمال الحرجة ودعم أعطال التطبيق، وقدمت تحسينات تقنية. ساهمت في تطبيق Angular وNode.js وMySQL وAWS، بما في ذلك تقويم المواعيد والدفع وتكاملات Clover/Stripe/Tilled ورسائل Twilio والمهام المجدولة والتقارير وواجهات API للجوال وتكامل البيانات الخارجية وخدمات API على AWS.</p><p>صُممت المنصة لدعم أكثر من 50,000 معاملة شهريًا وتوافر بنسبة 99.9٪.</p>",
+                            "tags": ["Node.js", "Angular", "MySQL", "AWS", "Stripe", "Clover", "Twilio"]
+                        },
                         "te": {
                             "title": "STX {{Cloud}}",
-                            "text": "<p><strong>వ్యవధి:</strong> జనవరి 2018–డిసెంబర్ 2018; డిసెంబర్ 2019–ప్రస్తుతం</p><p><strong>సారాంశం:</strong> సేవలు, తరగతులు, ప్యాకేజీల కోసం ఆన్‌లైన్ బుకింగ్ మరియు కామర్స్ ప్లాట్‌ఫారమ్. కస్టమర్లు ఎప్పుడైనా బుక్ చేసుకోవచ్చు, అందుబాటులో ఉన్న సమయాలను కనుగొనవచ్చు, ఆటోమేటెడ్ రిమైండర్‌లు పొందవచ్చు, అడ్వాన్స్ చెల్లించవచ్చు, సేవలు, రిటైల్ ఉత్పత్తులు, గిఫ్ట్ కార్డ్‌లు కొనుగోలు చేయవచ్చు. రివార్డ్‌లు, భద్రంగా నిల్వ చేసిన చెల్లింపు పద్ధతులు, సమగ్ర క్రెడిట్ కార్డ్ ప్రాసెసింగ్‌కు మద్దతు ఇస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> క్లయింట్ అవసరాలను పరిష్కారాలుగా మార్చడం, బృంద పనులను సమన్వయం చేయడం, కీలక అభివృద్ధి పనులు మరియు యాప్ క్రాష్‌లకు మద్దతు అందించడం, సాంకేతిక మెరుగుదలలు చేయడంలో భాగమయ్యాను. అపాయింట్‌మెంట్ క్యాలెండర్, చెక్‌అవుట్, Clover/Stripe/Tilled చెల్లింపులు, Twilio సందేశాలు, క్రాన్ జాబ్‌లు, నివేదికలు, మొబైల్ APIలు, ఇతర అప్లికేషన్‌లతో డేటా ఇంటిగ్రేషన్, AWS ఆధారిత API సేవలతో సహా Angular, Node.js, MySQL, AWSలోని వివిధ భాగాల్లో పనిచేశాను.</p><p>నెలకు 50,000+ లావాదేవీలు మరియు 99.9% అప్‌టైమ్‌కు మద్దతుగా రూపొందించబడింది.</p>"
+                            "text": "<p><strong>వ్యవధి:</strong> జనవరి 2018–డిసెంబర్ 2018; డిసెంబర్ 2019–ప్రస్తుతం</p><p><strong>సారాంశం:</strong> సేవలు, తరగతులు, ప్యాకేజీల కోసం ఆన్‌లైన్ బుకింగ్ మరియు కామర్స్ ప్లాట్‌ఫారమ్. కస్టమర్లు ఎప్పుడైనా బుక్ చేసుకోవచ్చు, అందుబాటులో ఉన్న సమయాలను కనుగొనవచ్చు, ఆటోమేటెడ్ రిమైండర్‌లు పొందవచ్చు, అడ్వాన్స్ చెల్లించవచ్చు, సేవలు, రిటైల్ ఉత్పత్తులు, గిఫ్ట్ కార్డ్‌లు కొనుగోలు చేయవచ్చు. రివార్డ్‌లు, భద్రంగా నిల్వ చేసిన చెల్లింపు పద్ధతులు, సమగ్ర క్రెడిట్ కార్డ్ ప్రాసెసింగ్‌కు మద్దతు ఇస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> క్లయింట్ అవసరాలను పరిష్కారాలుగా మార్చడం, బృంద పనులను సమన్వయం చేయడం, కీలక అభివృద్ధి పనులు మరియు యాప్ క్రాష్‌లకు మద్దతు అందించడం, సాంకేతిక మెరుగుదలలు చేయడంలో భాగమయ్యాను. అపాయింట్‌మెంట్ క్యాలెండర్, చెక్‌అవుట్, Clover/Stripe/Tilled చెల్లింపులు, Twilio సందేశాలు, క్రాన్ జాబ్‌లు, నివేదికలు, మొబైల్ APIలు, ఇతర అప్లికేషన్‌లతో డేటా ఇంటిగ్రేషన్, AWS ఆధారిత API సేవలతో సహా Angular, Node.js, MySQL, AWSలోని వివిధ భాగాల్లో పనిచేశాను.</p><p>నెలకు 50,000+ లావాదేవీలు మరియు 99.9% అప్‌టైమ్‌కు మద్దతుగా రూపొందించబడింది.</p>",
+                            "tags": ["Node.js", "Angular", "MySQL", "AWS", "Stripe", "Clover", "Twilio"]
                         }
                     }
                 },
@@ -187,9 +288,30 @@
                                 "Jasmine"
                             ]
                         },
+                        "zh": {
+                            "title": "{{TCIM App}}",
+                            "text": "<p><strong>时间：</strong>2018 年 12 月–2019 年 12 月</p><p><strong>概述：</strong>轨道电路实施与监控系统（TCIM）用于定位铁路道口预测器，并监控列车速度、列车问题和轨道状况。系统在 Google Maps 上显示列车实时位置和详情，并提供仪表板、图表和报告，以查看列车及轨道状态的变化。</p><p><strong>职责与贡献：</strong>端到端负责应用，从需求收集和客户进度会议，到设计、开发、部署及基于日志的问题管理。构建 UI、API 和 PostgreSQL 数据库；使用 Python 将 GCP 数据转换为易读信息；集成 Google Maps 与 OpenLayers；并实现 JWT 身份验证、PrimeNG 组件、图表仪表板和报告，以及使用 Karma 和 Jasmine 编写的 UI 测试。</p>",
+                            "tags": ["Node.js", "Angular", "PostgreSQL", "Python", "MindSphere", "Google Maps", "OpenLayers", "JWT", "Karma", "Jasmine"]
+                        },
+                        "hi": {
+                            "title": "{{TCIM App}}",
+                            "text": "<p><strong>अवधि:</strong> दिसंबर 2018 – दिसंबर 2019</p><p><strong>अवलोकन:</strong> Track Circuit Implementation and Monitor (TCIM) ग्रेड-क्रॉसिंग प्रेडिक्टर का स्थान पता करने तथा ट्रेन की गति, समस्याओं और ट्रैक की स्थिति पर नज़र रखने में मदद करता है। Google Maps पर ट्रेनों के लाइव स्थान और विवरण दिखाए जाते हैं; डैशबोर्ड, चार्ट और रिपोर्ट समय के साथ ट्रेन तथा ट्रैक की स्थिति देखने देते हैं।</p><p><strong>भूमिका और योगदान:</strong> आवश्यकताओं और क्लाइंट प्रगति बैठकों से लेकर डिज़ाइन, विकास, डिप्लॉयमेंट और लॉग-आधारित समस्या प्रबंधन तक ऐप की पूरी ज़िम्मेदारी संभाली। UI, API और PostgreSQL डेटाबेस बनाए; Python से GCP डेटा को पढ़ने योग्य जानकारी में बदला; Google Maps और OpenLayers जोड़े; तथा JWT प्रमाणीकरण, PrimeNG घटक, चार्ट-आधारित डैशबोर्ड और रिपोर्ट तथा Karma और Jasmine से UI परीक्षण लागू किए।</p>",
+                            "tags": ["Node.js", "Angular", "PostgreSQL", "Python", "MindSphere", "Google Maps", "OpenLayers", "JWT", "Karma", "Jasmine"]
+                        },
+                        "es": {
+                            "title": "{{TCIM App}}",
+                            "text": "<p><strong>Duración:</strong> DIC 2018 – DIC 2019</p><p><strong>Resumen:</strong> Track Circuit Implementation and Monitor (TCIM) ayuda a localizar predictores de pasos a nivel y a supervisar la velocidad de los trenes, sus incidencias y el estado de las vías. Muestra ubicaciones y detalles en tiempo real en Google Maps, con paneles, gráficos e informes para consultar la evolución del estado de trenes y vías.</p><p><strong>Funciones y contribuciones:</strong> Me responsabilicé de la aplicación de principio a fin: requisitos, reuniones de seguimiento con el cliente, diseño, desarrollo, despliegue y gestión de incidencias mediante registros. Creé la interfaz, las API y la base de datos PostgreSQL; transformé datos de GCP en información legible con Python; integré Google Maps y OpenLayers; e implementé autenticación JWT, componentes PrimeNG, paneles e informes gráficos y pruebas de interfaz con Karma y Jasmine.</p>",
+                            "tags": ["Node.js", "Angular", "PostgreSQL", "Python", "MindSphere", "Google Maps", "OpenLayers", "JWT", "Karma", "Jasmine"]
+                        },
+                        "ar": {
+                            "title": "{{TCIM App}}",
+                            "text": "<p><strong>المدة:</strong> ديسمبر 2018 – ديسمبر 2019</p><p><strong>نبذة:</strong> يساعد نظام Track Circuit Implementation and Monitor (TCIM) في تحديد مواقع أجهزة التنبؤ عند تقاطعات السكك الحديدية ومراقبة سرعة القطارات ومشكلاتها وحالة المسارات. يعرض مواقع القطارات وتفاصيلها مباشرة على Google Maps، مع لوحات معلومات ومخططات وتقارير لمراجعة حالة القطارات والمسارات بمرور الوقت.</p><p><strong>الدور والمساهمات:</strong> توليت مسؤولية التطبيق من البداية إلى النهاية، من المتطلبات واجتماعات متابعة العميل إلى التصميم والتطوير والنشر وإدارة المشكلات اعتمادًا على السجلات. أنشأت الواجهة وواجهات API وقاعدة بيانات PostgreSQL؛ وحولت بيانات GCP إلى معلومات مقروءة باستخدام Python؛ ودمجت Google Maps وOpenLayers؛ ونفذت مصادقة JWT ومكونات PrimeNG ولوحات وتقارير المخططات واختبارات الواجهة باستخدام Karma وJasmine.</p>",
+                            "tags": ["Node.js", "Angular", "PostgreSQL", "Python", "MindSphere", "Google Maps", "OpenLayers", "JWT", "Karma", "Jasmine"]
+                        },
                         "te": {
                             "title": "{{TCIM App}}",
-                            "text": "<p><strong>వ్యవధి:</strong> డిసెంబర్ 2018–డిసెంబర్ 2019</p><p><strong>సారాంశం:</strong> Track Circuit Implementation and Monitor (TCIM) గ్రేడ్-క్రాసింగ్ ప్రిడిక్టర్‌ల స్థానాన్ని గుర్తించి, రైళ్ల వేగం, సమస్యలు, ట్రాక్ పరిస్థితులను పర్యవేక్షించడానికి ఉపయోగపడుతుంది. Google Mapsలో రైళ్ల ప్రత్యక్ష స్థానాలు, వివరాలను చూపించి, కాలక్రమేణా రైలు మరియు ట్రాక్ స్థితిని పరిశీలించడానికి డాష్‌బోర్డ్‌లు, చార్ట్‌లు, నివేదికలను అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> అవసరాల సేకరణ, క్లయింట్ సమావేశాలు, రూపకల్పన, అభివృద్ధి, డిప్లాయ్‌మెంట్, లాగ్‌ల ద్వారా సమస్యల నిర్వహణ వరకు అప్లికేషన్‌కు పూర్తి బాధ్యత వహించాను. UI, APIలు, PostgreSQL డేటాబేస్ రూపొందించాను; Pythonతో GCP డేటాను చదవగలిగే సమాచారంగా మార్చాను; Google Maps, OpenLayers, JWT ఆథెంటికేషన్, PrimeNG, చార్ట్ డాష్‌బోర్డ్‌లు మరియు నివేదికలు, Karma మరియు Jasmine UI పరీక్షలను సమగ్రపరిచాను.</p>"
+                            "text": "<p><strong>వ్యవధి:</strong> డిసెంబర్ 2018–డిసెంబర్ 2019</p><p><strong>సారాంశం:</strong> Track Circuit Implementation and Monitor (TCIM) గ్రేడ్-క్రాసింగ్ ప్రిడిక్టర్‌ల స్థానాన్ని గుర్తించి, రైళ్ల వేగం, సమస్యలు, ట్రాక్ పరిస్థితులను పర్యవేక్షించడానికి ఉపయోగపడుతుంది. Google Mapsలో రైళ్ల ప్రత్యక్ష స్థానాలు, వివరాలను చూపించి, కాలక్రమేణా రైలు మరియు ట్రాక్ స్థితిని పరిశీలించడానికి డాష్‌బోర్డ్‌లు, చార్ట్‌లు, నివేదికలను అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> అవసరాల సేకరణ, క్లయింట్ సమావేశాలు, రూపకల్పన, అభివృద్ధి, డిప్లాయ్‌మెంట్, లాగ్‌ల ద్వారా సమస్యల నిర్వహణ వరకు అప్లికేషన్‌కు పూర్తి బాధ్యత వహించాను. UI, APIలు, PostgreSQL డేటాబేస్ రూపొందించాను; Pythonతో GCP డేటాను చదవగలిగే సమాచారంగా మార్చాను; Google Maps, OpenLayers, JWT ఆథెంటికేషన్, PrimeNG, చార్ట్ డాష్‌బోర్డ్‌లు మరియు నివేదికలు, Karma మరియు Jasmine UI పరీక్షలను సమగ్రపరిచాను.</p>",
+                            "tags": ["Node.js", "Angular", "PostgreSQL", "Python", "MindSphere", "Google Maps", "OpenLayers", "JWT", "Karma", "Jasmine"]
                         }
                     }
                 },
@@ -211,9 +333,30 @@
                                 "Video Streaming"
                             ]
                         },
+                        "zh": {
+                            "title": "{{WGVS}}",
+                            "text": "<p><strong>时间：</strong>2016 年 3 月–2017 年 7 月</p><p><strong>概述：</strong>World’s Greatest Videos（WGVS）是一个全球娱乐平台，社区成员可以上传、合并、评价和投票选择视频。平台提供视频创作体验，包括流媒体播放、热门内容、评论和社区奖项。</p><p><strong>职责与贡献：</strong>担任高级软件开发人员和视频模块负责人，带领 10 人团队交付前后端视频上传与发布功能。设计并开发 UI，实现 AWS 弹性转码及热门视频定时任务，设计数据库，并将 DynamoDB 与视频评论 API 集成。</p>",
+                            "tags": ["Node.js", "Angular 4", "MySQL", "DynamoDB", "AWS", "JW Player", "视频流"]
+                        },
+                        "hi": {
+                            "title": "{{WGVS}}",
+                            "text": "<p><strong>अवधि:</strong> मार्च 2016 – जुलाई 2017</p><p><strong>अवलोकन:</strong> World’s Greatest Videos (WGVS) एक वैश्विक मनोरंजन प्लेटफ़ॉर्म है जहाँ समुदाय वीडियो अपलोड, संयोजित, रेट और वोट कर सकता है। इसमें स्ट्रीमिंग, ट्रेंडिंग सामग्री, टिप्पणियों और सामुदायिक पुरस्कारों वाला वीडियो-निर्माण अनुभव शामिल है।</p><p><strong>भूमिका और योगदान:</strong> वरिष्ठ सॉफ्टवेयर डेवलपर और वीडियो मॉड्यूल लीड के रूप में 10 लोगों की टीम का नेतृत्व किया और फ्रंटएंड तथा बैकएंड पर वीडियो अपलोड व प्रकाशन दिया। UI डिज़ाइन और विकसित किया, AWS इलास्टिक ट्रांसकोडिंग और ट्रेंडिंग वीडियो के लिए cron jobs लागू किए, डेटाबेस डिज़ाइन किया तथा वीडियो टिप्पणियों के API के साथ DynamoDB एकीकृत किया।</p>",
+                            "tags": ["Node.js", "Angular 4", "MySQL", "DynamoDB", "AWS", "JW Player", "वीडियो स्ट्रीमिंग"]
+                        },
+                        "es": {
+                            "title": "{{WGVS}}",
+                            "text": "<p><strong>Duración:</strong> MAR 2016 – JUL 2017</p><p><strong>Resumen:</strong> World’s Greatest Videos (WGVS) es una plataforma global de entretenimiento donde la comunidad sube, combina y valora videos, y vota por ellos. Incluye una experiencia de creación de videos con streaming, contenido popular, comentarios y premios de la comunidad.</p><p><strong>Funciones y contribuciones:</strong> Dirigí un equipo de 10 personas como desarrollador sénior y responsable del módulo de video, entregando funciones de carga y publicación en frontend y backend. Diseñé y desarrollé la interfaz, implementé la transcodificación elástica de AWS y tareas cron para videos populares, diseñé la base de datos e integré DynamoDB con las API de comentarios.</p>",
+                            "tags": ["Node.js", "Angular 4", "MySQL", "DynamoDB", "AWS", "JW Player", "Streaming de video"]
+                        },
+                        "ar": {
+                            "title": "{{WGVS}}",
+                            "text": "<p><strong>المدة:</strong> مارس 2016 – يوليو 2017</p><p><strong>نبذة:</strong> World’s Greatest Videos (WGVS) منصة ترفيه عالمية يرفع فيها المجتمع مقاطع الفيديو ويدمجها ويقيّمها ويصوّت عليها. توفر تجربة لإنشاء الفيديو تشمل البث والمحتوى الرائج والتعليقات وجوائز المجتمع.</p><p><strong>الدور والمساهمات:</strong> قدت فريقًا من 10 أفراد بصفتي مطور برمجيات أول ومسؤول وحدة الفيديو، وقدمت وظائف رفع الفيديو ونشره في الواجهة الأمامية والخلفية. صممت الواجهة وطورتها، ونفذت التحويل المرن للفيديو في AWS والمهام المجدولة للمقاطع الرائجة، وصممت قاعدة البيانات ودمجت DynamoDB مع واجهات API لتعليقات الفيديو.</p>",
+                            "tags": ["Node.js", "Angular 4", "MySQL", "DynamoDB", "AWS", "JW Player", "بث الفيديو"]
+                        },
                         "te": {
                             "title": "{{WGVS}}",
-                            "text": "<p><strong>వ్యవధి:</strong> మార్చి 2016–జూలై 2017</p><p><strong>సారాంశం:</strong> World’s Greatest Videos (WGVS) అనేది వినియోగదారులు వీడియోలను అప్‌లోడ్ చేయడం, కలపడం, రేటింగ్ ఇవ్వడం, ఓటు వేయడం చేసే గ్లోబల్ వినోద ప్లాట్‌ఫారమ్. స్ట్రీమింగ్, ట్రెండింగ్ కంటెంట్, కామెంట్‌లు, కమ్యూనిటీ అవార్డులతో వీడియో క్రియేటర్ అనుభవాన్ని అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> సీనియర్ సాఫ్ట్‌వేర్ డెవలపర్ మరియు వీడియో మాడ్యూల్ లీడ్‌గా 10 మంది బృందానికి నాయకత్వం వహించి, ఫ్రంట్‌ఎండ్ మరియు బ్యాక్‌ఎండ్‌లో వీడియో అప్‌లోడ్, పబ్లిషింగ్‌ను అందించాను. UI రూపకల్పన, అభివృద్ధి, AWS ఎలాస్టిక్ ట్రాన్స్‌కోడింగ్, ట్రెండింగ్ వీడియోల క్రాన్ జాబ్‌లు, డేటాబేస్ రూపకల్పన, వీడియో కామెంట్‌ల కోసం APIలతో DynamoDB ఇంటిగ్రేషన్ చేశాను.</p>"
+                            "text": "<p><strong>వ్యవధి:</strong> మార్చి 2016–జూలై 2017</p><p><strong>సారాంశం:</strong> World’s Greatest Videos (WGVS) అనేది వినియోగదారులు వీడియోలను అప్‌లోడ్ చేయడం, కలపడం, రేటింగ్ ఇవ్వడం, ఓటు వేయడం చేసే గ్లోబల్ వినోద ప్లాట్‌ఫారమ్. స్ట్రీమింగ్, ట్రెండింగ్ కంటెంట్, కామెంట్‌లు, కమ్యూనిటీ అవార్డులతో వీడియో క్రియేటర్ అనుభవాన్ని అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> సీనియర్ సాఫ్ట్‌వేర్ డెవలపర్ మరియు వీడియో మాడ్యూల్ లీడ్‌గా 10 మంది బృందానికి నాయకత్వం వహించి, ఫ్రంట్‌ఎండ్ మరియు బ్యాక్‌ఎండ్‌లో వీడియో అప్‌లోడ్, పబ్లిషింగ్‌ను అందించాను. UI రూపకల్పన, అభివృద్ధి, AWS ఎలాస్టిక్ ట్రాన్స్‌కోడింగ్, ట్రెండింగ్ వీడియోల క్రాన్ జాబ్‌లు, డేటాబేస్ రూపకల్పన, వీడియో కామెంట్‌ల కోసం APIలతో DynamoDB ఇంటిగ్రేషన్ చేశాను.</p>",
+                            "tags": ["Node.js", "Angular 4", "MySQL", "DynamoDB", "AWS", "JW Player", "వీడియో స్ట్రీమింగ్"]
                         }
                     }
                 },
@@ -243,9 +386,30 @@
                                 "Express"
                             ]
                         },
+                        "zh": {
+                            "title": "{{Pigeon Tech}}",
+                            "text": "<p><strong>时间：</strong>2017 年 7 月–2018 年 1 月</p><p><strong>概述：</strong>面向动物园、水族馆、博物馆、美术馆、主题公园、购物中心、医疗机构及其他公共场所的实时定位平台。面向客户的应用提供基于位置的服务，并帮助机构洞察如何提升收入、忠诚度和访客满意度。</p><p><strong>职责与贡献：</strong>协助将客户想法转化为技术方案，带领并指导团队，开发关键应用功能。集成 Leaflet 地图，设计并构建 UI，实现 Node.js/Express 服务器并设计数据库。</p>",
+                            "tags": ["Ionic", "MySQL", "Leaflet", "AWS", "Node.js", "Express"]
+                        },
+                        "hi": {
+                            "title": "{{Pigeon Tech}}",
+                            "text": "<p><strong>अवधि:</strong> जुलाई 2017 – जनवरी 2018</p><p><strong>अवलोकन:</strong> चिड़ियाघरों, एक्वेरियम, संग्रहालयों, गैलरी, थीम पार्क, शॉपिंग मॉल, स्वास्थ्य सुविधाओं और अन्य सार्वजनिक स्थानों के लिए रियल-टाइम लोकेशन प्लेटफ़ॉर्म। इसके ग्राहक-केंद्रित ऐप स्थान-आधारित सेवाएँ देते हैं और संस्थाओं को राजस्व, ग्राहक निष्ठा तथा आगंतुक संतुष्टि बढ़ाने की जानकारी देते हैं।</p><p><strong>भूमिका और योगदान:</strong> क्लाइंट के विचारों को तकनीकी समाधानों में बदलने में मदद की, टीम का नेतृत्व और मार्गदर्शन किया तथा मुख्य ऐप सुविधाएँ विकसित कीं। Leaflet मानचित्र एकीकृत किए, UI डिज़ाइन और निर्मित किया, Node.js/Express सर्वर लागू किया और डेटाबेस डिज़ाइन किया।</p>",
+                            "tags": ["Ionic", "MySQL", "Leaflet", "AWS", "Node.js", "Express"]
+                        },
+                        "es": {
+                            "title": "{{Pigeon Tech}}",
+                            "text": "<p><strong>Duración:</strong> JUL 2017 – ENE 2018</p><p><strong>Resumen:</strong> Plataforma de localización en tiempo real para zoológicos, acuarios, museos, galerías, parques temáticos, centros comerciales, centros sanitarios y otros espacios públicos. Sus aplicaciones para clientes ofrecen servicios basados en la ubicación y ayudan a las organizaciones a mejorar ingresos, fidelidad y satisfacción de los visitantes.</p><p><strong>Funciones y contribuciones:</strong> Ayudé a convertir las ideas del cliente en soluciones técnicas, dirigí y orienté al equipo y desarrollé funciones clave. Integré mapas Leaflet, diseñé y construí la interfaz, implementé el servidor Node.js/Express y diseñé la base de datos.</p>",
+                            "tags": ["Ionic", "MySQL", "Leaflet", "AWS", "Node.js", "Express"]
+                        },
+                        "ar": {
+                            "title": "{{Pigeon Tech}}",
+                            "text": "<p><strong>المدة:</strong> يوليو 2017 – يناير 2018</p><p><strong>نبذة:</strong> منصة للمواقع اللحظية مخصصة لحدائق الحيوان والأحواض المائية والمتاحف والمعارض ومدن الملاهي ومراكز التسوق والمنشآت الصحية وغيرها من الأماكن العامة. تقدم تطبيقاتها خدمات تعتمد على الموقع وتمنح المؤسسات رؤى لتحسين الإيرادات والولاء ورضا الزوار.</p><p><strong>الدور والمساهمات:</strong> ساعدت في تحويل أفكار العميل إلى حلول تقنية، وقدت الفريق ووجهته وطورت ميزات أساسية للتطبيق. دمجت خرائط Leaflet، وصممت الواجهة وطورتها، ونفذت خادم Node.js/Express وصممت قاعدة البيانات.</p>",
+                            "tags": ["Ionic", "MySQL", "Leaflet", "AWS", "Node.js", "Express"]
+                        },
                         "te": {
                             "title": "{{Pigeon Tech}}",
-                            "text": "<p><strong>వ్యవధి:</strong> జూలై 2017–జనవరి 2018</p><p><strong>సారాంశం:</strong> జూలు, అక్వేరియంలు, మ్యూజియంలు, గ్యాలరీలు, థీమ్ పార్కులు, షాపింగ్ మాల్స్, ఆరోగ్య కేంద్రాలు మరియు ఇతర బహిరంగ ప్రదేశాల కోసం రియల్-టైమ్ లొకేషన్ ప్లాట్‌ఫారమ్. లొకేషన్ ఆధారిత సేవలతో పాటు, ఆదాయం, కస్టమర్ నిబద్ధత, సందర్శకుల సంతృప్తిని మెరుగుపరచడానికి సంస్థలకు అవసరమైన సమాచారాన్ని అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> క్లయింట్ ఆలోచనలను సాంకేతిక పరిష్కారాలుగా మార్చడం, బృందానికి నాయకత్వం మరియు మార్గదర్శకత్వం అందించడం, కీలక ఫీచర్ల అభివృద్ధిలో పనిచేశాను. Leaflet మ్యాప్‌లను సమగ్రపరిచాను, UI రూపొందించి అభివృద్ధి చేశాను, Node.js/Express సర్వర్‌ను అమలు చేశాను, డేటాబేస్‌ను రూపొందించాను.</p>"
+                            "text": "<p><strong>వ్యవధి:</strong> జూలై 2017–జనవరి 2018</p><p><strong>సారాంశం:</strong> జూలు, అక్వేరియంలు, మ్యూజియంలు, గ్యాలరీలు, థీమ్ పార్కులు, షాపింగ్ మాల్స్, ఆరోగ్య కేంద్రాలు మరియు ఇతర బహిరంగ ప్రదేశాల కోసం రియల్-టైమ్ లొకేషన్ ప్లాట్‌ఫారమ్. లొకేషన్ ఆధారిత సేవలతో పాటు, ఆదాయం, కస్టమర్ నిబద్ధత, సందర్శకుల సంతృప్తిని మెరుగుపరచడానికి సంస్థలకు అవసరమైన సమాచారాన్ని అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> క్లయింట్ ఆలోచనలను సాంకేతిక పరిష్కారాలుగా మార్చడం, బృందానికి నాయకత్వం మరియు మార్గదర్శకత్వం అందించడం, కీలక ఫీచర్ల అభివృద్ధిలో పనిచేశాను. Leaflet మ్యాప్‌లను సమగ్రపరిచాను, UI రూపొందించి అభివృద్ధి చేశాను, Node.js/Express సర్వర్‌ను అమలు చేశాను, డేటాబేస్‌ను రూపొందించాను.</p>",
+                            "tags": ["Ionic", "MySQL", "Leaflet", "AWS", "Node.js", "Express"]
                         }
                     }
                 },
@@ -264,9 +428,30 @@
                                 "Java"
                             ]
                         },
+                        "zh": {
+                            "title": "{{VCS}}",
+                            "text": "<p><strong>时间：</strong>2014 年 8 月–2016 年 3 月</p><p><strong>概述：</strong>访客签到系统帮助机构管理访客登记和预约。该系统为 Cincinnati Parks 构建，提供访客及柜台分配、预约、令牌生成、文档上传和监控显示功能。</p><p><strong>职责与贡献：</strong>担任团队负责人和核心开发人员，梳理应用需求、协调团队任务并协助队友处理关键工作。设计数据库和线框图，开发访客页面及预约/令牌逻辑，集成 JBoss 服务器，并实现数据导入/导出以及模块上传和发布流程。</p>",
+                            "tags": ["Spring MVC", "MySQL", "JBoss", "Java"]
+                        },
+                        "hi": {
+                            "title": "{{VCS}}",
+                            "text": "<p><strong>अवधि:</strong> अगस्त 2014 – मार्च 2016</p><p><strong>अवलोकन:</strong> Visitor Check-In System संस्थाओं को आगंतुकों के चेक-इन और अपॉइंटमेंट संभालने में मदद करता है। Cincinnati Parks के लिए बने इस सिस्टम में आगंतुक और काउंटर आवंटन, अपॉइंटमेंट बुकिंग, टोकन बनाना, दस्तावेज़ अपलोड और मॉनिटरिंग डिस्प्ले शामिल हैं।</p><p><strong>भूमिका और योगदान:</strong> टीम लीड और प्रमुख डेवलपर के रूप में ऐप की आवश्यकताएँ तय कीं, टीम के काम समन्वित किए और महत्वपूर्ण कार्यों में साथियों की मदद की। डेटाबेस और वायरफ़्रेम डिज़ाइन किए, आगंतुक पेज तथा अपॉइंटमेंट/टोकन लॉजिक विकसित किया, JBoss सर्वर एकीकृत किया और डेटा आयात/निर्यात तथा मॉड्यूल अपलोड/प्रकाशन कार्यप्रवाह लागू किए।</p>",
+                            "tags": ["Spring MVC", "MySQL", "JBoss", "Java"]
+                        },
+                        "es": {
+                            "title": "{{VCS}}",
+                            "text": "<p><strong>Duración:</strong> AGO 2014 – MAR 2016</p><p><strong>Resumen:</strong> Visitor Check-In System ayuda a las organizaciones a gestionar el registro de visitantes y las citas. Creado para Cincinnati Parks, ofrece asignación de visitantes y mostradores, reserva de citas, generación de turnos, carga de documentos y una pantalla de supervisión.</p><p><strong>Funciones y contribuciones:</strong> Fui líder del equipo y desarrollador clave: definí requisitos, coordiné tareas y ayudé al equipo con trabajos críticos. Diseñé la base de datos y los wireframes, desarrollé las páginas de visitantes y la lógica de citas y turnos, integré el servidor JBoss e implementé flujos de importación/exportación de datos y carga/publicación de módulos.</p>",
+                            "tags": ["Spring MVC", "MySQL", "JBoss", "Java"]
+                        },
+                        "ar": {
+                            "title": "{{VCS}}",
+                            "text": "<p><strong>المدة:</strong> أغسطس 2014 – مارس 2016</p><p><strong>نبذة:</strong> يساعد نظام تسجيل الزوار المؤسسات على إدارة تسجيل الزوار ومواعيدهم. بُني لصالح Cincinnati Parks، ويوفر توزيع الزوار والكاونترات وحجز المواعيد وإنشاء الأرقام ورفع المستندات وشاشة للمراقبة.</p><p><strong>الدور والمساهمات:</strong> عملت قائدًا للفريق ومطورًا أساسيًا، وحددت متطلبات التطبيق ونسقت مهام الفريق وساعدت الزملاء في الأعمال الحرجة. صممت قاعدة البيانات والمخططات الأولية، وطورت صفحات الزوار ومنطق المواعيد والأرقام، ودمجت خادم JBoss، ونفذت سير عمل استيراد البيانات وتصديرها ورفع الوحدات ونشرها.</p>",
+                            "tags": ["Spring MVC", "MySQL", "JBoss", "Java"]
+                        },
                         "te": {
                             "title": "{{VCS}}",
-                            "text": "<p><strong>వ్యవధి:</strong> ఆగస్టు 2014–మార్చి 2016</p><p><strong>సారాంశం:</strong> సంస్థలు సందర్శకుల చెక్-ఇన్‌లు, అపాయింట్‌మెంట్‌లను నిర్వహించడానికి Visitor Check-In System ఉపయోగపడుతుంది. Cincinnati Parks కోసం రూపొందించిన ఈ అప్లికేషన్ సందర్శకుల నమోదు, కౌంటర్ కేటాయింపు, అపాయింట్‌మెంట్ బుకింగ్, టోకెన్‌ల సృష్టి, పత్రాల అప్‌లోడ్, మానిటరింగ్ డిస్‌ప్లేను అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> టీమ్ లీడ్ మరియు కీలక డెవలపర్‌గా అవసరాలను పరిష్కారాలుగా మార్చడం, బృంద పనులను సమన్వయం చేయడం, కీలక పనుల్లో సహాయం చేయడం చేశాను. డేటాబేస్, వైర్‌ఫ్రేమ్‌లను రూపొందించి, సందర్శకుల పేజీలు, అపాయింట్‌మెంట్/టోకెన్ లాజిక్, JBoss ఇంటిగ్రేషన్, డేటా దిగుమతి/ఎగుమతి, మాడ్యూల్ అప్‌లోడ్ మరియు పబ్లిషింగ్ వర్క్‌ఫ్లోలను అభివృద్ధి చేశాను.</p>"
+                            "text": "<p><strong>వ్యవధి:</strong> ఆగస్టు 2014–మార్చి 2016</p><p><strong>సారాంశం:</strong> సంస్థలు సందర్శకుల చెక్-ఇన్‌లు, అపాయింట్‌మెంట్‌లను నిర్వహించడానికి Visitor Check-In System ఉపయోగపడుతుంది. Cincinnati Parks కోసం రూపొందించిన ఈ అప్లికేషన్ సందర్శకుల నమోదు, కౌంటర్ కేటాయింపు, అపాయింట్‌మెంట్ బుకింగ్, టోకెన్‌ల సృష్టి, పత్రాల అప్‌లోడ్, మానిటరింగ్ డిస్‌ప్లేను అందిస్తుంది.</p><p><strong>పాత్ర మరియు కృషి:</strong> టీమ్ లీడ్ మరియు కీలక డెవలపర్‌గా అవసరాలను పరిష్కారాలుగా మార్చడం, బృంద పనులను సమన్వయం చేయడం, కీలక పనుల్లో సహాయం చేయడం చేశాను. డేటాబేస్, వైర్‌ఫ్రేమ్‌లను రూపొందించి, సందర్శకుల పేజీలు, అపాయింట్‌మెంట్/టోకెన్ లాజిక్, JBoss ఇంటిగ్రేషన్, డేటా దిగుమతి/ఎగుమతి, మాడ్యూల్ అప్‌లోడ్ మరియు పబ్లిషింగ్ వర్క్‌ఫ్లోలను అభివృద్ధి చేశాను.</p>",
+                            "tags": ["Spring MVC", "MySQL", "JBoss", "Java"]
                         }
                     }
                 },
@@ -285,9 +470,30 @@
                                 "Java"
                             ]
                         },
+                        "zh": {
+                            "title": "{{ASI}}",
+                            "text": "<p><strong>时间：</strong>2012 年 12 月–2014 年 8 月</p><p><strong>概述：</strong>Appointment Scheduler Inc. 将客户与服务提供商连接起来，以便客户为合适的服务和资源预约。该排期模式适用于多种场景，包括医疗和教育。</p><p><strong>职责与贡献：</strong>担任软件开发人员，将功能需求转化为可运行的软件。参与服务器集成、预约和服务提供商资源页面、跨页面数据导入/导出、文档上传及用户管理功能。</p>",
+                            "tags": ["Spring MVC", "MySQL", "JBoss", "Java"]
+                        },
+                        "hi": {
+                            "title": "{{ASI}}",
+                            "text": "<p><strong>अवधि:</strong> दिसंबर 2012 – अगस्त 2014</p><p><strong>अवलोकन:</strong> Appointment Scheduler Inc. ग्राहकों को सेवा प्रदाताओं से जोड़ता है, ताकि सही सेवा और संसाधन के लिए अपॉइंटमेंट बुक किया जा सके। यह शेड्यूलिंग मॉडल स्वास्थ्य सेवा और शिक्षा सहित कई क्षेत्रों में उपयोगी है।</p><p><strong>भूमिका और योगदान:</strong> सॉफ्टवेयर डेवलपर के रूप में कार्यात्मक आवश्यकताओं को काम करने वाले सॉफ्टवेयर में बदला। सर्वर एकीकरण, अपॉइंटमेंट और सेवा-प्रदाता संसाधन पेज, पेजों के बीच डेटा आयात/निर्यात, दस्तावेज़ अपलोड और उपयोगकर्ता प्रबंधन सुविधाओं में योगदान दिया।</p>",
+                            "tags": ["Spring MVC", "MySQL", "JBoss", "Java"]
+                        },
+                        "es": {
+                            "title": "{{ASI}}",
+                            "text": "<p><strong>Duración:</strong> DIC 2012 – AGO 2014</p><p><strong>Resumen:</strong> Appointment Scheduler Inc. conecta a clientes con proveedores de servicios para reservar citas con el servicio y el recurso adecuados. El modelo de programación admite distintos ámbitos, como la salud y la educación.</p><p><strong>Funciones y contribuciones:</strong> Trabajé como desarrollador de software y convertí requisitos funcionales en software operativo. Contribuí a la integración del servidor, las páginas de citas y recursos de proveedores, la importación/exportación de datos entre páginas, la carga de documentos y las funciones de gestión de usuarios.</p>",
+                            "tags": ["Spring MVC", "MySQL", "JBoss", "Java"]
+                        },
+                        "ar": {
+                            "title": "{{ASI}}",
+                            "text": "<p><strong>المدة:</strong> ديسمبر 2012 – أغسطس 2014</p><p><strong>نبذة:</strong> تربط Appointment Scheduler Inc. العملاء بمقدمي الخدمات ليتمكنوا من حجز موعد للخدمة والموارد المناسبة. ويمكن استخدام نموذج الجدولة في مجالات متعددة، منها الرعاية الصحية والتعليم.</p><p><strong>الدور والمساهمات:</strong> عملت مطور برمجيات وحولت المتطلبات الوظيفية إلى برنامج قابل للاستخدام. ساهمت في تكامل الخادم وصفحات المواعيد وموارد مقدمي الخدمات واستيراد البيانات وتصديرها بين الصفحات ورفع المستندات وميزات إدارة المستخدمين.</p>",
+                            "tags": ["Spring MVC", "MySQL", "JBoss", "Java"]
+                        },
                         "te": {
                             "title": "{{ASI}}",
-                            "text": "<p><strong>వ్యవధి:</strong> డిసెంబర్ 2012–ఆగస్టు 2014</p><p><strong>సారాంశం:</strong> Appointment Scheduler Inc. కస్టమర్లను సేవా ప్రదాతలతో అనుసంధానించి, సరైన సేవ మరియు వనరును ఎంచుకుని అపాయింట్‌మెంట్ బుక్ చేసుకునేలా చేస్తుంది. ఈ షెడ్యూలింగ్ విధానాన్ని వైద్యం, విద్య వంటి విభిన్న రంగాల్లో ఉపయోగించవచ్చు.</p><p><strong>పాత్ర మరియు కృషి:</strong> సాఫ్ట్‌వేర్ డెవలపర్‌గా అవసరమైన ఫంక్షనాలిటీని పనిచేసే సాఫ్ట్‌వేర్‌గా మార్చాను. సర్వర్ ఇంటిగ్రేషన్, అపాయింట్‌మెంట్ మరియు సేవా ప్రదాత వనరుల పేజీలు, అన్ని పేజీల్లో డేటా దిగుమతి/ఎగుమతి, పత్రాల అప్‌లోడ్, వినియోగదారుల నిర్వహణ ఫీచర్లలో సహకరించాను.</p>"
+                            "text": "<p><strong>వ్యవధి:</strong> డిసెంబర్ 2012–ఆగస్టు 2014</p><p><strong>సారాంశం:</strong> Appointment Scheduler Inc. కస్టమర్లను సేవా ప్రదాతలతో అనుసంధానించి, సరైన సేవ మరియు వనరును ఎంచుకుని అపాయింట్‌మెంట్ బుక్ చేసుకునేలా చేస్తుంది. ఈ షెడ్యూలింగ్ విధానాన్ని వైద్యం, విద్య వంటి విభిన్న రంగాల్లో ఉపయోగించవచ్చు.</p><p><strong>పాత్ర మరియు కృషి:</strong> సాఫ్ట్‌వేర్ డెవలపర్‌గా అవసరమైన ఫంక్షనాలిటీని పనిచేసే సాఫ్ట్‌వేర్‌గా మార్చాను. సర్వర్ ఇంటిగ్రేషన్, అపాయింట్‌మెంట్ మరియు సేవా ప్రదాత వనరుల పేజీలు, అన్ని పేజీల్లో డేటా దిగుమతి/ఎగుమతి, పత్రాల అప్‌లోడ్, వినియోగదారుల నిర్వహణ ఫీచర్లలో సహకరించాను.</p>",
+                            "tags": ["Spring MVC", "MySQL", "JBoss", "Java"]
                         }
                     }
                 }

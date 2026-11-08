@@ -67,6 +67,26 @@
                     "category_academic": "Academic",
                     "category_courses": "Certifications"
                 },
+                "zh": {
+                    "category_all": "全部",
+                    "category_academic": "学历教育",
+                    "category_courses": "证书课程"
+                },
+                "hi": {
+                    "category_all": "सभी",
+                    "category_academic": "शैक्षणिक",
+                    "category_courses": "प्रमाणपत्र"
+                },
+                "es": {
+                    "category_all": "Todos",
+                    "category_academic": "Formación académica",
+                    "category_courses": "Certificaciones"
+                },
+                "ar": {
+                    "category_all": "الكل",
+                    "category_academic": "التعليم الأكاديمي",
+                    "category_courses": "الشهادات"
+                },
                 "te": {
                     "category_all": "అన్నీ",
                     "category_academic": "విద్య",
@@ -102,6 +122,34 @@
                             "province": "హైదరాబాద్",
                             "country": "భారతదేశం",
                             "text": "సైకాలజీలో మాస్టర్ ఆఫ్ సైన్స్ పూర్తి చేసి, మానవ ప్రవర్తన మరియు మానసిక సూత్రాలపై లోతైన అవగాహన పెంపొందించుకున్నాను. వ్యక్తులు, ప్రేరణ, శ్రేయస్సును విభిన్న కోణాల్లో అర్థం చేసుకునే సామర్థ్యాన్ని ఈ చదువు బలోపేతం చేసింది."
+                        },
+                        "zh": {
+                            "title": "心理学{{理学硕士}}",
+                            "institution": "Dr. B. R. Ambedkar Open University",
+                            "province": "海得拉巴",
+                            "country": "印度",
+                            "text": "完成心理学理学硕士学位，加深了对人类行为和心理学原理的理解。课程帮助我从不同角度理解个体、动机与身心健康。"
+                        },
+                        "hi": {
+                            "title": "{{मनोविज्ञान में एम.एससी.}}",
+                            "institution": "Dr. B. R. Ambedkar Open University",
+                            "province": "हैदराबाद",
+                            "country": "भारत",
+                            "text": "मनोविज्ञान में मास्टर ऑफ साइंस पूरा करके मानव व्यवहार और मनोवैज्ञानिक सिद्धांतों की गहरी समझ विकसित की। इस कार्यक्रम ने लोगों, प्रेरणा और कल्याण को अलग-अलग दृष्टिकोणों से समझने की मेरी क्षमता को मजबूत किया।"
+                        },
+                        "es": {
+                            "title": "Máster en {{Psicología}}",
+                            "institution": "Dr. B. R. Ambedkar Open University",
+                            "province": "Hyderabad",
+                            "country": "India",
+                            "text": "Completé un máster en Psicología y profundicé mi comprensión del comportamiento humano y los principios psicológicos. El programa fortaleció mi capacidad para considerar a las personas, la motivación y el bienestar desde distintas perspectivas."
+                        },
+                        "ar": {
+                            "title": "ماجستير العلوم في {{علم النفس}}",
+                            "institution": "Dr. B. R. Ambedkar Open University",
+                            "province": "حيدر آباد",
+                            "country": "الهند",
+                            "text": "أكملت درجة الماجستير في علم النفس، مما عمّق فهمي للسلوك البشري والمبادئ النفسية. عزز البرنامج قدرتي على النظر إلى الأشخاص والدوافع والرفاه من وجهات نظر مختلفة."
                         }
                     }
                 },
@@ -125,13 +173,41 @@
                             "province": "హైదరాబాద్",
                             "country": "భారతదేశం",
                             "text": "2016లో సర్టిఫైడ్ స్క్రమ్ మాస్టర్ శిక్షణ పూర్తి చేసి CSM ధృవీకరణ పొందాను. ఈ కోర్సు స్క్రమ్ ఫ్రేమ్‌వర్క్‌ను మరియు బృందాలు కలిసి పనిచేయడం, దశలవారీగా పని చేయడం, నిరంతరం మెరుగుపడటంలో స్క్రమ్ మాస్టర్ పాత్రను పరిచయం చేసింది. కోర్సు ID: CSMKH-1; సర్టిఫికేట్ నం.: CSMKH-1/101."
+                        },
+                        "zh": {
+                            "title": "{{认证 Scrum Master}}",
+                            "institution": "KnowledgeHut Solutions Pvt. Ltd.",
+                            "province": "海得拉巴",
+                            "country": "印度",
+                            "text": "2016 年完成认证 Scrum Master 培训并取得 CSM 资质。课程介绍了 Scrum 框架，以及 Scrum Master 如何帮助团队协作、迭代工作并持续改进。课程编号：CSMKH-1；证书编号：CSMKH-1/101。"
+                        },
+                        "hi": {
+                            "title": "{{प्रमाणित स्क्रम मास्टर}}",
+                            "institution": "KnowledgeHut Solutions Pvt. Ltd.",
+                            "province": "हैदराबाद",
+                            "country": "भारत",
+                            "text": "2016 में Certified Scrum Master प्रशिक्षण पूरा करके CSM प्रमाणपत्र प्राप्त किया। पाठ्यक्रम में Scrum फ्रेमवर्क और टीमों को सहयोग, चरणबद्ध कार्य तथा निरंतर सुधार में मदद करने में Scrum Master की भूमिका से परिचय हुआ। कोर्स ID: CSMKH-1; प्रमाणपत्र संख्या: CSMKH-1/101।"
+                        },
+                        "es": {
+                            "title": "{{Scrum Master certificado}}",
+                            "institution": "KnowledgeHut Solutions Pvt. Ltd.",
+                            "province": "Hyderabad",
+                            "country": "India",
+                            "text": "Completé la formación Certified Scrum Master y obtuve la credencial CSM en 2016. El curso presentó el marco Scrum y el papel del Scrum Master para ayudar a los equipos a colaborar, trabajar de forma iterativa y mejorar continuamente. ID del curso: CSMKH-1; certificado n.º CSMKH-1/101."
+                        },
+                        "ar": {
+                            "title": "{{مدير Scrum معتمد}}",
+                            "institution": "KnowledgeHut Solutions Pvt. Ltd.",
+                            "province": "حيدر آباد",
+                            "country": "الهند",
+                            "text": "أكملت تدريب Certified Scrum Master وحصلت على اعتماد CSM في عام 2016. قدمت الدورة إطار Scrum ودور Scrum Master في مساعدة الفرق على التعاون والعمل التكراري والتحسين المستمر. معرّف الدورة: CSMKH-1؛ رقم الشهادة: CSMKH-1/101."
                         }
                     }
                 },
                 {
                     "id": 3,
                     "categoryId": "category_academic",
-                    "faIcon": "fa-solid fa-graduation-cap",
+                    "faIcon": "fa-solid fa-laptop",
                     "dateStart": {"year": 2008, "month": 8},
                     "dateEnd": {"year": 2011, "month": 6},
                     "locales": {
@@ -148,6 +224,34 @@
                             "province": "హైదరాబాద్",
                             "country": "భారతదేశం",
                             "text": "మాస్టర్ ఆఫ్ కంప్యూటర్ అప్లికేషన్స్ పూర్తి చేసి, కంప్యూటర్ అప్లికేషన్లు మరియు సాఫ్ట్‌వేర్ అభివృద్ధిలో బలమైన పునాది ఏర్పరచుకున్నాను. ప్రోగ్రామింగ్, డేటాబేస్‌లు, ఆచరణాత్మక కంప్యూటింగ్ పరిష్కారాల రూపకల్పనపై నా అవగాహనను ఈ చదువు అభివృద్ధి చేసింది."
+                        },
+                        "zh": {
+                            "title": "计算机应用{{硕士}}",
+                            "institution": "NB Science College, Osmania University",
+                            "province": "海得拉巴",
+                            "country": "印度",
+                            "text": "完成计算机应用硕士学位，打下了计算机应用和软件开发的坚实基础。课程加深了我对编程、数据库以及实用计算解决方案设计的理解。"
+                        },
+                        "hi": {
+                            "title": "{{कंप्यूटर एप्लिकेशन में मास्टर}}",
+                            "institution": "NB Science College, Osmania University",
+                            "province": "हैदराबाद",
+                            "country": "भारत",
+                            "text": "मास्टर ऑफ कंप्यूटर एप्लिकेशंस पूरा करके कंप्यूटर एप्लिकेशन और सॉफ्टवेयर विकास की मजबूत नींव बनाई। इस कार्यक्रम से प्रोग्रामिंग, डेटाबेस और व्यावहारिक कंप्यूटिंग समाधान तैयार करने की मेरी समझ विकसित हुई।"
+                        },
+                        "es": {
+                            "title": "Máster en {{Aplicaciones Informáticas}}",
+                            "institution": "NB Science College, Osmania University",
+                            "province": "Hyderabad",
+                            "country": "India",
+                            "text": "Completé un máster en Aplicaciones Informáticas y adquirí una sólida base en aplicaciones informáticas y desarrollo de software. El programa amplió mis conocimientos de programación, bases de datos y diseño de soluciones informáticas prácticas."
+                        },
+                        "ar": {
+                            "title": "ماجستير في {{تطبيقات الحاسوب}}",
+                            "institution": "NB Science College, Osmania University",
+                            "province": "حيدر آباد",
+                            "country": "الهند",
+                            "text": "أكملت درجة الماجستير في تطبيقات الحاسوب، وبنيت أساسًا قويًا في تطبيقات الحاسوب وتطوير البرمجيات. عزز البرنامج معرفتي بالبرمجة وقواعد البيانات وتصميم الحلول الحاسوبية العملية."
                         }
                     }
                 },
@@ -171,6 +275,34 @@
                             "province": "విశాఖపట్నం",
                             "country": "భారతదేశం",
                             "text": "ఆంధ్ర యూనివర్సిటీకి అనుబంధమైన AMAL కాలేజీలో బ్యాచిలర్ ఆఫ్ సైన్స్ పూర్తి చేశాను. ఈ డిగ్రీ విస్తృతమైన శాస్త్రీయ పునాదిని అందించి, విశ్లేషణాత్మక ఆలోచన, జిజ్ఞాస, సమస్య పరిష్కార నైపుణ్యాలను బలోపేతం చేసింది. 2008లో పట్టా పొందాను."
+                        },
+                        "zh": {
+                            "title": "{{理学学士}}",
+                            "institution": "AMAL College, Andhra University",
+                            "province": "维沙卡帕特南",
+                            "country": "印度",
+                            "text": "在隶属于 Andhra University 的 AMAL College 完成理学学士学位。课程提供了广泛的科学基础，并提升了我的分析思维、求知欲和解决问题的能力。我于 2008 年毕业。"
+                        },
+                        "hi": {
+                            "title": "{{विज्ञान स्नातक}}",
+                            "institution": "AMAL College, Andhra University",
+                            "province": "विशाखापत्तनम",
+                            "country": "भारत",
+                            "text": "Andhra University से संबद्ध AMAL College में विज्ञान स्नातक पूरा किया। इस डिग्री ने व्यापक वैज्ञानिक आधार दिया और मेरी विश्लेषणात्मक सोच, जिज्ञासा तथा समस्या-समाधान कौशल को मजबूत किया। 2008 में स्नातक हुआ।"
+                        },
+                        "es": {
+                            "title": "{{Grado en Ciencias}}",
+                            "institution": "AMAL College, Andhra University",
+                            "province": "Visakhapatnam",
+                            "country": "India",
+                            "text": "Completé una licenciatura en Ciencias en AMAL College, afiliado a Andhra University. La titulación me proporcionó una amplia base científica y reforzó mi pensamiento analítico, curiosidad y capacidad para resolver problemas. Me gradué en 2008."
+                        },
+                        "ar": {
+                            "title": "{{بكالوريوس العلوم}}",
+                            "institution": "AMAL College, Andhra University",
+                            "province": "فيشاخاباتنام",
+                            "country": "الهند",
+                            "text": "أكملت بكالوريوس العلوم في AMAL College التابع لـ Andhra University. منحتني الدرجة أساسًا علميًا واسعًا وعززت التفكير التحليلي والفضول ومهارات حل المشكلات. تخرجت عام 2008."
                         }
                     }
                 }

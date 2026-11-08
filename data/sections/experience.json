@@ -105,13 +105,63 @@
                         },
                         "te": {
                             "title": "{{టెక్నికల్ లీడ్}}",
+                            "institution": "WebAppClouds Software Solutions",
                             "country": "హైదరాబాద్, భారతదేశం",
                             "text": "10 మంది ఇంజినీర్ల బృందానికి నాయకత్వం వహిస్తూ, సంవత్సరానికి $1.2M కంటే ఎక్కువ ఆదాయానికి తోడ్పడే అధిక లభ్యత గల వెబ్, మొబైల్ వ్యవస్థలను అందిస్తున్నాను.",
                             "list": [
                                 "డెవలపర్లకు మార్గనిర్దేశం చేసి, ఏకరీతి కోడింగ్ ప్రమాణాలను ఏర్పాటు చేయడం ద్వారా పనుల అమలు వేగాన్ని 30% పెంచాను.",
                                 "కోడ్ నాణ్యతా విధానాలను మెరుగుపరచి, విడుదల తర్వాతి లోపాలను 20% తగ్గించాను.",
                                 "సాంకేతిక పనులను అవసరాలకు అనుగుణంగా సమన్వయం చేయడానికి, పురోగతిని స్పష్టంగా తెలియజేయడానికి క్లయింట్లతో కమ్యూనికేషన్ నిర్వహిస్తాను."
-                            ]
+                            ],
+                            "tags": ["Node.js", "Angular", "React", "AWS", "TypeScript", "JavaScript", "REST APIs", "Microservices", "టీమ్ నాయకత్వం", "క్లయింట్ కమ్యూనికేషన్"]
+                        },
+                        "zh": {
+                            "title": "{{技术负责人}}",
+                            "institution": "WebAppClouds Software Solutions",
+                            "country": "印度海得拉巴",
+                            "text": "带领 10 人工程师团队交付高可用的 Web 和移动系统，每年贡献超过 120 万美元收入。",
+                            "list": [
+                                "指导开发人员并制定统一的编码规范，使交付速度提升 30%。",
+                                "完善代码质量框架，使发布后的缺陷减少 20%。",
+                                "管理客户沟通，使技术交付符合需求并清晰汇报进度。"
+                            ],
+                            "tags": ["Node.js", "Angular", "React", "AWS", "TypeScript", "JavaScript", "REST API", "微服务", "团队领导", "客户沟通"]
+                        },
+                        "hi": {
+                            "title": "{{तकनीकी प्रमुख}}",
+                            "institution": "WebAppClouds Software Solutions",
+                            "country": "हैदराबाद, भारत",
+                            "text": "10 इंजीनियरों की टीम का नेतृत्व करते हुए उच्च-उपलब्धता वाले वेब और मोबाइल सिस्टम दिए, जिनसे सालाना 1.2 मिलियन डॉलर से अधिक का राजस्व योगदान होता है।",
+                            "list": [
+                                "डेवलपरों का मार्गदर्शन किया और एकीकृत कोडिंग मानक स्थापित किए, जिससे डिलीवरी की गति 30% बढ़ी।",
+                                "कोड गुणवत्ता ढाँचों को बेहतर किया, जिससे रिलीज़ के बाद की त्रुटियाँ 20% घटीं।",
+                                "तकनीकी डिलीवरी को आवश्यकताओं के अनुरूप रखने और प्रगति स्पष्ट रूप से बताने के लिए क्लाइंट संचार संभाला।"
+                            ],
+                            "tags": ["Node.js", "Angular", "React", "AWS", "TypeScript", "JavaScript", "REST API", "माइक्रोसर्विसेज़", "टीम नेतृत्व", "क्लाइंट संचार"]
+                        },
+                        "es": {
+                            "title": "{{Líder técnico}}",
+                            "institution": "WebAppClouds Software Solutions",
+                            "country": "Hyderabad, India",
+                            "text": "Lidero un equipo de 10 ingenieros que desarrolla sistemas web y móviles de alta disponibilidad y aporta más de 1,2 millones de dólares en ingresos anuales.",
+                            "list": [
+                                "Oriento a desarrolladores y establezco estándares de codificación unificados, aumentando la velocidad de entrega un 30 %.",
+                                "Perfecciono los marcos de calidad del código, reduciendo los defectos posteriores a la publicación un 20 %.",
+                                "Gestiono la comunicación con clientes para ajustar la entrega técnica a los requisitos e informar claramente del progreso."
+                            ],
+                            "tags": ["Node.js", "Angular", "React", "AWS", "TypeScript", "JavaScript", "API REST", "Microservicios", "Liderazgo de equipos", "Comunicación con clientes"]
+                        },
+                        "ar": {
+                            "title": "{{قائد تقني}}",
+                            "institution": "WebAppClouds Software Solutions",
+                            "country": "حيدر آباد، الهند",
+                            "text": "أقود فريقًا من 10 مهندسين لتقديم أنظمة ويب وجوال عالية التوافر تسهم بأكثر من 1.2 مليون دولار من الإيرادات السنوية.",
+                            "list": [
+                                "أرشد المطورين وأضع معايير موحدة للبرمجة، مما زاد سرعة التسليم بنسبة 30٪.",
+                                "أحسّن أطر جودة الشيفرة، مما خفّض العيوب بعد الإصدار بنسبة 20٪.",
+                                "أدير التواصل مع العملاء لمواءمة التسليم التقني مع المتطلبات وتقديم تحديثات واضحة عن التقدم."
+                            ],
+                            "tags": ["Node.js", "Angular", "React", "AWS", "TypeScript", "JavaScript", "واجهات REST API", "الخدمات المصغرة", "قيادة الفريق", "التواصل مع العملاء"]
                         }
                     }
                 },
@@ -149,12 +199,58 @@
                         },
                         "te": {
                             "title": "{{టీమ్ లీడ్}}",
+                            "institution": "Appcloud Software Solutions",
                             "country": "హైదరాబాద్, భారతదేశం",
                             "text": "ఎంటర్‌ప్రైజ్ స్థాయిలో విస్తరించేలా పాత ప్లాట్‌ఫారమ్‌లను ఆధునీకరించి, అప్లికేషన్ పనితీరు మరియు విశ్వసనీయతను మెరుగుపరిచాను.",
                             "list": [
                                 "మైక్రోసర్వీస్ నిర్మాణాన్ని రూపొందించి, సిస్టమ్ లోడ్ సమయాన్ని 30% తగ్గించాను.",
                                 "క్రమబద్ధమైన QA విధానాలను అమలు చేసి, ప్రొడక్షన్ సమస్యలను 50% తగ్గించాను."
-                            ]
+                            ],
+                            "tags": ["Microservices", "ఆర్కిటెక్చర్", "QA", "పనితీరు", "Node.js", "Angular", "REST APIs", "AWS"]
+                        },
+                        "zh": {
+                            "title": "{{团队负责人}}",
+                            "institution": "Appcloud Software Solutions",
+                            "country": "印度海得拉巴",
+                            "text": "对旧平台进行现代化改造，以支持企业级扩展，并提升应用性能和可靠性。",
+                            "list": [
+                                "设计微服务架构，将系统加载时间缩短 30%。",
+                                "实施结构化 QA 策略，将生产环境问题减少 50%。"
+                            ],
+                            "tags": ["微服务", "架构", "QA", "性能", "Node.js", "Angular", "REST API", "AWS"]
+                        },
+                        "hi": {
+                            "title": "{{टीम लीड}}",
+                            "institution": "Appcloud Software Solutions",
+                            "country": "हैदराबाद, भारत",
+                            "text": "एंटरप्राइज़ स्तर पर विस्तार के लिए पुराने प्लेटफ़ॉर्म आधुनिक किए और ऐप के प्रदर्शन तथा विश्वसनीयता में सुधार किया।",
+                            "list": [
+                                "माइक्रोसर्विस आर्किटेक्चर बनाया, जिससे सिस्टम लोड समय 30% घटा।",
+                                "संरचित QA रणनीतियाँ लागू कीं, जिससे प्रोडक्शन समस्याएँ 50% घटीं।"
+                            ],
+                            "tags": ["माइक्रोसर्विसेज़", "आर्किटेक्चर", "QA", "प्रदर्शन", "Node.js", "Angular", "REST API", "AWS"]
+                        },
+                        "es": {
+                            "title": "{{Líder de equipo}}",
+                            "institution": "Appcloud Software Solutions",
+                            "country": "Hyderabad, India",
+                            "text": "Modernicé plataformas heredadas para permitir su escalabilidad empresarial y mejorar el rendimiento y la fiabilidad de las aplicaciones.",
+                            "list": [
+                                "Diseñé microservicios que redujeron los tiempos de carga del sistema un 30 %.",
+                                "Implementé estrategias estructuradas de QA que redujeron los problemas en producción un 50 %."
+                            ],
+                            "tags": ["Microservicios", "Arquitectura", "QA", "Rendimiento", "Node.js", "Angular", "API REST", "AWS"]
+                        },
+                        "ar": {
+                            "title": "{{قائد فريق}}",
+                            "institution": "Appcloud Software Solutions",
+                            "country": "حيدر آباد، الهند",
+                            "text": "حدّثت المنصات القديمة لدعم التوسع المؤسسي وتحسين أداء التطبيقات وموثوقيتها.",
+                            "list": [
+                                "صممت خدمات مصغرة خفّضت أوقات تحميل النظام بنسبة 30٪.",
+                                "نفذت استراتيجيات ضمان جودة منظمة خفّضت مشكلات بيئة الإنتاج بنسبة 50٪."
+                            ],
+                            "tags": ["الخدمات المصغرة", "الهندسة المعمارية", "ضمان الجودة", "الأداء", "Node.js", "Angular", "واجهات REST API", "AWS"]
                         }
                     }
                 },
@@ -192,13 +288,63 @@
                         },
                         "te": {
                             "title": "{{సీనియర్ అసోసియేట్}}",
+                            "institution": "Cognizant",
                             "country": "హైదరాబాద్, భారతదేశం",
                             "text": "రైల్వే లాజిస్టిక్స్ కోసం విస్తరించగల REST APIలతో సహా Node.js, Angular ఫుల్-స్టాక్ వ్యవస్థలను నిర్మించాను.",
                             "list": [
                                 "రోజుకు 500,000+ ఏకకాల అభ్యర్థనలను 200 మిల్లీసెకన్లలోపు ఆలస్యంతో నిర్వహించే APIలను రూపొందించాను.",
                                 "పాత మోనోలిథిక్ వ్యవస్థలను 15+ మాడ్యులర్ మైక్రోసర్వీసులుగా విభజించి, డిప్లాయ్‌మెంట్ తరచుదనాన్ని 50% పెంచాను.",
                                 "పనితీరు కోసం Spot Award, Shining Star Award అందుకున్నాను."
-                            ]
+                            ],
+                            "tags": ["Node.js", "Angular", "REST APIs", "Microservices", "PostgreSQL", "TypeScript", "JavaScript"]
+                        },
+                        "zh": {
+                            "title": "{{高级助理}}",
+                            "institution": "Cognizant",
+                            "country": "印度海得拉巴",
+                            "text": "构建 Node.js 和 Angular 全栈系统，包括面向铁路物流的可扩展 REST API。",
+                            "list": [
+                                "构建每日处理超过 500,000 个并发请求且延迟低于 200 毫秒的 API。",
+                                "将旧式单体系统拆分为 15 个以上模块化微服务，使部署频率提升 50%。",
+                                "因卓越交付获得 Spot Award 和 Shining Star Award。"
+                            ],
+                            "tags": ["Node.js", "Angular", "REST API", "微服务", "PostgreSQL", "TypeScript", "JavaScript"]
+                        },
+                        "hi": {
+                            "title": "{{सीनियर एसोसिएट}}",
+                            "institution": "Cognizant",
+                            "country": "हैदराबाद, भारत",
+                            "text": "रेलवे लॉजिस्टिक्स के लिए विस्तार योग्य REST API सहित Node.js और Angular फुल-स्टैक सिस्टम बनाए।",
+                            "list": [
+                                "ऐसे API बनाए जो प्रतिदिन 500,000+ समवर्ती अनुरोधों को 200 ms से कम विलंबता में संभालते हैं।",
+                                "पुराने मोनोलिथ को 15+ मॉड्यूलर माइक्रोसर्विसेज़ में बाँटा, जिससे डिप्लॉयमेंट आवृत्ति 50% बढ़ी।",
+                                "उत्कृष्ट डिलीवरी के लिए Spot Award और Shining Star Award प्राप्त किए।"
+                            ],
+                            "tags": ["Node.js", "Angular", "REST API", "माइक्रोसर्विसेज़", "PostgreSQL", "TypeScript", "JavaScript"]
+                        },
+                        "es": {
+                            "title": "{{Asociado sénior}}",
+                            "institution": "Cognizant",
+                            "country": "Hyderabad, India",
+                            "text": "Desarrollé sistemas full-stack con Node.js y Angular, incluidas API REST escalables para logística ferroviaria.",
+                            "list": [
+                                "Creé API capaces de gestionar más de 500.000 solicitudes simultáneas al día con una latencia inferior a 200 ms.",
+                                "Dividí monolitos heredados en más de 15 microservicios modulares, aumentando la frecuencia de despliegue un 50 %.",
+                                "Recibí los premios Spot Award y Shining Star Award por la excelencia en la entrega."
+                            ],
+                            "tags": ["Node.js", "Angular", "API REST", "Microservicios", "PostgreSQL", "TypeScript", "JavaScript"]
+                        },
+                        "ar": {
+                            "title": "{{مساعد أول}}",
+                            "institution": "Cognizant",
+                            "country": "حيدر آباد، الهند",
+                            "text": "أنشأت أنظمة متكاملة باستخدام Node.js وAngular، بما فيها واجهات REST API قابلة للتوسع لخدمات السكك الحديدية.",
+                            "list": [
+                                "طورت واجهات API تعالج أكثر من 500,000 طلب متزامن يوميًا بزمن استجابة أقل من 200 مللي ثانية.",
+                                "حوّلت الأنظمة الأحادية القديمة إلى أكثر من 15 خدمة مصغرة معيارية، فزادت وتيرة النشر بنسبة 50٪.",
+                                "حصلت على جائزتي Spot Award وShining Star Award لتميز التسليم."
+                            ],
+                            "tags": ["Node.js", "Angular", "واجهات REST API", "الخدمات المصغرة", "PostgreSQL", "TypeScript", "JavaScript"]
                         }
                     }
                 },
@@ -234,11 +380,53 @@
                         },
                         "te": {
                             "title": "{{సీనియర్ సాఫ్ట్‌వేర్ ఇంజినీర్}}",
+                            "institution": "Appcloud Software Solutions",
                             "country": "హైదరాబాద్, భారతదేశం",
                             "text": "కఠినమైన గడువుల్లో నాణ్యమైన విడుదలలను నిర్ధారిస్తూ 10 మంది సభ్యుల బృందం సాంకేతిక పనుల అమలును నిర్వహించాను.",
                             "list": [
                                 "ముందస్తు సిస్టమ్ స్థిరీకరణ, పనితీరు మెరుగుదల ద్వారా కస్టమర్ సంతృప్తిని 20% పెంచాను."
-                            ]
+                            ],
+                            "tags": ["సాంకేతిక డెలివరీ", "టీమ్ నాయకత్వం", "పనితీరు", "Node.js", "Angular", "JavaScript", "REST APIs"]
+                        },
+                        "zh": {
+                            "title": "{{高级软件工程师}}",
+                            "institution": "Appcloud Software Solutions",
+                            "country": "印度海得拉巴",
+                            "text": "管理 10 人团队的技术交付，确保在紧迫期限内发布高质量版本。",
+                            "list": [
+                                "通过主动稳定系统和调优性能，将客户满意度提升 20%。"
+                            ],
+                            "tags": ["技术交付", "团队领导", "性能", "Node.js", "Angular", "JavaScript", "REST API"]
+                        },
+                        "hi": {
+                            "title": "{{सीनियर सॉफ्टवेयर इंजीनियर}}",
+                            "institution": "Appcloud Software Solutions",
+                            "country": "हैदराबाद, भारत",
+                            "text": "कड़ी समय-सीमा में उच्च गुणवत्ता वाली रिलीज़ सुनिश्चित करते हुए 10 सदस्यों की टीम की तकनीकी डिलीवरी संभाली।",
+                            "list": [
+                                "सिस्टम को सक्रिय रूप से स्थिर करने और प्रदर्शन बेहतर करने से ग्राहक संतुष्टि 20% बढ़ी।"
+                            ],
+                            "tags": ["तकनीकी डिलीवरी", "टीम नेतृत्व", "प्रदर्शन", "Node.js", "Angular", "JavaScript", "REST API"]
+                        },
+                        "es": {
+                            "title": "{{Ingeniero de software sénior}}",
+                            "institution": "Appcloud Software Solutions",
+                            "country": "Hyderabad, India",
+                            "text": "Gestioné la entrega técnica de un equipo de 10 personas y aseguré lanzamientos de calidad dentro de plazos exigentes.",
+                            "list": [
+                                "Mejoré la satisfacción del cliente un 20 % mediante la estabilización proactiva del sistema y la optimización del rendimiento."
+                            ],
+                            "tags": ["Entrega técnica", "Liderazgo de equipos", "Rendimiento", "Node.js", "Angular", "JavaScript", "API REST"]
+                        },
+                        "ar": {
+                            "title": "{{مهندس برمجيات أول}}",
+                            "institution": "Appcloud Software Solutions",
+                            "country": "حيدر آباد، الهند",
+                            "text": "أدرت التسليم التقني لفريق من 10 أعضاء مع ضمان إصدارات عالية الجودة ضمن جداول زمنية ضيقة.",
+                            "list": [
+                                "رفعت رضا العملاء بنسبة 20٪ عبر استقرار النظام استباقيًا وضبط الأداء."
+                            ],
+                            "tags": ["التسليم التقني", "قيادة الفريق", "الأداء", "Node.js", "Angular", "JavaScript", "واجهات REST API"]
                         }
                     }
                 },
@@ -275,12 +463,58 @@
                         },
                         "te": {
                             "title": "{{అసోసియేట్ కన్సల్టెంట్}}",
+                            "institution": "Vedic Systems",
                             "country": "హైదరాబాద్, భారతదేశం",
                             "text": "Java, Spring MVC అప్లికేషన్లను అభివృద్ధి చేసి, సిస్టమ్ పనితీరు మరియు డెలివరీ విధానాలను మెరుగుపరచడంలో సహకరించాను.",
                             "list": [
                                 "మాడ్యులర్ మైక్రోసర్వీస్ ఫ్రేమ్‌వర్క్‌తో ఫీచర్ డిప్లాయ్‌మెంట్ చక్రాలను 40% తగ్గించి, పనితీరును 25% పెంచాను.",
                                 "కఠినమైన డీబగ్గింగ్, ఆప్టిమైజేషన్ ద్వారా లోపాలను 40% తగ్గించాను."
-                            ]
+                            ],
+                            "tags": ["Java", "Spring MVC", "Microservices", "JavaScript", "MySQL", "PostgreSQL", "MongoDB"]
+                        },
+                        "zh": {
+                            "title": "{{助理顾问}}",
+                            "institution": "Vedic Systems",
+                            "country": "印度海得拉巴",
+                            "text": "开发 Java 和 Spring MVC 应用，并协助提升系统性能与交付实践。",
+                            "list": [
+                                "构建模块化微服务框架，将功能部署周期缩短 40%，吞吐量提升 25%。",
+                                "通过严格的调试和优化，将缺陷减少 40%。"
+                            ],
+                            "tags": ["Java", "Spring MVC", "微服务", "JavaScript", "MySQL", "PostgreSQL", "MongoDB"]
+                        },
+                        "hi": {
+                            "title": "{{एसोसिएट कंसल्टेंट}}",
+                            "institution": "Vedic Systems",
+                            "country": "हैदराबाद, भारत",
+                            "text": "Java और Spring MVC ऐप विकसित किए तथा सिस्टम प्रदर्शन और डिलीवरी प्रक्रियाएँ बेहतर बनाने में योगदान दिया।",
+                            "list": [
+                                "मॉड्यूलर माइक्रोसर्विस फ्रेमवर्क बनाया, जिससे फीचर डिप्लॉयमेंट चक्र 40% घटे और थ्रूपुट 25% बढ़ा।",
+                                "गहन डिबगिंग और ऑप्टिमाइज़ेशन से त्रुटियाँ 40% कम कीं।"
+                            ],
+                            "tags": ["Java", "Spring MVC", "माइक्रोसर्विसेज़", "JavaScript", "MySQL", "PostgreSQL", "MongoDB"]
+                        },
+                        "es": {
+                            "title": "{{Consultor asociado}}",
+                            "institution": "Vedic Systems",
+                            "country": "Hyderabad, India",
+                            "text": "Desarrollé aplicaciones con Java y Spring MVC y contribuí a mejorar el rendimiento del sistema y las prácticas de entrega.",
+                            "list": [
+                                "Creé un framework modular de microservicios que redujo los ciclos de despliegue de funcionalidades un 40 % y aumentó el rendimiento un 25 %.",
+                                "Reduje los defectos un 40 % mediante una depuración y optimización rigurosas."
+                            ],
+                            "tags": ["Java", "Spring MVC", "Microservicios", "JavaScript", "MySQL", "PostgreSQL", "MongoDB"]
+                        },
+                        "ar": {
+                            "title": "{{استشاري مشارك}}",
+                            "institution": "Vedic Systems",
+                            "country": "حيدر آباد، الهند",
+                            "text": "طورت تطبيقات Java وSpring MVC وساهمت في تحسين أداء الأنظمة وممارسات التسليم.",
+                            "list": [
+                                "بنيت إطار خدمات مصغرة معياريًا خفّض دورات نشر الميزات بنسبة 40٪ وزاد الإنتاجية بنسبة 25٪.",
+                                "خفضت العيوب بنسبة 40٪ عبر تصحيح الأخطاء والتحسين بدقة."
+                            ],
+                            "tags": ["Java", "Spring MVC", "الخدمات المصغرة", "JavaScript", "MySQL", "PostgreSQL", "MongoDB"]
                         }
                     }
                 }

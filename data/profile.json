@@ -9,66 +9,66 @@
         "en": {
             "localized_name": "Vinodh Ram Molli",
             "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
-            "status_message_available_for_freelance": "Open to remote roles",
+            "status_message_available_for_freelance": "欢迎远程工作机会",
             "roles": [
-                "Strategic Tech Lead",
+                "Engineering Team Lead",
                 "Full Stack Developer",
                 "Node.js Developer",
                 "Angular Developer",
                 "Microservices Architect",
-                "Engineering Team Lead"
+                "Strategic Tech Lead"
             ]
         },
         "zh": {
             "localized_name": "Vinodh Ram Molli",
             "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
-            "status_message_available_for_freelance": "Open to remote roles",
+            "status_message_available_for_freelance": "रिमोट भूमिकाओं के अवसरों के लिए उपलब्ध",
             "roles": [
-                "Strategic Tech Lead",
-                "Full Stack Developer",
-                "Node.js Developer",
-                "Angular Developer",
-                "Microservices Architect",
-                "Engineering Team Lead"
+                "工程团队负责人",
+                "全栈开发工程师",
+                "Node.js 开发工程师",
+                "Angular 开发工程师",
+                "微服务架构师",
+                "技术负责人"
             ]
         },
         "hi": {
             "localized_name": "Vinodh Ram Molli",
             "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
-            "status_message_available_for_freelance": "Open to remote roles",
+            "status_message_available_for_freelance": "दूरस्थ नौकरियों के अवसरों के लिए उपलब्ध",
             "roles": [
-                "Strategic Tech Lead",
-                "Full Stack Developer",
-                "Node.js Developer",
-                "Angular Developer",
-                "Microservices Architect",
-                "Engineering Team Lead"
+                "इंजीनियरिंग टीम लीड",
+                "फुल-स्टैक डेवलपर",
+                "Node.js डेवलपर",
+                "Angular डेवलपर",
+                "माइक्रोसर्विस आर्किटेक्ट",
+                "रणनीतिक तकनीकी प्रमुख"
             ]
         },
         "es": {
             "localized_name": "Vinodh Ram Molli",
             "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
-            "status_message_available_for_freelance": "Open to remote roles",
+            "status_message_available_for_freelance": "Abierto a oportunidades de trabajo remoto",
             "roles": [
-                "Strategic Tech Lead",
-                "Full Stack Developer",
-                "Node.js Developer",
-                "Angular Developer",
-                "Microservices Architect",
-                "Engineering Team Lead"
+                "Líder de equipos de ingeniería",
+                "Desarrollador full-stack",
+                "Desarrollador de Node.js",
+                "Desarrollador de Angular",
+                "Arquitecto de microservicios",
+                "Líder técnico estratégico"
             ]
         },
         "ar": {
             "localized_name": "Vinodh Ram Molli",
             "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
-            "status_message_available_for_freelance": "Open to remote roles",
+            "status_message_available_for_freelance": "متاح لفرص العمل عن بُعد",
             "roles": [
-                "Strategic Tech Lead",
-                "Full Stack Developer",
-                "Node.js Developer",
-                "Angular Developer",
-                "Microservices Architect",
-                "Engineering Team Lead"
+                "قائد فريق هندسي",
+                "مطور متكامل",
+                "مطور Node.js",
+                "مطور Angular",
+                "مهندس معمارية الخدمات المصغرة",
+                "قائد تقني استراتيجي"
             ]
         },
         "te": {
@@ -76,12 +76,12 @@
             "localized_name_stylized": "<strong>వినోద్ {{రామ్ మొల్లి}}</strong>",
             "status_message_available_for_freelance": "రిమోట్ ఉద్యోగాలకు సిద్ధంగా ఉన్నాను",
             "roles": [
-                "వ్యూహాత్మక టెక్ లీడ్",
+                "ఇంజినీరింగ్ టీమ్ లీడ్",
                 "ఫుల్-స్టాక్ డెవలపర్",
                 "Node.js డెవలపర్",
                 "Angular డెవలపర్",
                 "మైక్రోసర్వీసెస్ ఆర్కిటెక్ట్",
-                "ఇంజినీరింగ్ టీమ్ లీడ్"
+                "వ్యూహాత్మక టెక్ లీడ్"
             ]
         }
     }

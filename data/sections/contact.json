@@ -170,6 +170,18 @@
                         "en": {
                             "title": "Phone"
                         },
+                        "zh": {
+                            "title": "电话"
+                        },
+                        "hi": {
+                            "title": "फ़ोन"
+                        },
+                        "es": {
+                            "title": "Teléfono"
+                        },
+                        "ar": {
+                            "title": "الهاتف"
+                        },
                         "te": {
                             "title": "ఫోన్"
                         }
@@ -188,6 +200,18 @@
                         "en": {
                             "title": "E-mail"
                         },
+                        "zh": {
+                            "title": "电子邮件"
+                        },
+                        "hi": {
+                            "title": "ईमेल"
+                        },
+                        "es": {
+                            "title": "Correo electrónico"
+                        },
+                        "ar": {
+                            "title": "البريد الإلكتروني"
+                        },
                         "te": {
                             "title": "ఇమెయిల్"
                         }
@@ -204,6 +228,18 @@
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": {
+                            "title": "LinkedIn"
+                        },
+                        "zh": {
+                            "title": "LinkedIn"
+                        },
+                        "hi": {
+                            "title": "LinkedIn"
+                        },
+                        "es": {
+                            "title": "LinkedIn"
+                        },
+                        "ar": {
                             "title": "LinkedIn"
                         },
                         "te": {
@@ -224,6 +260,18 @@
                         "en": {
                             "title": "GitHub"
                         },
+                        "zh": {
+                            "title": "GitHub"
+                        },
+                        "hi": {
+                            "title": "GitHub"
+                        },
+                        "es": {
+                            "title": "GitHub"
+                        },
+                        "ar": {
+                            "title": "GitHub"
+                        },
                         "te": {
                             "title": "GitHub"
                         }
@@ -240,6 +288,18 @@
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": {
+                            "title": "WhatsApp"
+                        },
+                        "zh": {
+                            "title": "WhatsApp"
+                        },
+                        "hi": {
+                            "title": "WhatsApp"
+                        },
+                        "es": {
+                            "title": "WhatsApp"
+                        },
+                        "ar": {
                             "title": "WhatsApp"
                         },
                         "te": {

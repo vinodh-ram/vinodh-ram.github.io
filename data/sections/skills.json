@@ -68,8 +68,32 @@
             "items": [
                 {
                     "id": 1,
-                    "img": "images/content/article-text-image-skills.png",
+                    "img": "images/content/article-text-image-skills.svg",
+                    "label": "Web, mobile, and desktop experiences",
                     "locales": {
+                        "en": {
+                            "label": "Web, mobile, and desktop experiences"
+                        },
+                        "zh": {
+                            "label": "Web、移动端和桌面端体验",
+                            "text": "<p>在 Web 和移动应用、API、微服务及 AWS 方面具备技术领导力和全栈工程实践经验。我从前端框架、后端服务、云基础设施到数据库均有参与，能够交付从构想到部署的完整解决方案。我注重可维护的架构、务实的工程实践，以及可靠、易用的用户体验。以下是我在这些领域使用的技术和工具：</p>"
+                        },
+                        "hi": {
+                            "label": "वेब, मोबाइल और डेस्कटॉप अनुभव",
+                            "text": "<p>वेब और मोबाइल ऐप, API, माइक्रोसर्विसेज़ और AWS में तकनीकी नेतृत्व तथा व्यावहारिक फुल-स्टैक इंजीनियरिंग का अनुभव। मैं फ्रंटएंड फ्रेमवर्क, बैकएंड सेवाओं, क्लाउड इन्फ्रास्ट्रक्चर और डेटाबेस पर काम करके विचार से लेकर डिप्लॉयमेंट तक संपूर्ण समाधान देता हूँ। मेरा दृष्टिकोण रखरखाव योग्य आर्किटेक्चर, व्यावहारिक इंजीनियरिंग और भरोसेमंद, उपयोगकर्ता-अनुकूल अनुभवों पर केंद्रित है। इन क्षेत्रों में उपयोग की जाने वाली तकनीकों और टूल को देखें:</p>"
+                        },
+                        "es": {
+                            "label": "Experiencias web, móviles y de escritorio",
+                            "text": "<p>Liderazgo tecnológico e ingeniería full-stack práctica en aplicaciones web y móviles, API, microservicios y AWS. Trabajo con frameworks de frontend, servicios de backend, infraestructura en la nube y bases de datos para ofrecer soluciones completas, desde la idea hasta el despliegue. Mi enfoque combina arquitectura mantenible, ingeniería práctica y experiencias fiables y fáciles de usar. Estas son las tecnologías y herramientas que utilizo en estos ámbitos:</p>"
+                        },
+                        "ar": {
+                            "label": "تجارب الويب والجوال وسطح المكتب",
+                            "text": "<p>خبرة في القيادة التقنية وهندسة البرمجيات المتكاملة لتطبيقات الويب والجوال وواجهات API والخدمات المصغرة وAWS. أعمل على أطر الواجهة الأمامية وخدمات الخلفية والبنية السحابية وقواعد البيانات لتقديم حلول متكاملة من الفكرة إلى النشر. أجمع بين بنية سهلة الصيانة وهندسة عملية وتجارب موثوقة وسهلة الاستخدام. فيما يلي التقنيات والأدوات التي أستخدمها في هذه المجالات:</p>"
+                        },
+                        "te": {
+                            "label": "వెబ్, మొబైల్ మరియు డెస్క్‌టాప్ అనుభవాలు",
+                            "text": "<p>వెబ్, మొబైల్ అప్లికేషన్లు, APIలు, మైక్రోసర్వీసులు, AWS రంగాల్లో సాంకేతిక నాయకత్వం మరియు ప్రత్యక్ష ఫుల్-స్టాక్ అభివృద్ధి. ఫ్రంట్‌ఎండ్ ఫ్రేమ్‌వర్క్‌లు, బ్యాక్‌ఎండ్ సేవలు, క్లౌడ్ ఇన్‌ఫ్రాస్ట్రక్చర్, డేటాబేస్‌లతో కలిసి ఆలోచన నుంచి డిప్లాయ్‌మెంట్ వరకు పూర్తి పరిష్కారాలను రూపొందిస్తాను. నిర్వహణకు సులభమైన ఆర్కిటెక్చర్, ఆచరణాత్మక ఇంజినీరింగ్, నమ్మకమైన మరియు వినియోగదారులకు సులభమైన అనుభవాలపై నా దృష్టి ఉంటుంది. ఈ రంగాల్లో నేను ఉపయోగించే సాంకేతికతలు మరియు సాధనాలను చూడండి:</p>"
+                        },
                         "en": {
                             "text": "<p>Technology leadership and hands-on full-stack engineering across web and mobile applications, APIs, microservices, and AWS. I work across frontend frameworks, backend services, cloud infrastructure, and databases to deliver complete solutions from concept through deployment. My approach combines maintainable architecture, practical engineering, and a focus on reliable, user-friendly experiences. Explore the technologies and tools I use across these areas:</p>"
                         },
@@ -86,6 +110,18 @@
             "locales": {
                 "en": {
                     "title": "{{Frontend}}"
+                },
+                "zh": {
+                    "title": "{{前端}}"
+                },
+                "hi": {
+                    "title": "{{फ्रंटएंड}}"
+                },
+                "es": {
+                    "title": "{{Frontend}}"
+                },
+                "ar": {
+                    "title": "{{الواجهة الأمامية}}"
                 },
                 "te": {
                     "title": "{{ఫ్రంట్‌ఎండ్}}"
@@ -172,6 +208,18 @@
                 "en": {
                     "title": "{{Backend}} & APIs"
                 },
+                "zh": {
+                    "title": "{{后端}}与 API"
+                },
+                "hi": {
+                    "title": "{{बैकएंड}} और API"
+                },
+                "es": {
+                    "title": "{{Backend}} y API"
+                },
+                "ar": {
+                    "title": "{{الواجهة الخلفية}} وواجهات API"
+                },
                 "te": {
                     "title": "{{బ్యాక్‌ఎండ్}} & APIలు"
                 }
@@ -256,6 +304,18 @@
             "locales": {
                 "en": {
                     "title": "{{Cloud}} & DevOps"
+                },
+                "zh": {
+                    "title": "{{云}}与 DevOps"
+                },
+                "hi": {
+                    "title": "{{क्लाउड}} और DevOps"
+                },
+                "es": {
+                    "title": "{{Nube}} y DevOps"
+                },
+                "ar": {
+                    "title": "{{السحابة}} وDevOps"
                 },
                 "te": {
                     "title": "{{క్లౌడ్}} & DevOps"
@@ -348,6 +408,18 @@
                 "en": {
                     "title": "{{Databases}}"
                 },
+                "zh": {
+                    "title": "{{数据库}}"
+                },
+                "hi": {
+                    "title": "{{डेटाबेस}}"
+                },
+                "es": {
+                    "title": "{{Bases de datos}}"
+                },
+                "ar": {
+                    "title": "{{قواعد البيانات}}"
+                },
                 "te": {
                     "title": "{{డేటాబేస్‌లు}}"
                 }
@@ -392,6 +464,18 @@
             "locales": {
                 "en": {
                     "title": "{{Tools}} & Practices"
+                },
+                "zh": {
+                    "title": "{{工具}}与实践"
+                },
+                "hi": {
+                    "title": "{{टूल}} और कार्यप्रणालियाँ"
+                },
+                "es": {
+                    "title": "{{Herramientas}} y prácticas"
+                },
+                "ar": {
+                    "title": "{{الأدوات}} والممارسات"
                 },
                 "te": {
                     "title": "{{సాధనాలు}} & విధానాలు"
