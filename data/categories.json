@@ -7,15 +7,6 @@
                 "en": {
                     "title": "Profile"
                 },
-                "tr": {
-                    "title": "Profil"
-                },
-                "sv": {
-                    "title": "Profil"
-                },
-                "ja": {
-                    "title": "プロフィール"
-                },
                 "zh": {
                     "title": "个人资料"
                 },
@@ -39,15 +30,6 @@
             "locales": {
                 "en": {
                     "title": "History"
-                },
-                "tr": {
-                    "title": "Geçmiş"
-                },
-                "sv": {
-                    "title": "Historik"
-                },
-                "ja": {
-                    "title": "履歴"
                 },
                 "zh": {
                     "title": "经历"
@@ -73,15 +55,6 @@
                 "en": {
                     "title": "Showcase"
                 },
-                "tr": {
-                    "title": "Vitrin"
-                },
-                "sv": {
-                    "title": "Utställning"
-                },
-                "ja": {
-                    "title": "ショーケース"
-                },
                 "zh": {
                     "title": "作品展示"
                 },
@@ -105,15 +78,6 @@
             "locales": {
                 "en": {
                     "title": "Contact"
-                },
-                "tr": {
-                    "title": "İletişim"
-                },
-                "sv": {
-                    "title": "Kontakt"
-                },
-                "ja": {
-                    "title": "連絡先"
                 },
                 "zh": {
                     "title": "联系"

@@ -7,24 +7,6 @@
                 "title_long_prefix": "Take a look at",
                 "title_long": "My {{Portfolio}}"
             },
-            "tr": {
-                "title_short": "Portföy",
-                "title_short_nav": "Portföy",
-                "title_long_prefix": "Göz atın",
-                "title_long": "Benim {{Portföyüm}}"
-            },
-            "sv": {
-                "title_short": "Portfolio",
-                "title_short_nav": "Portfolio",
-                "title_long_prefix": "Ta en titt på",
-                "title_long": "Min {{Portfolio}}"
-            },
-            "ja": {
-                "title_short": "ポートフォリオ",
-                "title_short_nav": "ポートフォリオ",
-                "title_long_prefix": "ぜひご覧ください",
-                "title_long": "私の{{ポートフォリオ}}"
-            },
             "zh": {
                 "title_short": "作品集",
                 "title_short_nav": "作品集",
@@ -61,10 +43,6 @@
         {
             "id": 1,
             "component": "ArticleFacts",
-            "locales": {
-                "te": {}
-            },
-            "settings": {},
             "items": [
                 {
                     "id": 1,
@@ -191,7 +169,6 @@
         {
             "id": 2,
             "component": "ArticlePortfolio",
-            "settings": {},
             "locales": {
                 "en": {
                     "title": "Selected {{Projects}}"

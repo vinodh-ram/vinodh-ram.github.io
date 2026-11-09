@@ -7,24 +7,6 @@
                 "title_long_prefix": "Explore",
                 "title_long": "My {{Tech Stack}}"
             },
-            "tr": {
-                "title_short": "Teknoloji Yığını",
-                "title_short_nav": "Teknoloji Yığını",
-                "title_long_prefix": "Keşfet",
-                "title_long": "Benim {{Teknoloji Yığını}}"
-            },
-            "sv": {
-                "title_short": "Teknikstack",
-                "title_short_nav": "Teknikstack",
-                "title_long_prefix": "Utforska",
-                "title_long": "Min {{Teknikstack}}"
-            },
-            "ja": {
-                "title_short": "技術スタック",
-                "title_short_nav": "技術スタック",
-                "title_long_prefix": "探索",
-                "title_long": "私の{{技術スタック}}"
-            },
             "zh": {
                 "title_short": "技术栈",
                 "title_short_nav": "技术栈",
@@ -61,10 +43,6 @@
         {
             "id": 1,
             "component": "ArticleText",
-            "locales": {
-                "te": {}
-            },
-            "settings": {},
             "items": [
                 {
                     "id": 1,
@@ -72,7 +50,8 @@
                     "label": "Web, mobile, and desktop experiences",
                     "locales": {
                         "en": {
-                            "label": "Web, mobile, and desktop experiences"
+                            "label": "Web, mobile, and desktop experiences",
+                            "text": "<p>Technology leadership and hands-on full-stack engineering across web and mobile applications, APIs, microservices, and AWS. I work across frontend frameworks, backend services, cloud infrastructure, and databases to deliver complete solutions from concept through deployment. My approach combines maintainable architecture, practical engineering, and a focus on reliable, user-friendly experiences. Explore the technologies and tools I use across these areas:</p>"
                         },
                         "zh": {
                             "label": "Web、移动端和桌面端体验",
@@ -92,12 +71,6 @@
                         },
                         "te": {
                             "label": "వెబ్, మొబైల్ మరియు డెస్క్‌టాప్ అనుభవాలు",
-                            "text": "<p>వెబ్, మొబైల్ అప్లికేషన్లు, APIలు, మైక్రోసర్వీసులు, AWS రంగాల్లో సాంకేతిక నాయకత్వం మరియు ప్రత్యక్ష ఫుల్-స్టాక్ అభివృద్ధి. ఫ్రంట్‌ఎండ్ ఫ్రేమ్‌వర్క్‌లు, బ్యాక్‌ఎండ్ సేవలు, క్లౌడ్ ఇన్‌ఫ్రాస్ట్రక్చర్, డేటాబేస్‌లతో కలిసి ఆలోచన నుంచి డిప్లాయ్‌మెంట్ వరకు పూర్తి పరిష్కారాలను రూపొందిస్తాను. నిర్వహణకు సులభమైన ఆర్కిటెక్చర్, ఆచరణాత్మక ఇంజినీరింగ్, నమ్మకమైన మరియు వినియోగదారులకు సులభమైన అనుభవాలపై నా దృష్టి ఉంటుంది. ఈ రంగాల్లో నేను ఉపయోగించే సాంకేతికతలు మరియు సాధనాలను చూడండి:</p>"
-                        },
-                        "en": {
-                            "text": "<p>Technology leadership and hands-on full-stack engineering across web and mobile applications, APIs, microservices, and AWS. I work across frontend frameworks, backend services, cloud infrastructure, and databases to deliver complete solutions from concept through deployment. My approach combines maintainable architecture, practical engineering, and a focus on reliable, user-friendly experiences. Explore the technologies and tools I use across these areas:</p>"
-                        },
-                        "te": {
                             "text": "<p>వెబ్, మొబైల్ అప్లికేషన్లు, APIలు, మైక్రోసర్వీసులు, AWS రంగాల్లో సాంకేతిక నాయకత్వం మరియు ప్రత్యక్ష ఫుల్-స్టాక్ అభివృద్ధి. ఫ్రంట్‌ఎండ్ ఫ్రేమ్‌వర్క్‌లు, బ్యాక్‌ఎండ్ సేవలు, క్లౌడ్ ఇన్‌ఫ్రాస్ట్రక్చర్, డేటాబేస్‌లతో కలిసి ఆలోచన నుంచి డిప్లాయ్‌మెంట్ వరకు పూర్తి పరిష్కారాలను రూపొందిస్తాను. నిర్వహణకు సులభమైన ఆర్కిటెక్చర్, ఆచరణాత్మక ఇంజినీరింగ్, నమ్మకమైన మరియు వినియోగదారులకు సులభమైన అనుభవాలపై నా దృష్టి ఉంటుంది. ఈ రంగాల్లో నేను ఉపయోగించే సాంకేతికతలు మరియు సాధనాలను చూడండి:</p>"
                         }
                     }
@@ -127,7 +100,6 @@
                     "title": "{{ఫ్రంట్‌ఎండ్}}"
                 }
             },
-            "settings": {},
             "items": [
                 {
                     "id": 1,
@@ -224,7 +196,6 @@
                     "title": "{{బ్యాక్‌ఎండ్}} & APIలు"
                 }
             },
-            "settings": {},
             "items": [
                 {
                     "id": 1,
@@ -321,7 +292,6 @@
                     "title": "{{క్లౌడ్}} & DevOps"
                 }
             },
-            "settings": {},
             "items": [
                 {
                     "id": 1,
@@ -424,7 +394,6 @@
                     "title": "{{డేటాబేస్‌లు}}"
                 }
             },
-            "settings": {},
             "items": [
                 {
                     "id": 1,
@@ -481,7 +450,6 @@
                     "title": "{{సాధనాలు}} & విధానాలు"
                 }
             },
-            "settings": {},
             "items": [
                 {
                     "id": 1,

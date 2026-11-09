@@ -7,24 +7,6 @@
                 "title_long_prefix": "Greetings nerds...",
                 "title_long": "I'm Vinodh {{Ram Molli!}}"
             },
-            "tr": {
-                "title_short": "Selam!",
-                "title_short_nav": "Hakkımda",
-                "title_long_prefix": "Merhaba arkadaşlar...",
-                "title_long": "Ben Vinodh {{Ram!}}"
-            },
-            "sv": {
-                "title_short": "Välkommen!",
-                "title_short_nav": "Om mig",
-                "title_long_prefix": "Tjena kompisar...",
-                "title_long": "Jag heter Vinodh {{Ram!}}"
-            },
-            "ja": {
-                "title_short": "こんにちは！",
-                "title_short_nav": "私について",
-                "title_long_prefix": "みんな、こんにちは...",
-                "title_long": "ヴィノド・{{ラム}}です！"
-            },
             "zh": {
                 "title_short": "你好！",
                 "title_short_nav": "关于我",
@@ -61,9 +43,6 @@
         {
             "id": 1,
             "component": "ArticleInlineList",
-            "locales": {
-                "te": {}
-            },
             "settings": {
                 "display_as_list_if_width_is_lower_than": 380
             },
@@ -144,7 +123,6 @@
                     "title": "నా {{పని}} గురించి"
                 }
             },
-            "settings": {},
             "items": [
                 {
                     "id": 1,
@@ -202,7 +180,6 @@
                     "title": "నేను చేసే {{పనులు}}"
                 }
             },
-            "settings": {},
             "items": [
                 {
                     "id": 1,

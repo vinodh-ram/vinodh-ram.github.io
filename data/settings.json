@@ -64,15 +64,6 @@
                 "en": {
                     "name": "Dark Theme"
                 },
-                "tr": {
-                    "name": "Karanlık Tema"
-                },
-                "sv": {
-                    "name": "Mörkt Tema"
-                },
-                "ja": {
-                    "name": "ダークテーマ"
-                },
                 "zh": {
                     "name": "深色主题"
                 },
@@ -97,15 +88,6 @@
             "locales": {
                 "en": {
                     "name": "Light Theme"
-                },
-                "tr": {
-                    "name": "Aydınlık Tema"
-                },
-                "sv": {
-                    "name": "Ljust Tema"
-                },
-                "ja": {
-                    "name": "ライトテーマ"
                 },
                 "zh": {
                     "name": "浅色主题"
@@ -132,15 +114,6 @@
                 "en": {
                     "name": "Midnight Theme"
                 },
-                "tr": {
-                    "name": "Gece Teması"
-                },
-                "sv": {
-                    "name": "Midnattstema"
-                },
-                "ja": {
-                    "name": "ミッドナイト"
-                },
                 "zh": {
                     "name": "午夜主题"
                 },
@@ -163,12 +136,12 @@
         "title": "🐬️ Hey there, fellow developer!",
         "items": [
             {
-                "description": "This project is a customized version of React Portfolio Template originally developed by Ryan Balieiro."
+                "description": "This project is a customized version of React Portfolio Template originally developed by Vinodh Ram."
             },
             {
                 "description": "Original Repo:",
                 "list": [
-                    "https://github.com/vinodh-ram/react-portfolio-template"
+                    "https://github.com/vinodh-ram"
                 ]
             },
             {

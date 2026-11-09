@@ -7,24 +7,6 @@
                 "title_long_prefix": "Don't hesitate to",
                 "title_long": "Get {{In Touch}}"
             },
-            "tr": {
-                "title_short": "İletişim",
-                "title_short_nav": "İletişim",
-                "title_long_prefix": "Lütfen çekinmeyin",
-                "title_long": "{{Contact}} Olun"
-            },
-            "sv": {
-                "title_short": "Kontakt",
-                "title_short_nav": "Kontakt",
-                "title_long_prefix": "Tveka inte att",
-                "title_long": "{{Contact}} mig"
-            },
-            "ja": {
-                "title_short": "お問い合わせ",
-                "title_short_nav": "お問い合わせ",
-                "title_long_prefix": "お気軽に",
-                "title_long": "{{メッセージ}}を送ってください"
-            },
             "zh": {
                 "title_short": "联系",
                 "title_short_nav": "联系",
@@ -73,24 +55,6 @@
                     "contact_thank_you_footer": "The reply will be sent to your email address: {{$email}}",
                     "title": "Send me a {{message}}"
                 },
-                "tr": {
-                    "contact_thank_you_title": "{{İletişim}} için teşekkürler!",
-                    "contact_thank_you_body": "Mesajınız alınmıştır, en kısa sürede sizinle iletişime geçeceğim. Zaman ayırdığınız için teşekkür ederim!",
-                    "contact_thank_you_footer": "Cevap, e-posta adresinize gönderilecektir: {{$email}}",
-                    "title": "{{Bir Mesaj}} Gönderin"
-                },
-                "sv": {
-                    "contact_thank_you_title": "{{Tack}} för kontakten!",
-                    "contact_thank_you_body": "Ditt meddelande har mottagits, och jag kommer att kontakta dig snart. Jag uppskattar din tid och ser fram emot att höra från dig!",
-                    "contact_thank_you_footer": "Svaret kommer att skickas till din e-postadress: {{$email}}",
-                    "title": "Skicka mig ett {{meddelande}}"
-                },
-                "ja": {
-                    "contact_thank_you_title": "{{お問い合わせ}}ありがとうございます！",
-                    "contact_thank_you_body": "あなたのメッセージは受け取られました。すぐにご連絡いたします。お時間をいただき、ありがとうございます！",
-                    "contact_thank_you_footer": "返信はあなたのメールアドレスに送信されます: {{$email}}",
-                    "title": "{{メッセージ}}を送ってください"
-                },
                 "zh": {
                     "contact_thank_you_title": "{{感谢}}您的联系！",
                     "contact_thank_you_body": "我已收到您的消息，很快会与您联系。感谢您抽出时间，期待与您交流！",
@@ -126,19 +90,10 @@
         {
             "id": 2,
             "component": "ArticleInfoList",
-            "settings": {},
+
             "locales": {
                 "en": {
                     "title": "Or if you {{prefer...}}"
-                },
-                "tr": {
-                    "title": "Ya da {{tercih}} ederseniz..."
-                },
-                "sv": {
-                    "title": "Eller om du {{föredrar...}}"
-                },
-                "ja": {
-                    "title": "{{好み}}なら..."
                 },
                 "zh": {
                     "title": "或者，如果你{{更愿意……}}"

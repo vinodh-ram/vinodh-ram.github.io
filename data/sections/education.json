@@ -7,24 +7,6 @@
                 "title_long_prefix": "This is my",
                 "title_long": "{{Education}} Background"
             },
-            "tr": {
-                "title_short": "Eğitim",
-                "title_short_nav": "Eğitim",
-                "title_long_prefix": "Bu benim",
-                "title_long": "{{Eğitim}} Geçmişim"
-            },
-            "sv": {
-                "title_short": "Utbildning",
-                "title_short_nav": "Utbildning",
-                "title_long_prefix": "Det här är min",
-                "title_long": "{{Utbildnings}}bakgrund"
-            },
-            "ja": {
-                "title_short": "学歴",
-                "title_short_nav": "学歴",
-                "title_long_prefix": "私の",
-                "title_long": "{{学歴}}の概要"
-            },
             "zh": {
                 "title_short": "教育背景",
                 "title_short_nav": "教育背景",

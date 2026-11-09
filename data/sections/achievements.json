@@ -7,24 +7,6 @@
                 "title_long_prefix": "Here are my",
                 "title_long": "Career {{Achievements}}"
             },
-            "tr": {
-                "title_short": "Başarılar",
-                "title_short_nav": "Başarılar",
-                "title_long_prefix": "İşte benim",
-                "title_long": "Kariyer {{Başarılarım}}"
-            },
-            "sv": {
-                "title_short": "Prestationer",
-                "title_short_nav": "Prestationer",
-                "title_long_prefix": "Här är mina",
-                "title_long": "Karriär{{prestationer}}"
-            },
-            "ja": {
-                "title_short": "実績",
-                "title_short_nav": "実績",
-                "title_long_prefix": "こちらが私の",
-                "title_long": "キャリアの{{実績}}"
-            },
             "zh": {
                 "title_short": "成就",
                 "title_short_nav": "成就",
@@ -61,7 +43,7 @@
         {
             "id": 1,
             "component": "ArticleCards",
-            "settings": {},
+
             "locales": {
                 "en": {
                     "title": "Awards & {{Recognition}}"
