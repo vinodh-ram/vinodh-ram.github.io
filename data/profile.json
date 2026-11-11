@@ -9,7 +9,7 @@
         "en": {
             "localized_name": "Vinodh Ram Molli",
             "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
-            "status_message_available_for_freelance": "I am ready for remote jobs",
+            "status_message_available_for_freelance": "Available for remote role opportunities",
             "roles": [
                 "Engineering Team Lead",
                 "Full Stack Developer",
@@ -22,7 +22,7 @@
         "zh": {
             "localized_name": "Vinodh Ram Molli",
             "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
-            "status_message_available_for_freelance": "我已准备好从事远程工作。",
+            "status_message_available_for_freelance": "可接受远程工作机会",
             "roles": [
                 "工程团队负责人",
                 "全栈开发工程师",
@@ -35,7 +35,7 @@
         "hi": {
             "localized_name": "Vinodh Ram Molli",
             "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
-            "status_message_available_for_freelance": "दूरस्थ नौकरियों के अवसरों के लिए उपलब्ध",
+            "status_message_available_for_freelance": "रिमोट भूमिका के अवसरों के लिए उपलब्ध",
             "roles": [
                 "इंजीनियरिंग टीम लीड",
                 "फुल-स्टैक डेवलपर",
