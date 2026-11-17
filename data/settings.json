@@ -7,7 +7,7 @@
     },
     "preloaderSettings": {
         "enabled": true,
-        "title": "Vinodh <b>Ram Molli</b>",
+        "title": "Vinodh <b>Ram</b>",
         "subtitle": "Engineering Team Lead",
         "logoOffset": {
             "right": 12,
@@ -145,13 +145,13 @@
                 ]
             },
             {
-                "description": "Portfolio owner: Vinodh Ram Molli"
+                "description": "Portfolio owner: Vinodh Ram"
             },
             {
                 "description": "Developer Info:",
                 "list": [
                     "GitHub: https://github.com/vinodh-ram",
-                    "Website: https://vinodh-ram.com"
+                    "Website: https://vinodhram.com"
                 ],
                 "listStyle": "bulleted"
             }

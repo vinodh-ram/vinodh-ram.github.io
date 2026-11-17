@@ -108,6 +108,21 @@
                     "locales": {
                         "en": {
                             "title": "Angular"
+                        },
+                        "zh": {
+                            "title": "安格勒"
+                        },
+                        "hi": {
+                            "title": "एंगुलर"
+                        },
+                        "es": {
+                            "title": "Angular"
+                        },
+                        "ar": {
+                            "title": "أنجلر"
+                        },
+                        "te": {
+                            "title": "యాంగ్యులర్"
                         }
                     }
                 },
@@ -118,6 +133,21 @@
                     "locales": {
                         "en": {
                             "title": "React"
+                        },
+                        "zh": {
+                            "title": "瑞艾克特"
+                        },
+                        "hi": {
+                            "title": "रिएक्ट"
+                        },
+                        "es": {
+                            "title": "React"
+                        },
+                        "ar": {
+                            "title": "رياكت"
+                        },
+                        "te": {
+                            "title": "రియాక్ట్"
                         }
                     }
                 },
@@ -128,6 +158,21 @@
                     "locales": {
                         "en": {
                             "title": "TypeScript"
+                        },
+                        "zh": {
+                            "title": "泰普斯克里普特"
+                        },
+                        "hi": {
+                            "title": "टाइपस्क्रिप्ट"
+                        },
+                        "es": {
+                            "title": "TypeScript"
+                        },
+                        "ar": {
+                            "title": "تايب سكريبت"
+                        },
+                        "te": {
+                            "title": "టైప్‌స్క్రిప్ట్"
                         }
                     }
                 },
@@ -138,6 +183,21 @@
                     "locales": {
                         "en": {
                             "title": "JavaScript"
+                        },
+                        "zh": {
+                            "title": "杰瓦斯克里普特"
+                        },
+                        "hi": {
+                            "title": "जावास्क्रिप्ट"
+                        },
+                        "es": {
+                            "title": "JavaScript"
+                        },
+                        "ar": {
+                            "title": "جافاسكريبت"
+                        },
+                        "te": {
+                            "title": "జావాస్క్రిప్ట్"
                         }
                     }
                 },
@@ -148,6 +208,21 @@
                     "locales": {
                         "en": {
                             "title": "HTML5"
+                        },
+                        "zh": {
+                            "title": "艾尺提艾姆艾五"
+                        },
+                        "hi": {
+                            "title": "एचटीएमएल 5"
+                        },
+                        "es": {
+                            "title": "HTML5"
+                        },
+                        "ar": {
+                            "title": "إتش تي إم إل ٥"
+                        },
+                        "te": {
+                            "title": "హెచ్‌టీఎంఎల్ 5"
                         }
                     }
                 },
@@ -158,6 +233,21 @@
                     "locales": {
                         "en": {
                             "title": "CSS3"
+                        },
+                        "zh": {
+                            "title": "西艾斯艾斯三"
+                        },
+                        "hi": {
+                            "title": "सीएसएस 3"
+                        },
+                        "es": {
+                            "title": "CSS3"
+                        },
+                        "ar": {
+                            "title": "سي إس إس ٣"
+                        },
+                        "te": {
+                            "title": "సి.ఎస్.ఎస్. 3"
                         }
                     }
                 },
@@ -168,6 +258,21 @@
                     "locales": {
                         "en": {
                             "title": "Ionic"
+                        },
+                        "zh": {
+                            "title": "艾奥尼克"
+                        },
+                        "hi": {
+                            "title": "आयोनिक"
+                        },
+                        "es": {
+                            "title": "Ionic"
+                        },
+                        "ar": {
+                            "title": "آيونيك"
+                        },
+                        "te": {
+                            "title": "ఐయానిక్"
                         }
                     }
                 }
@@ -204,6 +309,21 @@
                     "locales": {
                         "en": {
                             "title": "Node.js"
+                        },
+                        "zh": {
+                            "title": "诺德杰斯"
+                        },
+                        "hi": {
+                            "title": "नोड.जेएस"
+                        },
+                        "es": {
+                            "title": "Node.js"
+                        },
+                        "ar": {
+                            "title": "نود جي إس"
+                        },
+                        "te": {
+                            "title": "నోడ్.జెఎస్"
                         }
                     }
                 },
@@ -214,6 +334,21 @@
                     "locales": {
                         "en": {
                             "title": "Java"
+                        },
+                        "zh": {
+                            "title": "贾瓦"
+                        },
+                        "hi": {
+                            "title": "जावा"
+                        },
+                        "es": {
+                            "title": "Java"
+                        },
+                        "ar": {
+                            "title": "جافا"
+                        },
+                        "te": {
+                            "title": "జావా"
                         }
                     }
                 },
@@ -224,6 +359,21 @@
                     "locales": {
                         "en": {
                             "title": "Spring MVC"
+                        },
+                        "zh": {
+                            "title": "斯普林 艾姆维西"
+                        },
+                        "hi": {
+                            "title": "स्प्रिंग एमवीसी"
+                        },
+                        "es": {
+                            "title": "Spring MVC"
+                        },
+                        "ar": {
+                            "title": "سبرينغ إم في سي"
+                        },
+                        "te": {
+                            "title": "స్ప్రింగ్ ఎంవీసీ"
                         }
                     }
                 },
@@ -234,6 +384,21 @@
                     "locales": {
                         "en": {
                             "title": "Python"
+                        },
+                        "zh": {
+                            "title": "派森"
+                        },
+                        "hi": {
+                            "title": "पाइथन"
+                        },
+                        "es": {
+                            "title": "Python"
+                        },
+                        "ar": {
+                            "title": "بايثون"
+                        },
+                        "te": {
+                            "title": "పైథాన్"
                         }
                     }
                 },
@@ -244,6 +409,21 @@
                     "locales": {
                         "en": {
                             "title": "PHP"
+                        },
+                        "zh": {
+                            "title": "皮艾尺皮"
+                        },
+                        "hi": {
+                            "title": "पीएचपी"
+                        },
+                        "es": {
+                            "title": "PHP"
+                        },
+                        "ar": {
+                            "title": "بي إتش بي"
+                        },
+                        "te": {
+                            "title": "పీహెచ్‌పీ"
                         }
                     }
                 },
@@ -254,6 +434,21 @@
                     "locales": {
                         "en": {
                             "title": "REST APIs"
+                        },
+                        "zh": {
+                            "title": "REST API"
+                        },
+                        "hi": {
+                            "title": "रेस्ट एपीआई"
+                        },
+                        "es": {
+                            "title": "API REST"
+                        },
+                        "ar": {
+                            "title": "رست إيه بي آي"
+                        },
+                        "te": {
+                            "title": "ఆర్‌ఈ‌ఎస్‌టీ ఏపీఐలు"
                         }
                     }
                 },
@@ -264,6 +459,21 @@
                     "locales": {
                         "en": {
                             "title": "Microservices"
+                        },
+                        "zh": {
+                            "title": "微服务"
+                        },
+                        "hi": {
+                            "title": "माइक्रोसर्विसेज़"
+                        },
+                        "es": {
+                            "title": "Microservicios"
+                        },
+                        "ar": {
+                            "title": "الخدمات المصغّرة"
+                        },
+                        "te": {
+                            "title": "మైక్రోసర్వీసులు"
                         }
                     }
                 }
@@ -300,6 +510,21 @@
                     "locales": {
                         "en": {
                             "title": "AWS"
+                        },
+                        "zh": {
+                            "title": "诶维艾斯"
+                        },
+                        "hi": {
+                            "title": "एडब्ल्यूएस"
+                        },
+                        "es": {
+                            "title": "AWS"
+                        },
+                        "ar": {
+                            "title": "إيه دبليو إس"
+                        },
+                        "te": {
+                            "title": "ఏడబ్ల్యూఎస్"
                         }
                     }
                 },
@@ -309,6 +534,21 @@
                     "locales": {
                         "en": {
                             "title": "AWS Lambda"
+                        },
+                        "zh": {
+                            "title": "诶维艾斯 兰姆达"
+                        },
+                        "hi": {
+                            "title": "एडब्ल्यूएस लैम्ब्डा"
+                        },
+                        "es": {
+                            "title": "AWS Lambda"
+                        },
+                        "ar": {
+                            "title": "إيه دبليو إس لامبدا"
+                        },
+                        "te": {
+                            "title": "ఏడబ్ల్యూఎస్ లాంబ్డా"
                         }
                     }
                 },
@@ -318,6 +558,21 @@
                     "locales": {
                         "en": {
                             "title": "Amazon S3"
+                        },
+                        "zh": {
+                            "title": "亚马逊 艾斯三"
+                        },
+                        "hi": {
+                            "title": "अमेज़न एस3"
+                        },
+                        "es": {
+                            "title": "Amazon S3"
+                        },
+                        "ar": {
+                            "title": "أمازون إس ٣"
+                        },
+                        "te": {
+                            "title": "అమెజాన్ ఎస్3"
                         }
                     }
                 },
@@ -327,6 +582,21 @@
                     "locales": {
                         "en": {
                             "title": "Amazon RDS"
+                        },
+                        "zh": {
+                            "title": "亚马逊 阿尔迪艾斯"
+                        },
+                        "hi": {
+                            "title": "अमेज़न आरडीएस"
+                        },
+                        "es": {
+                            "title": "Amazon RDS"
+                        },
+                        "ar": {
+                            "title": "أمازون آر دي إس"
+                        },
+                        "te": {
+                            "title": "అమెజాన్ ఆర్‌డీఎస్"
                         }
                     }
                 },
@@ -336,6 +606,21 @@
                     "locales": {
                         "en": {
                             "title": "Amazon EC2"
+                        },
+                        "zh": {
+                            "title": "亚马逊 伊西二"
+                        },
+                        "hi": {
+                            "title": "अमेज़न ईसी2"
+                        },
+                        "es": {
+                            "title": "Amazon EC2"
+                        },
+                        "ar": {
+                            "title": "أمازون إي سي ٢"
+                        },
+                        "te": {
+                            "title": "అమెజాన్ ఈసీ2"
                         }
                     }
                 },
@@ -346,6 +631,21 @@
                     "locales": {
                         "en": {
                             "title": "Git"
+                        },
+                        "zh": {
+                            "title": "吉特"
+                        },
+                        "hi": {
+                            "title": "गिट"
+                        },
+                        "es": {
+                            "title": "Git"
+                        },
+                        "ar": {
+                            "title": "غيت"
+                        },
+                        "te": {
+                            "title": "గిట్"
                         }
                     }
                 },
@@ -356,6 +656,21 @@
                     "locales": {
                         "en": {
                             "title": "Bitbucket"
+                        },
+                        "zh": {
+                            "title": "比特巴克特"
+                        },
+                        "hi": {
+                            "title": "बिटबकेट"
+                        },
+                        "es": {
+                            "title": "Bitbucket"
+                        },
+                        "ar": {
+                            "title": "بت باكت"
+                        },
+                        "te": {
+                            "title": "బిట్‌బకెట్"
                         }
                     }
                 },
@@ -366,6 +681,21 @@
                     "locales": {
                         "en": {
                             "title": "JIRA"
+                        },
+                        "zh": {
+                            "title": "吉拉"
+                        },
+                        "hi": {
+                            "title": "जीरा"
+                        },
+                        "es": {
+                            "title": "JIRA"
+                        },
+                        "ar": {
+                            "title": "جيرا"
+                        },
+                        "te": {
+                            "title": "జీరా"
                         }
                     }
                 }
@@ -402,6 +732,21 @@
                     "locales": {
                         "en": {
                             "title": "MySQL"
+                        },
+                        "zh": {
+                            "title": "迈艾斯丘艾尔"
+                        },
+                        "hi": {
+                            "title": "माइएसक्यूएल"
+                        },
+                        "es": {
+                            "title": "MySQL"
+                        },
+                        "ar": {
+                            "title": "ماي إس كيو إل"
+                        },
+                        "te": {
+                            "title": "మైఎస్‌క్యూఎల్"
                         }
                     }
                 },
@@ -412,6 +757,21 @@
                     "locales": {
                         "en": {
                             "title": "PostgreSQL"
+                        },
+                        "zh": {
+                            "title": "波斯特格瑞艾斯丘艾尔"
+                        },
+                        "hi": {
+                            "title": "पोस्टग्रेएसक्यूएल"
+                        },
+                        "es": {
+                            "title": "PostgreSQL"
+                        },
+                        "ar": {
+                            "title": "بوستغري إس كيو إل"
+                        },
+                        "te": {
+                            "title": "పోస్ట్‌గ్రెస్‌క్యూఎల్"
                         }
                     }
                 },
@@ -422,6 +782,21 @@
                     "locales": {
                         "en": {
                             "title": "MongoDB"
+                        },
+                        "zh": {
+                            "title": "蒙戈迪比"
+                        },
+                        "hi": {
+                            "title": "मोंगोडीबी"
+                        },
+                        "es": {
+                            "title": "MongoDB"
+                        },
+                        "ar": {
+                            "title": "مونغو دي بي"
+                        },
+                        "te": {
+                            "title": "మోంగోడీబీ"
                         }
                     }
                 }
@@ -458,6 +833,21 @@
                     "locales": {
                         "en": {
                             "title": "Stripe"
+                        },
+                        "zh": {
+                            "title": "斯特赖普"
+                        },
+                        "hi": {
+                            "title": "स्ट्राइप"
+                        },
+                        "es": {
+                            "title": "Stripe"
+                        },
+                        "ar": {
+                            "title": "سترايب"
+                        },
+                        "te": {
+                            "title": "స్ట్రైప్"
                         }
                     }
                 },
@@ -468,6 +858,21 @@
                     "locales": {
                         "en": {
                             "title": "Twilio"
+                        },
+                        "zh": {
+                            "title": "特威利欧"
+                        },
+                        "hi": {
+                            "title": "ट्विलियो"
+                        },
+                        "es": {
+                            "title": "Twilio"
+                        },
+                        "ar": {
+                            "title": "تويليو"
+                        },
+                        "te": {
+                            "title": "ట్విలియో"
                         }
                     }
                 },
@@ -478,6 +883,21 @@
                     "locales": {
                         "en": {
                             "title": "OAuth"
+                        },
+                        "zh": {
+                            "title": "欧奥思"
+                        },
+                        "hi": {
+                            "title": "ओऑथ"
+                        },
+                        "es": {
+                            "title": "OAuth"
+                        },
+                        "ar": {
+                            "title": "أو أوث"
+                        },
+                        "te": {
+                            "title": "ఓఆత్"
                         }
                     }
                 },
@@ -488,6 +908,21 @@
                     "locales": {
                         "en": {
                             "title": "JWT"
+                        },
+                        "zh": {
+                            "title": "杰维提"
+                        },
+                        "hi": {
+                            "title": "जे डब्ल्यू टी"
+                        },
+                        "es": {
+                            "title": "JWT"
+                        },
+                        "ar": {
+                            "title": "جيه دبليو تي"
+                        },
+                        "te": {
+                            "title": "జేడబ్ల్యూటీ"
                         }
                     }
                 },
@@ -497,6 +932,21 @@
                     "locales": {
                         "en": {
                             "title": "Clover"
+                        },
+                        "zh": {
+                            "title": "克洛弗"
+                        },
+                        "hi": {
+                            "title": "क्लोवर"
+                        },
+                        "es": {
+                            "title": "Clover"
+                        },
+                        "ar": {
+                            "title": "كلوفر"
+                        },
+                        "te": {
+                            "title": "క్లోవర్"
                         }
                     }
                 },
@@ -506,6 +956,21 @@
                     "locales": {
                         "en": {
                             "title": "Selenium"
+                        },
+                        "zh": {
+                            "title": "塞莱尼姆"
+                        },
+                        "hi": {
+                            "title": "सेलेनियम"
+                        },
+                        "es": {
+                            "title": "Selenium"
+                        },
+                        "ar": {
+                            "title": "سيلينيوم"
+                        },
+                        "te": {
+                            "title": "సెలీనియం"
                         }
                     }
                 },
@@ -516,6 +981,21 @@
                     "locales": {
                         "en": {
                             "title": "Agile"
+                        },
+                        "zh": {
+                            "title": "敏捷开发"
+                        },
+                        "hi": {
+                            "title": "एजाइल पद्धति"
+                        },
+                        "es": {
+                            "title": "Metodología ágil"
+                        },
+                        "ar": {
+                            "title": "المنهجية الرشيقة"
+                        },
+                        "te": {
+                            "title": "ఎజైల్ విధానం"
                         }
                     }
                 },
@@ -526,6 +1006,107 @@
                     "locales": {
                         "en": {
                             "title": "Scrum"
+                        },
+                        "zh": {
+                            "title": "Scrum 敏捷框架"
+                        },
+                        "hi": {
+                            "title": "स्क्रम फ्रेमवर्क"
+                        },
+                        "es": {
+                            "title": "Marco de Scrum"
+                        },
+                        "ar": {
+                            "title": "إطار عمل سكرم"
+                        },
+                        "te": {
+                            "title": "స్క్రమ్ ఫ్రేమ్‌వర్క్"
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "component": "ArticleStack",
+            "locales": {
+                "en": {"title": "{{AI}} Tools"},
+                "zh": {"title": "{{人工智能}}工具"},
+                "hi": {"title": "{{एआई}} टूल"},
+                "es": {"title": "Herramientas de {{IA}}"},
+                "ar": {"title": "أدوات {{الذكاء الاصطناعي}}"},
+                "te": {"title": "{{కృత్రిమ మేధస్సు}} సాధనాలు"}
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "img": "images/tech-stack/github-copilot.svg",
+                    "locales": {
+                        "en": {
+                            "title": "GitHub Copilot"
+                        },
+                        "zh": {
+                            "title": "吉特哈布 科派洛特"
+                        },
+                        "hi": {
+                            "title": "गिटहब कोपायलट"
+                        },
+                        "es": {
+                            "title": "GitHub Copilot"
+                        },
+                        "ar": {
+                            "title": "غيت هب كوبايلوت"
+                        },
+                        "te": {
+                            "title": "గిట్‌హబ్ కోపైలట్"
+                        }
+                    }
+                },
+                {
+                    "id": 2,
+                    "img": "images/tech-stack/cursor.svg",
+                    "locales": {
+                        "en": {
+                            "title": "Cursor"
+                        },
+                        "zh": {
+                            "title": "卡瑟"
+                        },
+                        "hi": {
+                            "title": "कर्सर"
+                        },
+                        "es": {
+                            "title": "Cursor"
+                        },
+                        "ar": {
+                            "title": "كورسر"
+                        },
+                        "te": {
+                            "title": "కర్సర్"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "img": "images/tech-stack/openai.svg",
+                    "locales": {
+                        "en": {
+                            "title": "OpenAI Codex"
+                        },
+                        "zh": {
+                            "title": "欧朋艾艾 科德克斯"
+                        },
+                        "hi": {
+                            "title": "ओपनएआई कोडेक्स"
+                        },
+                        "es": {
+                            "title": "OpenAI Codex"
+                        },
+                        "ar": {
+                            "title": "أوبن إيه آي كوديكس"
+                        },
+                        "te": {
+                            "title": "ఓపెన్‌ఏఐ కోడెక్స్"
                         }
                     }
                 }

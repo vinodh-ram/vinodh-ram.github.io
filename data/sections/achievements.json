@@ -76,27 +76,27 @@
                         },
                         "te": {
                             "title": "{{అత్యుత్తమ నాయకత్వం}}",
-                            "institution": "WebAppClouds Software Solutions",
+                            "institution": "వెబ్ యాప్ క్లౌడ్స్ సాఫ్ట్‌వేర్ సొల్యూషన్స్",
                             "text": "వినియోగదారుల భాగస్వామ్యాన్ని 50% పెంచిన వెబ్, మొబైల్ అప్లికేషన్‌ను అందించడంలో నాయకత్వానికి గుర్తింపు పొందాను."
                         },
                         "zh": {
                             "title": "{{卓越领导力}}",
-                            "institution": "WebAppClouds Software Solutions",
+                            "institution": "WebAppClouds 软件解决方案",
                             "text": "因领导交付一款使用户参与度提升 50% 的 Web 和移动应用而获得认可。"
                         },
                         "hi": {
                             "title": "{{उत्कृष्ट नेतृत्व}}",
-                            "institution": "WebAppClouds Software Solutions",
+                            "institution": "वेबऐपक्लाउड्स सॉफ्टवेयर सॉल्यूशंस",
                             "text": "ऐसा वेब और मोबाइल ऐप उपलब्ध कराने में नेतृत्व के लिए सम्मानित किया गया, जिससे उपयोगकर्ता सहभागिता 50% बढ़ी।"
                         },
                         "es": {
                             "title": "{{Liderazgo destacado}}",
-                            "institution": "WebAppClouds Software Solutions",
+                            "institution": "Soluciones de software de WebAppClouds",
                             "text": "Reconocido por liderar la entrega de una aplicación web y móvil que aumentó la participación de los usuarios en un 50 %."
                         },
                         "ar": {
                             "title": "{{قيادة متميزة}}",
-                            "institution": "WebAppClouds Software Solutions",
+                            "institution": "حلول برمجية من WebAppClouds",
                             "text": "حصلت على تقدير لقيادة تطوير تطبيق ويب وجوال أسهم في زيادة تفاعل المستخدمين بنسبة 50٪."
                         }
                     }
@@ -112,27 +112,27 @@
                         },
                         "te": {
                             "title": "{{స్పాట్ అవార్డ్}}",
-                            "institution": "Cognizant",
+                            "institution": "కాగ్నిజెంట్",
                             "text": "RSSI ప్రదర్శనలో TCIM App విజయానికి గుర్తింపు పొందాను."
                         },
                         "zh": {
                             "title": "{{即时贡献奖}}",
-                            "institution": "Cognizant",
+                            "institution": "认知",
                             "text": "因 TCIM App 在 RSSI 展会上的成功而获得认可。"
                         },
                         "hi": {
                             "title": "{{स्पॉट अवॉर्ड}}",
-                            "institution": "Cognizant",
+                            "institution": "कॉग्निजेंट",
                             "text": "RSSI प्रदर्शनी में TCIM App की सफलता के लिए सम्मानित किया गया।"
                         },
                         "es": {
                             "title": "{{Premio Spot}}",
-                            "institution": "Cognizant",
+                            "institution": "Competente",
                             "text": "Reconocido por el éxito de TCIM App en la exposición RSSI."
                         },
                         "ar": {
                             "title": "{{جائزة فورية}}",
-                            "institution": "Cognizant",
+                            "institution": "كوجنيزانت",
                             "text": "حصلت على تقدير لنجاح تطبيق TCIM في معرض RSSI."
                         }
                     }
@@ -148,27 +148,27 @@
                         },
                         "te": {
                             "title": "{{షైనింగ్ స్టార్ అవార్డ్}}",
-                            "institution": "Cognizant",
+                            "institution": "కాగ్నిజెంట్",
                             "text": "TCIM Appను వేగంగా, విజయవంతంగా డిప్లాయ్ చేసినందుకు గుర్తింపు పొందాను."
                         },
                         "zh": {
                             "title": "{{闪耀之星奖}}",
-                            "institution": "Cognizant",
+                            "institution": "认知",
                             "text": "因快速、成功地部署 TCIM App 而获得认可。"
                         },
                         "hi": {
                             "title": "{{शाइनिंग स्टार अवॉर्ड}}",
-                            "institution": "Cognizant",
+                            "institution": "कॉग्निजेंट",
                             "text": "TCIM App को तेज़ी से और सफलतापूर्वक तैनात करने के लिए सम्मानित किया गया।"
                         },
                         "es": {
                             "title": "{{Premio Estrella Brillante}}",
-                            "institution": "Cognizant",
+                            "institution": "Competente",
                             "text": "Reconocido por la implementación rápida y exitosa de TCIM App."
                         },
                         "ar": {
                             "title": "{{جائزة النجم المتألق}}",
-                            "institution": "Cognizant",
+                            "institution": "كوجنيزانت",
                             "text": "حصلت على تقدير لنشر تطبيق TCIM بسرعة ونجاح."
                         }
                     }
@@ -184,17 +184,17 @@
                         },
                         "te": {
                             "title": "{{త్రైమాసిక ఉత్తమ ఉద్యోగి}}",
-                            "institution": "Vedic Systems",
+                            "institution": "వేదిక్ సిస్టమ్స్",
                             "text": "క్లయింట్-సైడ్, అడ్మినిస్ట్రేటివ్ అప్లికేషన్ అభివృద్ధిలో నాయకత్వం మరియు నాణ్యమైన పనికి గుర్తింపు పొందాను."
                         },
                         "zh": {
                             "title": "{{季度优秀员工}}",
-                            "institution": "Vedic Systems",
+                            "institution": "维迪克系统",
                             "text": "因在面向客户和管理类应用开发中展现的领导力与高质量成果而获得认可。"
                         },
                         "hi": {
                             "title": "{{तिमाही का सर्वश्रेष्ठ कर्मचारी}}",
-                            "institution": "Vedic Systems",
+                            "institution": "वेदिक सिस्टम्स",
                             "text": "क्लाइंट-साइड और प्रशासनिक ऐप विकास में नेतृत्व तथा उच्च गुणवत्ता वाले काम के लिए सम्मानित किया गया।"
                         },
                         "es": {
@@ -204,7 +204,7 @@
                         },
                         "ar": {
                             "title": "{{موظف الربع}}",
-                            "institution": "Vedic Systems",
+                            "institution": "فيديك سيستمز",
                             "text": "حصلت على تقدير للقيادة وجودة تطوير تطبيقات العملاء والتطبيقات الإدارية."
                         }
                     }
@@ -220,17 +220,17 @@
                         },
                         "te": {
                             "title": "{{ప్రశంసా పురస్కారం}}",
-                            "institution": "Vedic Systems",
+                            "institution": "వేదిక్ సిస్టమ్స్",
                             "text": "వీడియో ఎడిటింగ్, అప్‌లోడ్, ప్రచురణ పనివిధానాల్లో మెరుగుదలలకు గుర్తింపు పొందాను."
                         },
                         "zh": {
                             "title": "{{表彰奖}}",
-                            "institution": "Vedic Systems",
+                            "institution": "维迪克系统",
                             "text": "因改进视频编辑、上传和发布流程而获得认可。"
                         },
                         "hi": {
                             "title": "{{प्रशंसा पुरस्कार}}",
-                            "institution": "Vedic Systems",
+                            "institution": "वेदिक सिस्टम्स",
                             "text": "वीडियो संपादन, अपलोड और प्रकाशन कार्यप्रवाहों में सुधार के लिए सम्मानित किया गया।"
                         },
                         "es": {
@@ -240,7 +240,7 @@
                         },
                         "ar": {
                             "title": "{{جائزة التقدير}}",
-                            "institution": "Vedic Systems",
+                            "institution": "فيديك سيستمز",
                             "text": "حصلت على تقدير لتحسين سير عمل تحرير مقاطع الفيديو ورفعها ونشرها."
                         }
                     }

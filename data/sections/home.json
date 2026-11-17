@@ -5,19 +5,19 @@
                 "title_short": "Cheers!",
                 "title_short_nav": "About me",
                 "title_long_prefix": "Greetings nerds...",
-                "title_long": "I'm Vinodh {{Ram Molli!}}"
+                "title_long": "I'm Vinodh {{Ram!}}"
             },
             "zh": {
                 "title_short": "你好！",
                 "title_short_nav": "关于我",
                 "title_long_prefix": "大家好...",
-                "title_long": "我是 Vinodh {{Ram！}}"
+                "title_long": "我是维诺德{{·拉姆！}}"
             },
             "hi": {
                 "title_short": "नमस्ते!",
                 "title_short_nav": "मेरे बारे में",
                 "title_long_prefix": "नमस्कार दोस्तों...",
-                "title_long": "मैं Vinodh {{Ram हूँ!}}"
+                "title_long": "मैं विनोद {{राम हूँ!}}"
             },
             "es": {
                 "title_short": "¡Hola!",
@@ -29,13 +29,13 @@
                 "title_short": "مرحبًا!",
                 "title_short_nav": "نبذة عني",
                 "title_long_prefix": "أهلًا بالجميع...",
-                "title_long": "أنا Vinodh {{Ram!}}"
+                "title_long": "أنا فينود {{رام!}}"
             },
             "te": {
                 "title_short": "నమస్కారం!",
                 "title_short_nav": "నా గురించి",
                 "title_long_prefix": "నమస్కారం...",
-                "title_long": "నేను వినోద్ {{రామ్ మొల్లి!}}"
+                "title_long": "నేను వినోద్ {{రామ్!}}"
             }
         }
     },
@@ -92,6 +92,14 @@
                 {
                     "id": 4,
                     "label": "LinkedIn",
+                    "locales": {
+                        "en": {"label": "LinkedIn"},
+                        "zh": {"label": "领英"},
+                        "hi": {"label": "लिंक्डइन"},
+                        "es": {"label": "LinkedIn"},
+                        "ar": {"label": "لينكدإن"},
+                        "te": {"label": "లింక్డ్‌ఇన్"}
+                    },
                     "link": {
                         "href": "https://linkedin.com/in/vinodh-ram-molli",
                         "tooltipString": "open_website"
@@ -131,27 +139,27 @@
                     "locales": {
                         "en": {
                             "label": "Tablet and desktop illustrating software development",
-                            "text": "<p>Engineering Team Lead with 13+ years of experience building scalable web and mobile ecosystems with Node.js, Angular, React, and AWS. I lead cross-functional engineering teams and modernize legacy systems into high-performance microservices.</p><p>With an M.Sc. in Psychology, I bring a people-centered approach to mentoring developers, strengthening team dynamics, and improving delivery.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>Download my resume</a></p>"
+                            "text": "<p>Engineering Team Lead with 13+ years of experience building scalable web and mobile ecosystems with Node.js, Angular, React, and AWS. I lead cross-functional engineering teams and modernize legacy systems into high-performance microservices.</p><p>With an M.Sc. in Psychology, I bring a people-centered approach to mentoring developers, strengthening team dynamics, and improving delivery.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>Download resume</a></p>"
                         },
                         "zh": {
                             "label": "展示软件开发的平板电脑和台式电脑",
-                            "text": "<p>拥有 13 年以上经验的工程团队负责人，使用 Node.js、Angular、React 和 AWS 构建可扩展的 Web 与移动生态系统。我带领跨职能工程团队，并将旧系统现代化为高性能微服务。</p><p>凭借心理学理学硕士背景，我以关注人的方式指导开发人员、增强团队协作并改善交付。</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>下载我的简历</a></p>"
+                            "text": "<p>拥有 13 年以上经验的工程团队负责人，使用 Node.js、Angular、React 和 AWS 构建可扩展的 Web 与移动生态系统。我带领跨职能工程团队，并将旧系统现代化为高性能微服务。</p><p>凭借心理学理学硕士背景，我以关注人的方式指导开发人员、增强团队协作并改善交付。</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>下载简历</a></p>"
                         },
                         "hi": {
                             "label": "सॉफ्टवेयर विकास दर्शाने वाला टैबलेट और डेस्कटॉप",
-                            "text": "<p>13+ वर्षों के अनुभव वाले इंजीनियरिंग टीम लीड, जो Node.js, Angular, React और AWS के साथ विस्तार योग्य वेब और मोबाइल इकोसिस्टम बनाते हैं। मैं विभिन्न विशेषज्ञताओं वाली इंजीनियरिंग टीमों का नेतृत्व करता हूँ और पुराने सिस्टम को उच्च-प्रदर्शन वाले माइक्रोसर्विसेज़ में आधुनिक बनाता हूँ।</p><p>मनोविज्ञान में M.Sc. के साथ, मैं डेवलपरों का मार्गदर्शन करने, टीम के तालमेल को मजबूत करने और डिलीवरी बेहतर बनाने में व्यक्ति-केंद्रित दृष्टिकोण अपनाता हूँ।</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>मेरा रिज़्यूमे डाउनलोड करें</a></p>"
+                            "text": "<p>13+ वर्षों के अनुभव वाले इंजीनियरिंग टीम लीड, जो Node.js, Angular, React और AWS के साथ विस्तार योग्य वेब और मोबाइल इकोसिस्टम बनाते हैं। मैं विभिन्न विशेषज्ञताओं वाली इंजीनियरिंग टीमों का नेतृत्व करता हूँ और पुराने सिस्टम को उच्च-प्रदर्शन वाले माइक्रोसर्विसेज़ में आधुनिक बनाता हूँ।</p><p>मनोविज्ञान में M.Sc. के साथ, मैं डेवलपरों का मार्गदर्शन करने, टीम के तालमेल को मजबूत करने और डिलीवरी बेहतर बनाने में व्यक्ति-केंद्रित दृष्टिकोण अपनाता हूँ।</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>रिज़्यूमे डाउनलोड करें</a></p>"
                         },
                         "es": {
                             "label": "Tableta y ordenador de escritorio que ilustran el desarrollo de software",
-                            "text": "<p>Líder de equipos de ingeniería con más de 13 años de experiencia creando ecosistemas web y móviles escalables con Node.js, Angular, React y AWS. Dirijo equipos de ingeniería multidisciplinarios y modernizo sistemas heredados para convertirlos en microservicios de alto rendimiento.</p><p>Con un máster en Psicología, aporto un enfoque centrado en las personas para orientar a desarrolladores, fortalecer la dinámica del equipo y mejorar las entregas.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>Descargar mi currículum</a></p>"
+                            "text": "<p>Líder de equipos de ingeniería con más de 13 años de experiencia creando ecosistemas web y móviles escalables con Node.js, Angular, React y AWS. Dirijo equipos de ingeniería multidisciplinarios y modernizo sistemas heredados para convertirlos en microservicios de alto rendimiento.</p><p>Con un máster en Psicología, aporto un enfoque centrado en las personas para orientar a desarrolladores, fortalecer la dinámica del equipo y mejorar las entregas.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>Descargar currículum</a></p>"
                         },
                         "ar": {
                             "label": "جهاز لوحي وحاسوب مكتبي يوضحان تطوير البرمجيات",
-                            "text": "<p>قائد فريق هندسي بخبرة تزيد على 13 عامًا في بناء منظومات ويب وجوال قابلة للتوسع باستخدام Node.js وAngular وReact وAWS. أقود فرقًا هندسية متعددة التخصصات وأحدّث الأنظمة القديمة إلى خدمات مصغرة عالية الأداء.</p><p>وبفضل درجة الماجستير في علم النفس، أتبع نهجًا يركز على الإنسان في توجيه المطورين وتعزيز تعاون الفريق وتحسين التسليم.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>تنزيل سيرتي الذاتية</a></p>"
+                            "text": "<p>قائد فريق هندسي بخبرة تزيد على 13 عامًا في بناء منظومات ويب وجوال قابلة للتوسع باستخدام Node.js وAngular وReact وAWS. أقود فرقًا هندسية متعددة التخصصات وأحدّث الأنظمة القديمة إلى خدمات مصغرة عالية الأداء.</p><p>وبفضل درجة الماجستير في علم النفس، أتبع نهجًا يركز على الإنسان في توجيه المطورين وتعزيز تعاون الفريق وتحسين التسليم.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>تنزيل السيرة الذاتية</a></p>"
                         },
                         "te": {
                             "label": "సాఫ్ట్‌వేర్ అభివృద్ధిని సూచించే టాబ్లెట్ మరియు డెస్క్‌టాప్",
-                            "text": "<p>Node.js, Angular, React, AWS సాంకేతికతలతో విస్తరించగల వెబ్, మొబైల్ వ్యవస్థలను నిర్మిస్తున్న వ్యూహాత్మక టెక్ లీడ్‌గా నాకు 13+ సంవత్సరాల అనుభవం ఉంది. విభిన్న విభాగాల ఇంజినీరింగ్ బృందాలకు నాయకత్వం వహిస్తూ, పాత వ్యవస్థలను అధిక పనితీరు గల మైక్రోసర్వీసులుగా ఆధునీకరిస్తాను.</p><p>సైకాలజీలో మాస్టర్స్ డిగ్రీతో, డెవలపర్లకు మార్గనిర్దేశం చేయడం, బృందాల సమన్వయాన్ని బలోపేతం చేయడం, పనుల అమలును మెరుగుపరచడంలో వ్యక్తి-కేంద్రిత దృక్పథాన్ని అనుసరిస్తాను.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>నా రెజ్యూమేను డౌన్‌లోడ్ చేయండి</a></p>"
+                            "text": "<p>Node.js, Angular, React, AWS సాంకేతికతలతో విస్తరించగల వెబ్, మొబైల్ వ్యవస్థలను నిర్మిస్తున్న వ్యూహాత్మక టెక్ లీడ్‌గా నాకు 13+ సంవత్సరాల అనుభవం ఉంది. విభిన్న విభాగాల ఇంజినీరింగ్ బృందాలకు నాయకత్వం వహిస్తూ, పాత వ్యవస్థలను అధిక పనితీరు గల మైక్రోసర్వీసులుగా ఆధునీకరిస్తాను.</p><p>సైకాలజీలో మాస్టర్స్ డిగ్రీతో, డెవలపర్లకు మార్గనిర్దేశం చేయడం, బృందాల సమన్వయాన్ని బలోపేతం చేయడం, పనుల అమలును మెరుగుపరచడంలో వ్యక్తి-కేంద్రిత దృక్పథాన్ని అనుసరిస్తాను.</p><p><a class=\"btn\" style=\"background-color: var(--theme-primary); color: var(--theme-texts-inv);\" href=\"/pdf/resume.pdf\" download=\"Vinodh_Ram_Resume.pdf\"><i class=\"fa-solid fa-file-arrow-down me-2\"></i>రెజ్యూమ్‌ని డౌన్‌లోడ్ చేయండి</a></p>"
                         }
                     }
                 }
@@ -361,7 +369,7 @@
                             "text": "تواصل سلس وواثق في البيئات المهنية واليومية."
                         },
                         "te": {
-                            "title": "English",
+                            "title": "ఆంగ్లం",
                             "level": "ప్రవీణం",
                             "text": "వృత్తిపరమైన మరియు రోజువారీ సందర్భాల్లో స్పష్టంగా, ఆత్మవిశ్వాసంతో సంభాషించగలను."
                         }
@@ -387,7 +395,7 @@
                             "text": "औपचारिक और अनौपचारिक, दोनों परिस्थितियों में स्वाभाविक और सहज संवाद।"
                         },
                         "es": {
-                            "title": "Hindi",
+                            "title": "hindi",
                             "level": "Fluido",
                             "text": "Interacción natural y cómoda tanto en contextos formales como informales."
                         },
@@ -397,7 +405,7 @@
                             "text": "تواصل طبيعي وسلس في الأجواء الرسمية وغير الرسمية."
                         },
                         "te": {
-                            "title": "Hindi",
+                            "title": "హిందీ",
                             "level": "ప్రవీణం",
                             "text": "అధికారిక మరియు అనౌపచారిక సందర్భాల్లో సహజంగా, సులభంగా సంభాషించగలను."
                         }
@@ -423,7 +431,7 @@
                             "text": "मातृभाषा पर पूर्ण अधिकार और भाषा व संस्कृति में सहज दक्षता।"
                         },
                         "es": {
-                            "title": "Telugu",
+                            "title": "télugu",
                             "level": "Nativo",
                             "text": "Dominio nativo completo y plena fluidez lingüística y cultural."
                         },
@@ -433,7 +441,7 @@
                             "text": "إتقان كامل للغة الأم وطلاقة لغوية وثقافية."
                         },
                         "te": {
-                            "title": "Telugu",
+                            "title": "తెలుగు",
                             "level": "మాతృభాష",
                             "text": "తెలుగు నా మాతృభాష; భాషా, సాంస్కృతిక పరిజ్ఞానం సంపూర్ణంగా ఉంది."
                         }

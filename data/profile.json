@@ -1,5 +1,5 @@
 {
-    "name": "Vinodh Ram Molli",
+    "name": "Vinodh Ram",
     "profilePictureUrl": "images/content/pfp-{theme}.png",
     "resumePdfUrl": "pdf/resume.pdf",
     "statusCircleVisible": true,
@@ -7,8 +7,8 @@
     "statusCircleHoverMessage": "status_message_available_for_freelance",
     "locales": {
         "en": {
-            "localized_name": "Vinodh Ram Molli",
-            "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
+            "localized_name": "Vinodh Ram",
+            "localized_name_stylized": "<strong>Vinodh {{Ram}}</strong>",
             "status_message_available_for_freelance": "Available for remote role opportunities",
             "roles": [
                 "Engineering Team Lead",
@@ -20,8 +20,8 @@
             ]
         },
         "zh": {
-            "localized_name": "Vinodh Ram Molli",
-            "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
+            "localized_name": "维诺德·拉姆",
+            "localized_name_stylized": "<strong>维诺德 {{·拉姆}}</strong>",
             "status_message_available_for_freelance": "可接受远程工作机会",
             "roles": [
                 "工程团队负责人",
@@ -33,8 +33,8 @@
             ]
         },
         "hi": {
-            "localized_name": "Vinodh Ram Molli",
-            "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
+            "localized_name": "विनोद राम",
+            "localized_name_stylized": "<strong>विनोद {{राम}}</strong>",
             "status_message_available_for_freelance": "रिमोट भूमिका के अवसरों के लिए उपलब्ध",
             "roles": [
                 "इंजीनियरिंग टीम लीड",
@@ -46,8 +46,8 @@
             ]
         },
         "es": {
-            "localized_name": "Vinodh Ram Molli",
-            "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
+            "localized_name": "Vinodh Ram",
+            "localized_name_stylized": "<strong>Vinodh {{Ram}}</strong>",
             "status_message_available_for_freelance": "Abierto a oportunidades de trabajo remoto",
             "roles": [
                 "Líder de equipos de ingeniería",
@@ -59,8 +59,8 @@
             ]
         },
         "ar": {
-            "localized_name": "Vinodh Ram Molli",
-            "localized_name_stylized": "<strong>Vinodh {{Ram Molli}}</strong>",
+            "localized_name": "فينود رام",
+            "localized_name_stylized": "<strong>فينود {{رام}}</strong>",
             "status_message_available_for_freelance": "متاح لفرص العمل عن بُعد",
             "roles": [
                 "قائد فريق هندسي",
@@ -72,8 +72,8 @@
             ]
         },
         "te": {
-            "localized_name": "వినోద్ రామ్ మొల్లి",
-            "localized_name_stylized": "<strong>వినోద్ {{రామ్ మొల్లి}}</strong>",
+            "localized_name": "వినోద్ రామ్",
+            "localized_name_stylized": "<strong>వినోద్ {{రామ్}}</strong>",
             "status_message_available_for_freelance": "రిమోట్ ఉద్యోగాలకు సిద్ధంగా ఉన్నాను",
             "roles": [
                 "ఇంజినీరింగ్ టీమ్ లీడ్",

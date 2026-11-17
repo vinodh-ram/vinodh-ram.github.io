@@ -51,6 +51,7 @@
                 {
                     "id": 1,
                     "faIcon": "fa-solid fa-people-group",
+                    "institutionHref": "https://webappclouds.com",
                     "dateStart": {
                         "year": 2022,
                         "month": 3
@@ -84,7 +85,7 @@
                         },
                         "te": {
                             "title": "{{టెక్నికల్ లీడ్}}",
-                            "institution": "WebAppClouds Software Solutions",
+                            "institution": "వెబ్ యాప్ క్లౌడ్స్ సాఫ్ట్‌వేర్ సొల్యూషన్స్",
                             "country": "హైదరాబాద్, భారతదేశం",
                             "text": "10 మంది ఇంజినీర్ల బృందానికి నాయకత్వం వహిస్తూ, సంవత్సరానికి $1.2M కంటే ఎక్కువ ఆదాయానికి తోడ్పడే అధిక లభ్యత గల వెబ్, మొబైల్ వ్యవస్థలను అందిస్తున్నాను.",
                             "list": [
@@ -96,7 +97,7 @@
                         },
                         "zh": {
                             "title": "{{技术负责人}}",
-                            "institution": "WebAppClouds Software Solutions",
+                            "institution": "WebAppClouds 软件解决方案",
                             "country": "印度海得拉巴",
                             "text": "带领 10 人工程师团队交付高可用的 Web 和移动系统，每年贡献超过 120 万美元收入。",
                             "list": [
@@ -108,7 +109,7 @@
                         },
                         "hi": {
                             "title": "{{तकनीकी प्रमुख}}",
-                            "institution": "WebAppClouds Software Solutions",
+                            "institution": "वेबऐपक्लाउड्स सॉफ्टवेयर सॉल्यूशंस",
                             "country": "हैदराबाद, भारत",
                             "text": "10 इंजीनियरों की टीम का नेतृत्व करते हुए उच्च-उपलब्धता वाले वेब और मोबाइल सिस्टम दिए, जिनसे सालाना 1.2 मिलियन डॉलर से अधिक का राजस्व योगदान होता है।",
                             "list": [
@@ -120,7 +121,7 @@
                         },
                         "es": {
                             "title": "{{Líder técnico}}",
-                            "institution": "WebAppClouds Software Solutions",
+                            "institution": "Soluciones de software de WebAppClouds",
                             "country": "Hyderabad, India",
                             "text": "Lidero un equipo de 10 ingenieros que desarrolla sistemas web y móviles de alta disponibilidad y aporta más de 1,2 millones de dólares en ingresos anuales.",
                             "list": [
@@ -132,7 +133,7 @@
                         },
                         "ar": {
                             "title": "{{قائد تقني}}",
-                            "institution": "WebAppClouds Software Solutions",
+                            "institution": "حلول برمجية من WebAppClouds",
                             "country": "حيدر آباد، الهند",
                             "text": "أقود فريقًا من 10 مهندسين لتقديم أنظمة ويب وجوال عالية التوافر تسهم بأكثر من 1.2 مليون دولار من الإيرادات السنوية.",
                             "list": [
@@ -147,6 +148,7 @@
                 {
                     "id": 2,
                     "faIcon": "fa-solid fa-gears",
+                    "institutionHref": "https://webappclouds.com",
                     "dateStart": {
                         "year": 2019,
                         "month": 12
@@ -178,7 +180,7 @@
                         },
                         "te": {
                             "title": "{{టీమ్ లీడ్}}",
-                            "institution": "Appcloud Software Solutions",
+                            "institution": "Appcloud సాఫ్ట్‌వేర్ సొల్యూషన్స్",
                             "country": "హైదరాబాద్, భారతదేశం",
                             "text": "ఎంటర్‌ప్రైజ్ స్థాయిలో విస్తరించేలా పాత ప్లాట్‌ఫారమ్‌లను ఆధునీకరించి, అప్లికేషన్ పనితీరు మరియు విశ్వసనీయతను మెరుగుపరిచాను.",
                             "list": [
@@ -189,7 +191,7 @@
                         },
                         "zh": {
                             "title": "{{团队负责人}}",
-                            "institution": "Appcloud Software Solutions",
+                            "institution": "Appcloud 软件解决方案",
                             "country": "印度海得拉巴",
                             "text": "对旧平台进行现代化改造，以支持企业级扩展，并提升应用性能和可靠性。",
                             "list": [
@@ -200,7 +202,7 @@
                         },
                         "hi": {
                             "title": "{{टीम लीड}}",
-                            "institution": "Appcloud Software Solutions",
+                            "institution": "ऐपक्लाउड सॉफ़्टवेयर सॉल्यूशंस",
                             "country": "हैदराबाद, भारत",
                             "text": "एंटरप्राइज़ स्तर पर विस्तार के लिए पुराने प्लेटफ़ॉर्म आधुनिक किए और ऐप के प्रदर्शन तथा विश्वसनीयता में सुधार किया।",
                             "list": [
@@ -211,7 +213,7 @@
                         },
                         "es": {
                             "title": "{{Líder de equipo}}",
-                            "institution": "Appcloud Software Solutions",
+                            "institution": "Soluciones de software Appcloud",
                             "country": "Hyderabad, India",
                             "text": "Modernicé plataformas heredadas para permitir su escalabilidad empresarial y mejorar el rendimiento y la fiabilidad de las aplicaciones.",
                             "list": [
@@ -222,7 +224,7 @@
                         },
                         "ar": {
                             "title": "{{قائد فريق}}",
-                            "institution": "Appcloud Software Solutions",
+                            "institution": "حلول برمجيات Appcloud",
                             "country": "حيدر آباد، الهند",
                             "text": "حدّثت المنصات القديمة لدعم التوسع المؤسسي وتحسين أداء التطبيقات وموثوقيتها.",
                             "list": [
@@ -236,6 +238,7 @@
                 {
                     "id": 3,
                     "faIcon": "fa-solid fa-train",
+                    "institutionHref": "https://www.cognizant.com",
                     "dateStart": {
                         "year": 2018,
                         "month": 12
@@ -267,7 +270,7 @@
                         },
                         "te": {
                             "title": "{{సీనియర్ అసోసియేట్}}",
-                            "institution": "Cognizant",
+                            "institution": "కాగ్నిజెంట్",
                             "country": "హైదరాబాద్, భారతదేశం",
                             "text": "రైల్వే లాజిస్టిక్స్ కోసం విస్తరించగల REST APIలతో సహా Node.js, Angular ఫుల్-స్టాక్ వ్యవస్థలను నిర్మించాను.",
                             "list": [
@@ -279,7 +282,7 @@
                         },
                         "zh": {
                             "title": "{{高级助理}}",
-                            "institution": "Cognizant",
+                            "institution": "认知",
                             "country": "印度海得拉巴",
                             "text": "构建 Node.js 和 Angular 全栈系统，包括面向铁路物流的可扩展 REST API。",
                             "list": [
@@ -291,7 +294,7 @@
                         },
                         "hi": {
                             "title": "{{सीनियर एसोसिएट}}",
-                            "institution": "Cognizant",
+                            "institution": "कॉग्निजेंट",
                             "country": "हैदराबाद, भारत",
                             "text": "रेलवे लॉजिस्टिक्स के लिए विस्तार योग्य REST API सहित Node.js और Angular फुल-स्टैक सिस्टम बनाए।",
                             "list": [
@@ -303,7 +306,7 @@
                         },
                         "es": {
                             "title": "{{Asociado sénior}}",
-                            "institution": "Cognizant",
+                            "institution": "Competente",
                             "country": "Hyderabad, India",
                             "text": "Desarrollé sistemas full-stack con Node.js y Angular, incluidas API REST escalables para logística ferroviaria.",
                             "list": [
@@ -315,7 +318,7 @@
                         },
                         "ar": {
                             "title": "{{مساعد أول}}",
-                            "institution": "Cognizant",
+                            "institution": "كوجنيزانت",
                             "country": "حيدر آباد، الهند",
                             "text": "أنشأت أنظمة متكاملة باستخدام Node.js وAngular، بما فيها واجهات REST API قابلة للتوسع لخدمات السكك الحديدية.",
                             "list": [
@@ -330,6 +333,7 @@
                 {
                     "id": 4,
                     "faIcon": "fa-solid fa-laptop-code",
+                    "institutionHref": "https://webappclouds.com",
                     "dateStart": {
                         "year": 2018,
                         "month": 1
@@ -359,7 +363,7 @@
                         },
                         "te": {
                             "title": "{{సీనియర్ సాఫ్ట్‌వేర్ ఇంజినీర్}}",
-                            "institution": "Appcloud Software Solutions",
+                            "institution": "Appcloud సాఫ్ట్‌వేర్ సొల్యూషన్స్",
                             "country": "హైదరాబాద్, భారతదేశం",
                             "text": "కఠినమైన గడువుల్లో నాణ్యమైన విడుదలలను నిర్ధారిస్తూ 10 మంది సభ్యుల బృందం సాంకేతిక పనుల అమలును నిర్వహించాను.",
                             "list": [
@@ -369,7 +373,7 @@
                         },
                         "zh": {
                             "title": "{{高级软件工程师}}",
-                            "institution": "Appcloud Software Solutions",
+                            "institution": "Appcloud 软件解决方案",
                             "country": "印度海得拉巴",
                             "text": "管理 10 人团队的技术交付，确保在紧迫期限内发布高质量版本。",
                             "list": [
@@ -379,7 +383,7 @@
                         },
                         "hi": {
                             "title": "{{सीनियर सॉफ्टवेयर इंजीनियर}}",
-                            "institution": "Appcloud Software Solutions",
+                            "institution": "ऐपक्लाउड सॉफ़्टवेयर सॉल्यूशंस",
                             "country": "हैदराबाद, भारत",
                             "text": "कड़ी समय-सीमा में उच्च गुणवत्ता वाली रिलीज़ सुनिश्चित करते हुए 10 सदस्यों की टीम की तकनीकी डिलीवरी संभाली।",
                             "list": [
@@ -389,7 +393,7 @@
                         },
                         "es": {
                             "title": "{{Ingeniero de software sénior}}",
-                            "institution": "Appcloud Software Solutions",
+                            "institution": "Soluciones de software Appcloud",
                             "country": "Hyderabad, India",
                             "text": "Gestioné la entrega técnica de un equipo de 10 personas y aseguré lanzamientos de calidad dentro de plazos exigentes.",
                             "list": [
@@ -399,7 +403,7 @@
                         },
                         "ar": {
                             "title": "{{مهندس برمجيات أول}}",
-                            "institution": "Appcloud Software Solutions",
+                            "institution": "حلول برمجيات Appcloud",
                             "country": "حيدر آباد، الهند",
                             "text": "أدرت التسليم التقني لفريق من 10 أعضاء مع ضمان إصدارات عالية الجودة ضمن جداول زمنية ضيقة.",
                             "list": [
@@ -412,6 +416,7 @@
                 {
                     "id": 5,
                     "faIcon": "fa-solid fa-code",
+                    "institutionHref": "https://vedicsys.com",
                     "dateStart": {
                         "year": 2013,
                         "month": 3
@@ -442,7 +447,7 @@
                         },
                         "te": {
                             "title": "{{అసోసియేట్ కన్సల్టెంట్}}",
-                            "institution": "Vedic Systems",
+                            "institution": "వేదిక్ సిస్టమ్స్",
                             "country": "హైదరాబాద్, భారతదేశం",
                             "text": "Java, Spring MVC అప్లికేషన్లను అభివృద్ధి చేసి, సిస్టమ్ పనితీరు మరియు డెలివరీ విధానాలను మెరుగుపరచడంలో సహకరించాను.",
                             "list": [
@@ -453,7 +458,7 @@
                         },
                         "zh": {
                             "title": "{{助理顾问}}",
-                            "institution": "Vedic Systems",
+                            "institution": "维迪克系统",
                             "country": "印度海得拉巴",
                             "text": "开发 Java 和 Spring MVC 应用，并协助提升系统性能与交付实践。",
                             "list": [
@@ -464,7 +469,7 @@
                         },
                         "hi": {
                             "title": "{{एसोसिएट कंसल्टेंट}}",
-                            "institution": "Vedic Systems",
+                            "institution": "वेदिक सिस्टम्स",
                             "country": "हैदराबाद, भारत",
                             "text": "Java और Spring MVC ऐप विकसित किए तथा सिस्टम प्रदर्शन और डिलीवरी प्रक्रियाएँ बेहतर बनाने में योगदान दिया।",
                             "list": [
@@ -486,7 +491,7 @@
                         },
                         "ar": {
                             "title": "{{استشاري مشارك}}",
-                            "institution": "Vedic Systems",
+                            "institution": "فيديك سيستمز",
                             "country": "حيدر آباد، الهند",
                             "text": "طورت تطبيقات Java وSpring MVC وساهمت في تحسين أداء الأنظمة وممارسات التسليم.",
                             "list": [

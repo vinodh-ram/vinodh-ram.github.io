@@ -183,22 +183,28 @@
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": {
-                            "title": "LinkedIn"
+                            "title": "LinkedIn",
+                            "label": "LinkedIn"
                         },
                         "zh": {
-                            "title": "LinkedIn"
+                            "title": "领英",
+                            "label": "领英"
                         },
                         "hi": {
-                            "title": "LinkedIn"
+                            "title": "लिंक्डइन",
+                            "label": "लिंक्डइन"
                         },
                         "es": {
-                            "title": "LinkedIn"
+                            "title": "LinkedIn",
+                            "label": "LinkedIn"
                         },
                         "ar": {
-                            "title": "LinkedIn"
+                            "title": "لينكدإن",
+                            "label": "لينكدإن"
                         },
                         "te": {
-                            "title": "LinkedIn"
+                            "title": "లింక్డ్‌ఇన్",
+                            "label": "లింక్డ్‌ఇన్"
                         }
                     }
                 },
@@ -213,22 +219,28 @@
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": {
-                            "title": "GitHub"
+                            "title": "GitHub",
+                            "label": "GitHub"
                         },
                         "zh": {
-                            "title": "GitHub"
+                            "title": "吉特哈布",
+                            "label": "吉特哈布"
                         },
                         "hi": {
-                            "title": "GitHub"
+                            "title": "गिटहब",
+                            "label": "गिटहब"
                         },
                         "es": {
-                            "title": "GitHub"
+                            "title": "GitHub",
+                            "label": "GitHub"
                         },
                         "ar": {
-                            "title": "GitHub"
+                            "title": "غيت هب",
+                            "label": "غيت هب"
                         },
                         "te": {
-                            "title": "GitHub"
+                            "title": "గిట్‌హబ్",
+                            "label": "గిట్‌హబ్"
                         }
                     }
                 },
@@ -243,22 +255,28 @@
                     "copyToClipboardButton": false,
                     "locales": {
                         "en": {
-                            "title": "WhatsApp"
+                            "title": "WhatsApp",
+                            "label": "WhatsApp"
                         },
                         "zh": {
-                            "title": "WhatsApp"
+                            "title": "瓦次艾普",
+                            "label": "瓦次艾普"
                         },
                         "hi": {
-                            "title": "WhatsApp"
+                            "title": "व्हाट्सऐप",
+                            "label": "व्हाट्सऐप"
                         },
                         "es": {
-                            "title": "WhatsApp"
+                            "title": "WhatsApp",
+                            "label": "WhatsApp"
                         },
                         "ar": {
-                            "title": "WhatsApp"
+                            "title": "واتساب",
+                            "label": "واتساب"
                         },
                         "te": {
-                            "title": "WhatsApp"
+                            "title": "వాట్సాప్",
+                            "label": "వాట్సాప్"
                         }
                     }
                 }
