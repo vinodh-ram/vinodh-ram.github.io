@@ -144,108 +144,6 @@
                 },
                 {
                     "id": 2,
-                    "faIcon": "fa-solid fa-envelope",
-                    "label": "mr.vinodhram@gmail.com",
-                    "link": {
-                        "href": "mailto:mr.vinodhram@gmail.com",
-                        "tooltipString": "email_me"
-                    },
-                    "copyToClipboardButton": true,
-                    "locales": {
-                        "en": {
-                            "title": "E-mail"
-                        },
-                        "zh": {
-                            "title": "电子邮件"
-                        },
-                        "hi": {
-                            "title": "ईमेल"
-                        },
-                        "es": {
-                            "title": "Correo electrónico"
-                        },
-                        "ar": {
-                            "title": "البريد الإلكتروني"
-                        },
-                        "te": {
-                            "title": "ఇమెయిల్"
-                        }
-                    }
-                },
-                {
-                    "id": 3,
-                    "faIcon": "fa-brands fa-linkedin",
-                    "label": "linkedin.com/in/vinodh-ram-molli",
-                    "link": {
-                        "href": "https://linkedin.com/in/vinodh-ram-molli",
-                        "tooltipString": "open_website"
-                    },
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": {
-                            "title": "LinkedIn",
-                            "label": "LinkedIn"
-                        },
-                        "zh": {
-                            "title": "领英",
-                            "label": "领英"
-                        },
-                        "hi": {
-                            "title": "लिंक्डइन",
-                            "label": "लिंक्डइन"
-                        },
-                        "es": {
-                            "title": "LinkedIn",
-                            "label": "LinkedIn"
-                        },
-                        "ar": {
-                            "title": "لينكدإن",
-                            "label": "لينكدإن"
-                        },
-                        "te": {
-                            "title": "లింక్డ్‌ఇన్",
-                            "label": "లింక్డ్‌ఇన్"
-                        }
-                    }
-                },
-                {
-                    "id": 4,
-                    "faIcon": "fa-brands fa-github",
-                    "label": "github.com/vinodh-ram",
-                    "link": {
-                        "href": "https://github.com/vinodh-ram",
-                        "tooltipString": "open_website"
-                    },
-                    "copyToClipboardButton": false,
-                    "locales": {
-                        "en": {
-                            "title": "GitHub",
-                            "label": "GitHub"
-                        },
-                        "zh": {
-                            "title": "吉特哈布",
-                            "label": "吉特哈布"
-                        },
-                        "hi": {
-                            "title": "गिटहब",
-                            "label": "गिटहब"
-                        },
-                        "es": {
-                            "title": "GitHub",
-                            "label": "GitHub"
-                        },
-                        "ar": {
-                            "title": "غيت هب",
-                            "label": "غيت هب"
-                        },
-                        "te": {
-                            "title": "గిట్‌హబ్",
-                            "label": "గిట్‌హబ్"
-                        }
-                    }
-                },
-                {
-                    "id": 5,
                     "faIcon": "fa-brands fa-whatsapp",
                     "label": "+91-9985279993",
                     "link": {
@@ -277,6 +175,72 @@
                         "te": {
                             "title": "వాట్సాప్",
                             "label": "వాట్సాప్"
+                        }
+                    }
+                },
+                {
+                    "id": 3,
+                    "faIcon": "fa-solid fa-envelope",
+                    "label": "mr.vinodhram@gmail.com",
+                    "link": {
+                        "href": "mailto:mr.vinodhram@gmail.com",
+                        "tooltipString": "email_me"
+                    },
+                    "copyToClipboardButton": true,
+                    "locales": {
+                        "en": {
+                            "title": "E-mail"
+                        },
+                        "zh": {
+                            "title": "电子邮件"
+                        },
+                        "hi": {
+                            "title": "ईमेल"
+                        },
+                        "es": {
+                            "title": "Correo electrónico"
+                        },
+                        "ar": {
+                            "title": "البريد الإلكتروني"
+                        },
+                        "te": {
+                            "title": "ఇమెయిల్"
+                        }
+                    }
+                },
+                {
+                    "id": 4,
+                    "faIcon": "fa-brands fa-linkedin",
+                    "label": "linkedin.com/in/vinodh-ram-molli",
+                    "link": {
+                        "href": "https://linkedin.com/in/vinodh-ram-molli",
+                        "tooltipString": "open_website"
+                    },
+                    "copyToClipboardButton": false,
+                    "locales": {
+                        "en": {
+                            "title": "LinkedIn",
+                            "label": "LinkedIn"
+                        },
+                        "zh": {
+                            "title": "领英",
+                            "label": "领英"
+                        },
+                        "hi": {
+                            "title": "लिंक्डइन",
+                            "label": "लिंक्डइन"
+                        },
+                        "es": {
+                            "title": "LinkedIn",
+                            "label": "LinkedIn"
+                        },
+                        "ar": {
+                            "title": "لينكدإن",
+                            "label": "لينكدإن"
+                        },
+                        "te": {
+                            "title": "లింక్డ్‌ఇన్",
+                            "label": "లింక్డ్‌ఇన్"
                         }
                     }
                 }

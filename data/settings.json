@@ -139,19 +139,13 @@
                 "description": "This project is a customized version of React Portfolio Template originally developed by Vinodh Ram."
             },
             {
-                "description": "Original Repo:",
-                "list": [
-                    "https://github.com/vinodh-ram"
-                ]
-            },
-            {
                 "description": "Portfolio owner: Vinodh Ram"
             },
             {
                 "description": "Developer Info:",
                 "list": [
-                    "GitHub: https://github.com/vinodh-ram",
-                    "Website: https://vinodhram.com"
+                    "Website:  https://vinodhram.com",
+                    "LinkedIn: https://linkedin.com/in/vinodh-ram-molli"
                 ],
                 "listStyle": "bulleted"
             }
